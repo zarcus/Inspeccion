@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<niveles1>
+  <item>
+    <id>1238</id>
+    <desc>010 Manteniment de la via pública</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1297</id>
+    <desc>020 Infraestructures i Logística</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1330</id>
+    <desc>030 Neteja</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1370</id>
+    <desc>040 Residus</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>921</id>
+    <desc>050 Parcs i jardins</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1032</id>
+    <desc>060 Edificis municipals</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1139</id>
+    <desc>070 Mobilitat i Transport</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1126</id>
+    <desc>080 Inspecció de via pública</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1201</id>
+    <desc>090 Administració de via pública</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1209</id>
+    <desc>100 Altres</desc>
+    <idPadre>-1</idPadre>
+  </item>
+  <item>
+    <id>1206</id>
+    <desc>Plànols i estadística</desc>
+    <idPadre>-1</idPadre>
+  </item>
+</niveles1>

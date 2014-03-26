@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<niveles2>
+  <item_921>
+    <id>923</id>
+    <desc>01 Manteniment Plantacions</desc>
+  </item_921>
+  <item_921>
+    <id>1190</id>
+    <desc>02 Manteniment altres elements de P i J</desc>
+  </item_921>
+  <item_921>
+    <id>924</id>
+    <desc>04 requeriments </desc>
+  </item_921>
+  <item_921>
+    <id>926</id>
+    <desc>09 Altres parcs i jardins</desc>
+  </item_921>
+  <item_921>
+    <id>1316</id>
+    <desc>03 Propostes de millora</desc>
+  </item_921>
+  <item_1032>
+    <id>1057</id>
+    <desc>09 Altres edificis municipals</desc>
+  </item_1032>
+  <item_1032>
+    <id>1033</id>
+    <desc>01 Manteniment instal·lacions</desc>
+  </item_1032>
+  <item_1032>
+    <id>1261</id>
+    <desc>02 Manteniment edifici</desc>
+  </item_1032>
+  <item_1032>
+    <id>1260</id>
+    <desc>03 Manteniment patis </desc>
+  </item_1032>
+  <item_1032>
+    <id>1059</id>
+    <desc>05 Neteja edificis municipals</desc>
+  </item_1032>
+  <item_1032>
+    <id>1076</id>
+    <desc>07 Projectes i requeriments</desc>
+  </item_1032>
+  <item_1126>
+    <id>1127</id>
+    <desc>Ocupació via pública</desc>
+  </item_1126>
+  <item_1126>
+    <id>1128</id>
+    <desc>Entrada vehicles</desc>
+  </item_1126>
+  <item_1126>
+    <id>1130</id>
+    <desc>Primera ocupació</desc>
+  </item_1126>
+  <item_1126>
+    <id>1469</id>
+    <desc>Tasques dirigides</desc>
+  </item_1126>
+  <item_1139>
+    <id>1155</id>
+    <desc>10 Propostes de circulació</desc>
+  </item_1139>
+  <item_1139>
+    <id>1412</id>
+    <desc>20 Propostes de senyalització</desc>
+  </item_1139>
+  <item_1139>
+    <id>1413</id>
+    <desc>30 Propostes d'aparcament</desc>
+  </item_1139>
+  <item_1139>
+    <id>1414</id>
+    <desc>40 Transport</desc>
+  </item_1139>
+  <item_1201>
+    <id>1202</id>
+    <desc>Administració de via pública</desc>
+  </item_1201>
+  <item_1206>
+    <id>1207</id>
+    <desc>Plànols i estadística</desc>
+  </item_1206>
+  <item_1209>
+    <id>1210</id>
+    <desc>Altres</desc>
+  </item_1209>
+  <item_1238>
+    <id>1287</id>
+    <desc>010 Aparcaments</desc>
+  </item_1238>
+  <item_1238>
+    <id>1288</id>
+    <desc>020 Calçada</desc>
+  </item_1238>
+  <item_1238>
+    <id>1289</id>
+    <desc>030 Clavegueram</desc>
+  </item_1238>
+  <item_1238>
+    <id>1239</id>
+    <desc>050 Enllumenat públic</desc>
+  </item_1238>
+  <item_1238>
+    <id>1448</id>
+    <desc>055 Empreses de Serveis</desc>
+  </item_1238>
+  <item_1238>
+    <id>1240</id>
+    <desc>060 Jocs infantils i esportius</desc>
+  </item_1238>
+  <item_1238>
+    <id>1291</id>
+    <desc>070 Mobiliari urbà</desc>
+  </item_1238>
+  <item_1238>
+    <id>1292</id>
+    <desc>080 Pilones</desc>
+  </item_1238>
+  <item_1238>
+    <id>1293</id>
+    <desc>090 Reductors de velocitat</desc>
+  </item_1238>
+  <item_1238>
+    <id>1294</id>
+    <desc>100 Semaforia</desc>
+  </item_1238>
+  <item_1238>
+    <id>1296</id>
+    <desc>110 Senyalització</desc>
+  </item_1238>
+  <item_1238>
+    <id>1295</id>
+    <desc>120 Vorera</desc>
+  </item_1238>
+  <item_1238>
+    <id>1286</id>
+    <desc>130 Altres i Agraïments</desc>
+  </item_1238>
+  <item_1297>
+    <id>1298</id>
+    <desc>10 Sol·licitud d'infraestructures</desc>
+  </item_1297>
+  <item_1297>
+    <id>1299</id>
+    <desc>20 Sol·licitud de transport</desc>
+  </item_1297>
+  <item_1297>
+    <id>1300</id>
+    <desc>30 Altres sol·licituds</desc>
+  </item_1297>
+  <item_1330>
+    <id>1331</id>
+    <desc>Neteja de carrers</desc>
+  </item_1330>
+  <item_1330>
+    <id>1332</id>
+    <desc>Neteja de jardins</desc>
+  </item_1330>
+  <item_1366>
+    <id>1367</id>
+    <desc>Nou ITEM...(sense descripció)</desc>
+  </item_1366>
+  <item_1370>
+    <id>1371</id>
+    <desc>01 Recollida</desc>
+  </item_1370>
+  <item_1370>
+    <id>1372</id>
+    <desc>02 Contenidors</desc>
+  </item_1370>
+  <item_1370>
+    <id>1374</id>
+    <desc>03 Altres</desc>
+  </item_1370>
+</niveles2>

@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nova Incidència/Sanció</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width; initial-scale=1" />
+
+    <!-- !CSS -->
+    <link href="../css/jquery.mobile-1.3.1.min.css" rel="stylesheet" type="text/css" />
+    <link href="../css/jquery.mobile.datebox-1.0.1.min.css" rel="stylesheet" type="text/css" />
+    <link href="../css/index.css" rel="stylesheet" type="text/css" />
+    <link href="../css/themes/AjParets/Tema_AjParets.min.css" rel="stylesheet" />
+
+    <script src="../js/jquery-1.9.0.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.json-2.2.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.mobile-1.3.1.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.mobile.datebox-1.0.1.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.ba-dotimeout.min.js" type="text/javascript"></script>
+
+    <!-- Negocio -->
+    <script src="../negocio/index.js" type="text/javascript"></script>
+    <script src="../negocio/negoci.js" type="text/javascript"></script>
+    <script src="../negocio/tablas.js" type="text/javascript"></script>
+    <script src="../negocio/utilitats.js" type="text/javascript"></script>
+    <script src="../negocio/pageNuevaIncidencia.js" type="text/javascript"></script>
+    <script src="../negocio/baseDades.js" type="text/javascript"></script>
+    <script src="../negocio/webService.js" type="text/javascript"></script>
+
+    <!--hgs provant per la camara
+    <script type="text/javascript" charset="utf-8" src="quantize.js"></script>
+    <script type="text/javascript" charset="utf-8" src="color-thief.js"></script>-->
+
+    <!--hgs prova imatges
+    <style>
+        #yourimage {
+            width:100%;
+        }
+
+        #swatches {
+            width: 100%;
+            height: 50px;
+        }
+
+        .swatch {
+            width:18%;
+            height: 50px;
+            border-style:solid;
+            border-width:thin;
+            float: left;
+            margin-right: 3px;
+        }
+    </style>-->
+
+
+</head>
+<body>
+<!-- Pantalla de Alta -->
+<div data-role="page" id="pageNuevaIncidencia">
+<div data-role="header" data-mini="false" data-theme="d">
+    <a href="MenuPpal.html" data-icon="back" data-direction="reverse" data-iconpos="notext" data-theme="b"></a>
+    <h3>Nova Incidència/Sanció</h3>
+    <label id="labelMensajeCargandoAlta" data-theme="d" style="font-size: small; font-weight: lighter; color: White"></label>
+</div>
+<div data-role="content" data-mini="false" style="padding:2px 2px 2px 2px;">
+        <div data-theme="b" data-role="collapsible-set" style="background-color: Silver">
+            <!--Localització    -->
+            <div data-role="collapsible" data-mini="false" id="divLocalizacion"  data-collapsed="false">
+                <h3><table style="width:100%;"><tr><td>Localització</td><td style="text-align:right;"><label id="labelDireccion" style="font-size:x-small;"></label></td></tr></table></h3>
+                <div chacerfotolass="ui-bar-c ui-corner-all ui-shadow" style="padding:1em;">
+                    <table style="width: 100%;">
+                        <tr>
+                            <td>
+                                <select name="selectLletraIniCARRER" data-native-menu="true" id="selectLletraIniCARRER" data-inline="true" data-mini="false" data-theme="c"></select>
+                            </td>
+                            <!-- <td><label for="selectCARRER">(inici nom de la via)</label></td>-->
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <select name="selectCARRER" data-native-menu="true" id="selectCARRER" data-inline="true" data-mini="false" data-theme="c"></select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <!--<td> <label for="inputNUM">en el num.</label> </td>-->
+                            <td>
+                                <input type="text" maxlength="5" placeholder="numero" name="inputNUM" data-inline="true" id="inputNUM"  data-mini="false" data-theme="c" data-placeholder="numero" />
+                            </td>
+                            <td>
+                                <!-- data-icon="arrow-d" i hem tret el texte de actualitzar. 170214 afegit onclick, pel refresh-->
+                                <a href="#" data-rel="popup" data-role="button" data-transition="pop" data-icon="refresh" data-iconpos="notext" data-inline="true" data-mini="true" onclick="actualizaDireccion();"></a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div id='divMensajeMapa'><label>la localització sobre plànol no ha estat possible</label></div>
+                <!-- <div id="divContieneMapa" class="ui-bar-c ui-corner-all ui-shadow"  style="height:300px;padding:1em;"> -->
+                <div class="ui-bar-c ui-corner-all ui-shadow" style="padding:1em;">
+                    <div id="divMapaAlta" style="height:300px;"></div>
+                    <!-- </div> -->
+                </div>
+            </div>
+
+            <!--Tipus d'incidència -->
+            <div data-role="collapsible" data-collapsed="true" id="tipusComunicat" data-mini="false">
+                <h3>
+                    <div class="ui-grid-a" data-mini="false">
+                        <div class="ui-block-a" data-mini="false">Tipus d'incidència</div>
+                        <div class="ui-block-b" data-position="right" data-mini="false">
+                            <label id="labelTipoIncInformado" style='width:15%; text-align:right; font-size:x-small; vertical-align:middle; color:Black;'></label>
+                        </div>
+                    </div>
+                </h3>
+
+                <div>
+                    <table style="width:100%;" border="0" cellspacing="1" cellpadding="1"
+                           align="center">
+                        <tr>
+                            <td style="width:10%;" data-mini="false">&agrave;mbit</td>
+                            <td style="width:90%;" data-mini="false"><select name="selectAMBIT" id="selectAMBIT" data-mini="false" data-theme="d"></select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width:10%;" data-mini="false">element</td>
+                            <td style="width:90%;" data-mini="false"><select name="selectELEMENT" id="selectELEMENT" data-mini="false" data-theme="d"></select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width:10%;" data-mini="false">item</td>
+                            <td style="width:90%;" data-mini="false"><select name="selectITEM" id="selectITEM" data-mini="false" data-theme="d"></select>
+                            </td>
+                        </tr>
+                    </table>
+                    <div>
+                        <ul data-role="listview" data-divider-theme="a" data-inset="true" data-mini="false">
+                            <li id="liMesInfoAtributs" data-role="list-divider" role="heading" data-theme="b" data-mini="false">mes informació de la incidència</li>
+                            <ul data-role="listview" id="listviewAtributs" data-filter="false" data-inset="true" data-mini="false" data-theme="d" data-divider-theme="b">
+                            </ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!--Fotos, video i so -->
+                    <!-- <div data-role="collapsible" data-collapsed="true" id="divFOTOS" data-mini="false">
+                <h3>
+                    <div class="ui-grid-a" data-mini="false">
+                        <div class="ui-block-a" data-mini="false">Foto</div>
+                        <div class="ui-block-b" data-position="right" data-mini="false">
+                            <label id="labelFotosInformadas" style='width:15%; text-align:right; font-size:x-small; vertical-align:middle; color:Black;'></label>
+                        </div>
+                    </div>
+                </h3>
+
+                <div data-role="collapsible-set">
+                    <!-- F O T O
+                    <div data-role="collapsible" data-mini="false" id="collapsibleFoto">
+                        <h3><table style="width:100%;"><tr><td style="text-align:left; width:100%;">Prova fotogràfica</td>
+                            <td style="text-align:right;">
+                                <img id="imgCamara" src="../images/ico_camara.png" onclick="hacerFoto('CAMARA');" />
+                            </td>
+                            <td></td><td></td>
+                            <td style="text-align:right;">
+                                <img id="imgCarpeta" src="../images/ico_carpeta.png" onclick="hacerFoto('GALERIA');" />
+                            </td>
+                        </tr></table>
+                        </h3>
+                       <div data-mini="false">
+                           <!--  <ul data-role="listview" data-divider-theme="a" data-inset="true">
+                                    <li data-theme="b">
+                                        <div style="overflow-x:scroll; -webkit-overflow-scrolling:touch;" class="classPhoto">
+                                            <a href="#" data-rel="popup" data-position-to="window" data-transition="fade">
+                                                <img id="imgPhotoAlta" src="Fotos/Koala.jpg" alt="Koala" style="width:30%">
+                                            </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                         <table style="width: 100%;">
+                            <tr>
+                                <a href="#pageEliminarFoto" id="buttonEliminarFoto" data-rel="popup" data-position-to="window" data-role="button" data-inline="true" data-transition="pop" data-theme="c" data-mini="false" data-icon="delete">el·liminar totes</a>
+                            </tr>
+                            <tr>
+                                <td rowspan='2' style="text-align: right;">
+                                    <img id="imgFoto" src="" width="150px" border='1' onclick="abrirPagina('pageZoomFoto', false);" />
+                                </td>
+                            </tr>
+                         </table>
+                       </div>
+                    </div>
+                    </div>
+                    <!-- VIDEO -->
+                    <!-- <div data-role="collapsible" data-mini="false" id="collapsibleVideo">
+                        <h3><table style="width:100%;"><tr><td style="width:50%;">Video</td><td style="width:25%;">
+                            <!-- <a href="#" id="buttonVideo" onclick="hacerVideo('CAMARA')" data-mini="false" data-inline="true" data-role="button" data-theme="b">
+                                <img  id="buttonVideo" onclick="hacerVideo('CAMARA')" src="../images/ico_video.png"/> </td>
+                            <!-- </a>
+                            <!-- <a href="#" id="buttonCarpetaVideo" onclick="hacerVideo('CARPETA')" data-mini="false" data-inline="true" data-role="button" data-theme="b">
+                            <td style="width:25%;">
+                            <img id="buttonCarpetaVideo" onclick="hacerVideo('CARPETA')" src="../images/ico_carpeta.png"/>
+                            <!-- </a>
+                            </td></tr></table>
+                        </h3>
+
+                        <table style="width:100%;"><tr>
+                            <td style="text-align:left; width:100%;">
+                                veure el video <img id="imgVideo" src="../images/ico_play.png" onclick="zoomVideoAlta();" />
+                            </td>
+                            <td style="text-align:right;">
+                                <a href="#pageEliminarVideo" id="buttonEliminarVideo" onclick="eliminarVideo();" data-role="button" data-inline="true" data-theme="c" data-mini="false" data-icon="delete">el·liminar</a>
+                            </td>
+                        </tr></table>
+                    </div> -->
+                    <!-- SO -->
+                    <!-- <div data-role="collapsible" data-mini="false" id="collapsibleSo">
+                        <h3><table style="width:100%;"><tr><td style="width:50%;">So</td><td style="width:25%;">
+                            <!-- <a href="#" id="buttonSo" onclick="hacerSonido('MICRO')" data-mini="false" data-inline="true" data-role="button" data-theme="b">
+                                <img id="buttonSo" onclick="hacerSonido('MICRO')" src="../images/ico_sonido.png"/> </td>
+                            <!-- </a>
+                            <!-- <a href="#" id="buttonCarpetaSonido" onclick="hacerSonido('CARPETA')" data-mini="false" data-inline="true" data-role="button" data-theme="b">
+                                <td style="width:25%;">
+                                <img id="buttonCarpetaSonido" onclick="hacerSonido('CARPETA')" src="../images/ico_carpeta.png"/>
+                            <!-- </a>
+                            </td></tr></table>
+                        </h3>
+
+                        <table style="width:100%;"><tr>
+                            <td style="text-align:left; width:100%;">
+                                escoltar el so <img id="imgSonido" src="../images/ico_play.png" onclick="zoomSonidoAlta();" />
+                            </td>
+                            <td style="text-align:right;">
+                                <a href="#pageEliminarSonido" id="buttonEliminarSonido" onclick="eliminarSonido();" data-role="button" data-inline="true" data-theme="c" data-mini="false" data-icon="delete">el·liminar</a>
+                            </td>
+                        </tr></table>
+                    </div>
+            </div> -->
+
+            <div data-role="collapsible" data-mini="false" id="divFoto"  data-collapsed="true">
+                <h3><table style="width:100%;"><tr><td style="text-align:left; width:100%;">Prova fotogràfica</td>
+                    <td style="text-align:right;">
+                        <!-- <a href="#" id="buttonCamara" onclick="hacerFoto()"  data-mini="false" data-inline="true" data-role="button" data-theme="b" data-icon="false">càmara</a> -->
+                        <img id="imgCamara" src="../images/ico_camara.png" onclick="hacerFoto('CAMARA');" />
+                    </td>
+                    <td></td><td></td>
+                    <td style="text-align:right;">
+                        <img id="imgCarpeta" src="../images/ico_carpeta.png" onclick="hacerFoto('GALERIA');" />
+                    </td>
+                </tr></table>
+                </h3>
+                <div>
+                    <table style="width: 100%;">
+                        <tr>
+                            <td rowspan='2' style="text-align: right;">
+                                <img id="imgFoto" src="" width="100%" height="auto" border='1' onclick="abrirPagina('pageZoomFoto', false);" />
+                            </td>
+                            <td style="text-align: left; vertical-align: top">
+                                <a href="#pageEliminarFoto" id="buttonEliminarFoto" data-rel="popup" data-position-to="window" data-role="button" data-inline="true" data-transition="pop" data-theme="c" data-mini="true">no adjuntar</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="text-align: left; vertical-align: bottom;"><label>(capturant foto s'actualitza l'adreça)</label></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <!--Observacions   -->
+            <div data-role="collapsible" data-collapsed="true" id="divObservacions"  data-mini="false">
+                <h3>
+                    <div class="ui-grid-a" data-mini="false">
+                        <div class="ui-block-a">Observacions</div>
+                        <div class="ui-block-b" data-position="right">
+                            <label id="labelObservacionesInformadas" style='width:15%; text-align:right; font-size:x-small; vertical-align:middle; color:Black;'></label>
+                        </div>
+                    </div>
+                </h3>
+                <div data-mini="false">
+                    <textarea id='textareaObservaciones' rows='4' cols='*' style="height:100%; overflow:scroll;" placeholder="observació complementària ..." data-clear-btn="true"></textarea>
+                </div>
+            </div>
+
+            </div>
+
+
+        </div>
+
+        <!-- E N V I A R ------------------------------------------------------------------------------ -->
+        <div style="text-align:right;">
+            <a href="#" id="buttonEnviar" onclick="enviarIncidencia()" data-mini="false" data-inline="true" data-role="button" data-theme="b" data-icon="grid">ENVIAR COMUNICAT</a>
+        </div>
+</div>
+<div data-role="footer" data-theme="d"></div>
+</div>
+
+<!-- PopUp ELIMINAR foto -->
+<div data-role="popup" id="pageEliminarFoto"  data-theme="c" style="max-width:95%;" class="ui-corner-all" data-mini="false">
+    <div data-role="header" data-theme="a" class="ui-corner-top">
+        <h1 data-mini="false">Eliminar foto</h1>
+    </div>
+    <div data-role="content" data-theme="d" class="ui-corner-bottom ui-content" data-mini="false">
+        <h3 class="ui-title" data-mini="false">Està segur/a que vol el·liminar?</h3>
+<!--        <div data-role="controlgroup" data-type="horizontal" data-mini="false">-->
+            <a href="#pageNuevaIncidencia" data-role="button" data-mini="false" data-inline="true" data-rel="back" data-theme="c">cancel·lar</a>
+            <a href="#pageNuevaIncidencia" data-role="button" data-mini="false" data-inline="true" data-rel="back" data-transition="flow" data-theme="b" onclick="eliminarFoto()">el·liminar</a>
+        <!--</div>-->
+    </div>
+</div>
+
+
+<!--
+
+
+<script>
+    var desiredWidth;
+
+    $(document).ready(function() {
+        console.log('onReady');
+        $("#takePictureField").on("change",gotPic);
+        $("#yourimage").load(getSwatches);
+        desiredWidth = window.innerWidth;
+
+        if(!("url" in window) && ("webkitURL" in window)) {
+            window.URL = window.webkitURL;
+        }
+
+    });
+
+    function getSwatches(){
+        var colorArr = createPalette($("#yourimage"), 5);
+        for (var i = 0; i < Math.min(5, colorArr.length); i++) {
+            $("#swatch"+i).css("background-color","rgb("+colorArr[i][0]+","+colorArr[i][1]+","+colorArr[i][2]+")");
+            console.log($("#swatch"+i).css("background-color"));
+        }
+    }
+
+    //Credit: https://www.youtube.com/watch?v=EPYnGFEcis4&feature=youtube_gdata_player
+    function gotPic(event) {
+        if(event.target.files.length == 1 &&
+                event.target.files[0].type.indexOf("image/") == 0) {
+            $("#yourimage").attr("src",URL.createObjectURL(event.target.files[0]));
+        }
+    }
+
+
+
+</script>
+-->
+
+
+
+</body>
+</html>

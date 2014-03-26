@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Menu principal</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width; initial-scale=1" />
+
+    <!-- !CSS -->
+    <link href="../css/jquery.mobile-1.3.1.min.css" rel="stylesheet" type="text/css" />
+    <link href="../css/jquery.mobile.datebox-1.0.1.min.css" rel="stylesheet" type="text/css" />
+    <link href="../css/index.css" rel="stylesheet" type="text/css" />
+    <link href="../css/themes/AjParets/Tema_AjParets.min.css" rel="stylesheet" />
+
+    <script src="../js/jquery-1.9.0.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.mobile-1.3.1.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.ba-dotimeout.min.js" type="text/javascript"></script>
+    <script src="../js/underscore-min.js" type="text/javascript"></script>
+
+    <!-- Negocio  -->
+    <script src="../negocio/index.js" type="text/javascript"></script>
+    <script src="../negocio/negoci.js" type="text/javascript"></script>
+    <script src="../negocio/tablas.js" type="text/javascript"></script>
+    <script src="../negocio/utilitats.js" type="text/javascript"></script>
+    <script src="../negocio/webService.js" type="text/javascript"></script>
+    <script src="../negocio/pageNuevaIncidencia.js" type="text/javascript"></script>
+    <script src="../negocio/baseDades.js" type="text/javascript"></script>
+
+    <!-- objetos -->
+   <script src="../objetos/atributo.js" type="text/javascript"></script>
+
+    <!-- Mapa -->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true"></script>
+
+</head>
+
+<body>
+<!-- Pantalla de Menu Ppal (Accedir nomes si logat ok)     -->
+<div data-role="page" id="MenuPpal">
+    <div data-role="header" data-theme="d">
+        <h3>CIEP Autoritat</h3>
+        <a href="#Home" data-icon="home" data-iconpos="notext" data-direction="reverse" data-theme="b"></a>
+    </div>
+    <div data-role="content">
+        <br/>
+        <table style="width:100%;">
+            <tr>
+                <td colspan="2">
+                    <a href="" onclick="abrirPagina('pageNuevaIncidencia',true);" data-role="button" data-inline="false" data-theme="b">Nova Incidència</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <!-- rel="external" ??? -->
+                    <a href="" onclick="abrirPagina('pageConsultaIncidencias',true);" data-role="button" data-inline="false" data-theme="b">Modif.Incidències</a>
+                </td>
+                <td>
+                    <!-- rel="external" ??? -->
+                    <a href="" onclick="abrirPagina('pageConsultaSanciones',true);" data-role="button" data-inline="false" data-theme="b">Modif.Sancions</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <a href="" onclick="abrirPagina('pageSelecRecorregut',true);" data-role="button" data-inline="false" data-theme="b">Seleccionar Recorregut</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <a href="" onclick="abrirPagina('pageConfig',true);" data-role="button" data-inline="false" data-theme="b">Configuració</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="" onclick="abrirPagina('pageSincronizacion',true);" data-role="button" data-inline="false" data-theme="b" >Sincronització</a>
+                </td>
+                <td>
+                    <a href="" onclick="abrirPagina('pageSincronizacion',true);" data-role="button" data-inline="false" data-theme="b" >Actualització Mestres</a>
+                </td>
+            </tr>
+        </table>
+        </br>
+    </div>
+    <div data-role="footer" data-theme="b"></div>
+</div>
+
+<script type="text/javascript">
+    $(document).bind('pageinit', function(event){
+
+        var lvAtributs = $('#listviewAtributs');
+        var liMesInfoAtributs =  $('#liMesInfoAtributs');
+
+        function muestraDireccion(){
+            var sSelComboCarrer =  indefinidoOnullToVacio($('#selectCARRER').find(":selected").text());
+            if(sSelComboCarrer != '' && sSelComboCarrer != 'Seleccioni el carrer')
+            {
+                var sTipoVia = sSelComboCarrer.split("(")[1].substr(0, (sSelComboCarrer.split("(")[1].length -1));
+                var sCalle = sSelComboCarrer.split("(")[0];
+                $('#labelLoaclizacionInformada').text( sTipoVia + ' ' + sCalle + ', ' + $('#inputNUM').val() );
+                return sTipoVia + ' ' + sCalle + ', ' + $('#inputNUM').val();
+            }
+            else
+                return '';
+        }
+
+        function limpiarAtributs(){
+            try{
+            lvAtributs.empty();
+            lvAtributs.children().remove('li');
+            lvAtributs.listview('refresh');
+            }
+            catch(e) {}
+        }
+
+        function visibilidadInfoAtributs(bVer){
+            if(bVer)
+                liMesInfoAtributs.text('carregant atributs ...').css("color", "yellow");
+           else
+                liMesInfoAtributs.text('mes informació de la incidència').css("color", "white");
+        }
+
+        visibilidadInfoAtributs(false);
+
+//ini EVENTOS DE LA PAGINA NuevaIncidencia *************************************************************************************
+        //cargar los elementos de nivel 2 según nivel 1 seleccionado
+        $("#selectAMBIT").bind( "change", function(event, ui) {
+            limpiarAtributs();
+            $('#labelTipoIncInformado').text($('#selectAMBIT option:selected').text());
+            cargaComboDesdeArray($('#selectELEMENT'), "seleccioni subtipus", cargaTablaEnArray("incNivel2", "item_" + $("#selectAMBIT").val()));
+        }) ;
+
+        //cargar los items de nivel 3 según nivel 2 seleccionado
+        $("#selectELEMENT").bind( "change", function(event, ui) {
+            limpiarAtributs();
+            $('#labelTipoIncInformado').text( $('#selectAMBIT option:selected').text() + '/' + $('#selectELEMENT option:selected').text());
+            cargaComboDesdeArray($('#selectITEM'), "seleccioni subtipus", cargaTablaEnArray("incNivel3", "item_" + $("#selectELEMENT").val()));
+        });
+
+        //cargar los atributos según nivel 3 seleccionado
+        $("#selectITEM").bind( "change", function(event, ui) {
+            //cargar el listviewAtributs con los atributos de este item
+            visibilidadInfoAtributs(true);
+            $('#labelTipoIncInformado').text($('#selectAMBIT option:selected').text() + '/' + $('#selectELEMENT option:selected').text() + '/' + $('#selectITEM option:selected').text());
+            $.doTimeout(100, function(){
+                limpiarAtributs();
+                $.doTimeout(100, function(){
+                    cargaAtributos($('#selectITEM').val() ,lvAtributs );
+                    visibilidadInfoAtributs(false);
+                });
+            });
+        });
+
+        $("#textareaObservaciones").bind( "change", function(event, ui) {
+            var s =  $("#textareaObservaciones").val();
+            if(s.length > 25) s = s.substr(0,25) + "...";
+            $('#labelObservacionesInformadas').text(s);
+        });
+
+        $("#selectLletraIniCARRER").bind( "change", function(event, ui) {
+            cargaCarrersEnArray(); //rellena el array de calles que empiezan por esa letra desde el fic XML
+            cargaCalles();  //rellena el combo desde el array de Carrers
+        });
+
+        $("#selectCARRER").bind( "change", function(event, ui) {
+            var sDirec = muestraDireccion();
+            if( sDirec == '') return;
+            crearMarcadorDesdeCalleNum();
+        });
+
+        $("#inputNUM").bind( "change", function(event, ui) {
+            muestraDireccion();
+            if( muestraDireccion() == '') return;
+            crearMarcadorDesdeCalleNum();
+        });
+
+        $('#collapsibleLocalizacion').bind('collapse', function () {
+            if( muestraDireccion() == '') return;
+        });
+
+        $('#divLocalizacion').bind('expand', function () {
+            $('#divMensajeMapa').hide();  //de inicio que no ponga que no se ha podido cargar el mapa
+        });
+//fin EVENTOS DE LA PAGINA NuevaIncidencia *************************************************************************************
+
+
+    });
+</script>
+
+</body>
+
+</html>

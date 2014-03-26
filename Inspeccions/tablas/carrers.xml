@@ -1,0 +1,6510 @@
+<?xml version="1.0"?>
+<carrers>
+  <carrer_>
+    <id>0</id>
+    <tipus>
+    </tipus>
+    <nom>
+    </nom>
+    <nomGoogle>
+    </nomGoogle>
+  </carrer_>
+  <carrer_A>
+    <id>22</id>
+    <tipus>CARRER</tipus>
+    <nom>ABAT ARMENGOL</nom>
+    <nomGoogle>CARRER  DE L' ABAT ARMENGOL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>698</id>
+    <tipus>CARRER</tipus>
+    <nom>ABAT BIURE</nom>
+    <nomGoogle>CARRER  DE L' ABAT BIURE</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>13</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ABAT DONADEU</nom>
+    <nomGoogle>PLAÇA  DE L' ABAT DONADEU</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1000</id>
+    <tipus>CARRER</tipus>
+    <nom>ABAT ESCARRE</nom>
+    <nomGoogle>CARRER  DE L' ABAT ESCARRE</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>25</id>
+    <tipus>CARRER</tipus>
+    <nom>ABAT GUILLEM D'AVINYO</nom>
+    <nomGoogle>CARRER  DE L' ABAT GUILLEM D'AVINYO</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>52</id>
+    <tipus>CARRER</tipus>
+    <nom>ABAT GUITART</nom>
+    <nomGoogle>CARRER  DE L' ABAT GUITART</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>685</id>
+    <tipus>CARRER</tipus>
+    <nom>ABAT MARCET</nom>
+    <nomGoogle>CARRER  DE L' ABAT MARCET</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5004</id>
+    <tipus>CARRER</tipus>
+    <nom>ABAT ODO</nom>
+    <nomGoogle>CARRER  DE L' ABAT ODO</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5005</id>
+    <tipus>CARRER</tipus>
+    <nom>ABAT TEODOR</nom>
+    <nomGoogle>CARRER  DE L' ABAT TEODOR</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1</id>
+    <tipus>CARRER</tipus>
+    <nom>ABELLA</nom>
+    <nomGoogle>CARRER  D' ABELLA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>7</id>
+    <tipus>CARRER</tipus>
+    <nom>ABELLES</nom>
+    <nomGoogle>CARRER  DE LES ABELLES</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ACACIES</nom>
+    <nomGoogle>PASSEIG  DE LES ACACIES</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1001</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ADRIA</nom>
+    <nomGoogle>PASSATGE  D' ADRIA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1543</id>
+    <tipus>CARRER</tipus>
+    <nom>ADRIA GUAL</nom>
+    <nomGoogle>CARRER  D' ADRIA GUAL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>430</id>
+    <tipus>CARRER</tipus>
+    <nom>ADRIA PARDOS</nom>
+    <nomGoogle>CARRER  D' ADRIA PARDOS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>3</id>
+    <tipus>CARRER</tipus>
+    <nom>ADVOCATS</nom>
+    <nomGoogle>CARRER  DELS ADVOCATS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>616</id>
+    <tipus>PASSATGE</tipus>
+    <nom>AGRO</nom>
+    <nomGoogle>PASSATGE  DE L' AGRO</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5008</id>
+    <tipus>CARRER</tipus>
+    <nom>AGUILA</nom>
+    <nomGoogle>CARRER  DE L' AGUILA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5010</id>
+    <tipus>PLAÇA</tipus>
+    <nom>AIGUALLONGA</nom>
+    <nomGoogle>PLAÇA  D' AIGUALLONGA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1469</id>
+    <tipus>PASSATGE</tipus>
+    <nom>AIGUES DE SABADELL</nom>
+    <nomGoogle>PASSATGE  DE LES AIGUES DE SABADELL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5006</id>
+    <tipus>CARRER</tipus>
+    <nom>AIGUES DE SABADELL</nom>
+    <nomGoogle>CARRER  DE LES AIGUES DE SABADELL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1002</id>
+    <tipus>CARRER</tipus>
+    <nom>AILANT</nom>
+    <nomGoogle>CARRER  DE L' AILANT</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>17</id>
+    <tipus>CARRER</tipus>
+    <nom>ALACANT</nom>
+    <nomGoogle>CARRER  D' ALACANT</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1072</id>
+    <tipus>CARRER</tipus>
+    <nom>ALADERN</nom>
+    <nomGoogle>CARRER  DE L' ALADERN</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>10</id>
+    <tipus>BAIXADA</tipus>
+    <nom>ALBA</nom>
+    <nomGoogle>BAIXADA  DE L' ALBA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5013</id>
+    <tipus>CARRER</tipus>
+    <nom>ALBACETE</nom>
+    <nomGoogle>CARRER  D' ALBACETE</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>11</id>
+    <tipus>CARRER</tipus>
+    <nom>ALBERCOC</nom>
+    <nomGoogle>CARRER  DE L' ALBERCOC</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>8</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ALBERS</nom>
+    <nomGoogle>PASSEIG  DELS ALBERS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5012</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ALBERS</nom>
+    <nomGoogle>PASSATGE  DELS ALBERS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5014</id>
+    <tipus>CARRER</tipus>
+    <nom>ALBERT ROSAS</nom>
+    <nomGoogle>CARRER  D' ALBERT ROSAS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>6600</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>ALCALDE BARNILS</nom>
+    <nomGoogle>AVINGUDA  DE L' ALCALDE BARNILS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>12</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ALCALDE MAGI BARTRALOT</nom>
+    <nomGoogle>PLAÇA  DE L' ALCALDE MAGI BARTRALOT</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5016</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ALEGRIA</nom>
+    <nomGoogle>PASSATGE  DE L' ALEGRIA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5018</id>
+    <tipus>CARRER</tipus>
+    <nom>ALELLA</nom>
+    <nomGoogle>CARRER  D' ALELLA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5017</id>
+    <tipus>CARRER</tipus>
+    <nom>ALEXANDRE EL GRAN</nom>
+    <nomGoogle>CARRER  D' ALEXANDRE EL GRAN</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>326</id>
+    <tipus>CARRER</tipus>
+    <nom>ALFONS D'ARAGO</nom>
+    <nomGoogle>CARRER  D' ALFONS D'ARAGO</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1444</id>
+    <tipus>CARRER</tipus>
+    <nom>ALFONS EL MAGNANIM</nom>
+    <nomGoogle>CARRER  D' ALFONS EL MAGNANIM</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>19</id>
+    <tipus>CARRER</tipus>
+    <nom>ALPS</nom>
+    <nomGoogle>CARRER  DELS ALPS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5019</id>
+    <tipus>CARRER</tipus>
+    <nom>ALTEA</nom>
+    <nomGoogle>CARRER  D' ALTEA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>21</id>
+    <tipus>CARRER</tipus>
+    <nom>ALVAREZ</nom>
+    <nomGoogle>CARRER  D' ALVAREZ</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5020</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ALVAREZ</nom>
+    <nomGoogle>PASSATGE  D' ALVAREZ</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>210</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ALZINA</nom>
+    <nomGoogle>PASSEIG  DE L' ALZINA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>23</id>
+    <tipus>CARRER</tipus>
+    <nom>AMAT</nom>
+    <nomGoogle>CARRER  D' AMAT</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>18</id>
+    <tipus>PASSEIG</tipus>
+    <nom>AMETLLER</nom>
+    <nomGoogle>PASSEIG  DE L' AMETLLER</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5022</id>
+    <tipus>CARRER</tipus>
+    <nom>AMPOSTA</nom>
+    <nomGoogle>CARRER  D' AMPOSTA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>26</id>
+    <tipus>CARRER</tipus>
+    <nom>ANDALUSIA</nom>
+    <nomGoogle>CARRER  D' ANDALUSIA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>27</id>
+    <tipus>CARRER</tipus>
+    <nom>ANDANA</nom>
+    <nomGoogle>CARRER  DE L' ANDANA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1005</id>
+    <tipus>CARRER</tipus>
+    <nom>ANDES</nom>
+    <nomGoogle>CARRER  DELS ANDES</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5023</id>
+    <tipus>CARRER</tipus>
+    <nom>ANGEL GUIMERA</nom>
+    <nomGoogle>CARRER  D' ANGEL GUIMERA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1489</id>
+    <tipus>CARRER</tipus>
+    <nom>ANOIA</nom>
+    <nomGoogle>CARRER  DE L' ANOIA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5024</id>
+    <tipus>CARRER</tipus>
+    <nom>ANTIC DE CAN BORRULL</nom>
+    <nomGoogle>CARRER ANTIC DE CAN BORRULL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>381</id>
+    <tipus>CARRER</tipus>
+    <nom>ANTONI AGRAZ</nom>
+    <nomGoogle>CARRER  D' ANTONI AGRAZ</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>317</id>
+    <tipus>CARRER</tipus>
+    <nom>ANTONI BELL</nom>
+    <nomGoogle>CARRER  D' ANTONI BELL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>86</id>
+    <tipus>CARRER</tipus>
+    <nom>ANTONI CABALLE</nom>
+    <nomGoogle>CARRER  D' ANTONI CABALLE</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>401</id>
+    <tipus>CARRER</tipus>
+    <nom>ANTONI DE SOLANELL</nom>
+    <nomGoogle>CARRER  D' ANTONI DE SOLANELL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1373</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ANTONI GAUDI</nom>
+    <nomGoogle>PASSEIG  D' ANTONI GAUDI</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5003</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>ANTONI GRIERA</nom>
+    <nomGoogle>AVINGUDA  D' ANTONI GRIERA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>71</id>
+    <tipus>CARRER</tipus>
+    <nom>ANTONI PUIGVERT</nom>
+    <nomGoogle>CARRER  D' ANTONI PUIGVERT</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5026</id>
+    <tipus>CARRER</tipus>
+    <nom>APENINS</nom>
+    <nomGoogle>CARRER  DELS APENINS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>2000</id>
+    <tipus>AUTOPISTA</tipus>
+    <nom>AP-7</nom>
+    <nomGoogle>AUTOPISTA AP-7</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>32</id>
+    <tipus>CARRER</tipus>
+    <nom>ARAGO</nom>
+    <nomGoogle>CARRER  D' ARAGO</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>488</id>
+    <tipus>PARC</tipus>
+    <nom>ARBORETUM</nom>
+    <nomGoogle>PARC  DE L' ARBORETUM</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>33</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ARBRE</nom>
+    <nomGoogle>PASSEIG  DE L' ARBRE</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>34</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ARBRES</nom>
+    <nomGoogle>PLAÇA  DELS ARBRES</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>35</id>
+    <tipus>CARRER</tipus>
+    <nom>ARBUCIES</nom>
+    <nomGoogle>CARRER  D' ARBUCIES</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>36</id>
+    <tipus>CARRER</tipus>
+    <nom>ARBUSTOS</nom>
+    <nomGoogle>CARRER  DELS ARBUSTOS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>38</id>
+    <tipus>CARRER</tipus>
+    <nom>ARGENTINA</nom>
+    <nomGoogle>CARRER  DE L' ARGENTINA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1518</id>
+    <tipus>CARRER</tipus>
+    <nom>ARIBAU</nom>
+    <nomGoogle>CARRER  D' ARIBAU</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1442</id>
+    <tipus>CARRER</tipus>
+    <nom>ARISTIDES MAILLOL</nom>
+    <nomGoogle>CARRER  D' ARISTIDES MAILLOL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>48</id>
+    <tipus>CARRER</tipus>
+    <nom>ARNAU CADELL</nom>
+    <nomGoogle>CARRER  D' ARNAU CADELL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>64</id>
+    <tipus>CARRER</tipus>
+    <nom>ARNAU DE VILANOVA</nom>
+    <nomGoogle>CARRER  D' ARNAU DE VILANOVA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>37</id>
+    <tipus>CARRER</tipus>
+    <nom>ART</nom>
+    <nomGoogle>CARRER  DE L' ART</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>42</id>
+    <tipus>CAMI</tipus>
+    <nom>ASPANIAS</nom>
+    <nomGoogle>CAMI  D' ASPANIAS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1007</id>
+    <tipus>CARRER</tipus>
+    <nom>ASSUTZENA</nom>
+    <nomGoogle>CARRER  DE L' ASSUTZENA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>517</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ASTRE</nom>
+    <nomGoogle>PASSATGE  DE L' ASTRE</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>40</id>
+    <tipus>CARRER</tipus>
+    <nom>ASTURIES</nom>
+    <nomGoogle>CARRER  D' ASTURIES</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5027</id>
+    <tipus>CARRER</tipus>
+    <nom>ASUNCION</nom>
+    <nomGoogle>CARRER  D' ASUNCION</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>5029</id>
+    <tipus>PLAÇA</tipus>
+    <nom>AUGUSTA</nom>
+    <nomGoogle>PLAÇA AUGUSTA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>44</id>
+    <tipus>CARRER</tipus>
+    <nom>AULADELL</nom>
+    <nomGoogle>CARRER  D' AULADELL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>1430</id>
+    <tipus>CARRER</tipus>
+    <nom>AURELI CAPMANY</nom>
+    <nomGoogle>CARRER  D' AURELI CAPMANY</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>7086</id>
+    <tipus>CARRER</tipus>
+    <nom>AURO</nom>
+    <nomGoogle>CARRER  DE L' AURO</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>440</id>
+    <tipus>PLAÇA</tipus>
+    <nom>AUSIAS MARCH</nom>
+    <nomGoogle>PLAÇA  D' AUSIAS MARCH</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>45</id>
+    <tipus>PASSEIG</tipus>
+    <nom>AVELLANERS</nom>
+    <nomGoogle>PASSEIG  DELS AVELLANERS</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>238</id>
+    <tipus>CARRER</tipus>
+    <nom>AVEL.LINA CASADEVALL</nom>
+    <nomGoogle>CARRER  D' AVEL.LINA CASADEVALL</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>2</id>
+    <tipus>CARRER</tipus>
+    <nom>AVET</nom>
+    <nomGoogle>CARRER  DE L' AVET</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>46</id>
+    <tipus>CARRER</tipus>
+    <nom>AVILA</nom>
+    <nomGoogle>CARRER  D' AVILA</nomGoogle>
+  </carrer_A>
+  <carrer_A>
+    <id>47</id>
+    <tipus>CARRER</tipus>
+    <nom>AYMERICH</nom>
+    <nomGoogle>CARRER  D' AYMERICH</nomGoogle>
+  </carrer_A>
+  <carrer_B>
+    <id>328</id>
+    <tipus>PLAÇA</tipus>
+    <nom>BACH</nom>
+    <nomGoogle>PLAÇA  DE BACH</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>5191</id>
+    <tipus>CARRER</tipus>
+    <nom>BAGES</nom>
+    <nomGoogle>CARRER  DEL BAGES</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>30</id>
+    <tipus>PASSEIG</tipus>
+    <nom>BAIXADOR</nom>
+    <nomGoogle>PASSEIG  DEL BAIXADOR</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>29</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>BAIXADOR</nom>
+    <nomGoogle>AVINGUDA  DEL BAIXADOR</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>706</id>
+    <tipus>RAMBLA</tipus>
+    <nom>BAIXADOR</nom>
+    <nomGoogle>RAMBLA  DEL BAIXADOR</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>6</id>
+    <tipus>CARRER</tipus>
+    <nom>BALADRE</nom>
+    <nomGoogle>CARRER  DEL BALADRE</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>49</id>
+    <tipus>PASSATGE</tipus>
+    <nom>BALAGUER</nom>
+    <nomGoogle>PASSATGE  DE BALAGUER</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>51</id>
+    <tipus>CARRER</tipus>
+    <nom>BALMES</nom>
+    <nomGoogle>CARRER  DE BALMES</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>6100</id>
+    <tipus>CARRER</tipus>
+    <nom>BAMBU</nom>
+    <nomGoogle>CARRER  DEL BAMBU</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>55</id>
+    <tipus>PLAÇA</tipus>
+    <nom>BARCELONA</nom>
+    <nomGoogle>PLAÇA  DE BARCELONA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>54</id>
+    <tipus>CARRER</tipus>
+    <nom>BARCELONA</nom>
+    <nomGoogle>CARRER  DE BARCELONA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>53</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>BARCELONA</nom>
+    <nomGoogle>AVINGUDA  DE BARCELONA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>56</id>
+    <tipus>CARRER</tipus>
+    <nom>BARCELONETA</nom>
+    <nomGoogle>CARRER  DE LA BARCELONETA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>4</id>
+    <tipus>CARRER</tipus>
+    <nom>BARDISSA</nom>
+    <nomGoogle>CARRER  DE LA BARDISSA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>57</id>
+    <tipus>PASSATGE</tipus>
+    <nom>BARNADES</nom>
+    <nomGoogle>PASSATGE  DE BARNADES</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>528</id>
+    <tipus>PASSATGE</tipus>
+    <nom>BARO DE COUBERTIN</nom>
+    <nomGoogle>PASSATGE  DEL BARO DE COUBERTIN</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>632</id>
+    <tipus>CARRER</tipus>
+    <nom>BASCONIA</nom>
+    <nomGoogle>CARRER  DE BASCONIA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>7070</id>
+    <tipus>PASSATGE</tipus>
+    <nom>BATLLORI</nom>
+    <nomGoogle>PASSATGE  DE BATLLORI</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>5033</id>
+    <tipus>CARRER</tipus>
+    <nom>BECADA</nom>
+    <nomGoogle>CARRER  DE LA BECADA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>59</id>
+    <tipus>CARRER</tipus>
+    <nom>BEETHOVEN</nom>
+    <nomGoogle>CARRER  DE BEETHOVEN</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>362</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>BELL INDRET</nom>
+    <nomGoogle>AVINGUDA  DEL BELL INDRET</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>813</id>
+    <tipus>CARRER</tipus>
+    <nom>BELLATERRA</nom>
+    <nomGoogle>CARRER  DE BELLATERRA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>279</id>
+    <tipus>CARRER</tipus>
+    <nom>BENET CORTADA</nom>
+    <nomGoogle>CARRER  DE BENET CORTADA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>383</id>
+    <tipus>CARRER</tipus>
+    <nom>BENET DE MOXO</nom>
+    <nomGoogle>CARRER  DE BENET DE MOXO</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>1010</id>
+    <tipus>CARRER</tipus>
+    <nom>BERGA</nom>
+    <nomGoogle>CARRER  DE BERGA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>637</id>
+    <tipus>CARRER</tipus>
+    <nom>BERGARA</nom>
+    <nomGoogle>CARRER  DE BERGARA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>1427</id>
+    <tipus>CARRER</tipus>
+    <nom>BERNAT DESCLOT</nom>
+    <nomGoogle>CARRER  DE BERNAT DESCLOT</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>402</id>
+    <tipus>CARRER</tipus>
+    <nom>BERNAT METGE</nom>
+    <nomGoogle>CARRER  DE BERNAT METGE</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>28</id>
+    <tipus>CARRER</tipus>
+    <nom>BESOS</nom>
+    <nomGoogle>CARRER  DEL BESOS</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>63</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>BILBAO</nom>
+    <nomGoogle>AVINGUDA  DE BILBAO</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>1112</id>
+    <tipus>CARRER</tipus>
+    <nom>BISBE MORGADES</nom>
+    <nomGoogle>CARRER  DEL BISBE MORGADES</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>5034</id>
+    <tipus>CARRER</tipus>
+    <nom>BLASCO IBAÑEZ</nom>
+    <nomGoogle>CARRER  DE BLASCO IBAÑEZ</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>66</id>
+    <tipus>CARRER</tipus>
+    <nom>BOBINES</nom>
+    <nomGoogle>CARRER  DE LES BOBINES</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>1011</id>
+    <tipus>CARRER</tipus>
+    <nom>BOLIVAR</nom>
+    <nomGoogle>CARRER  DE BOLIVAR</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>67</id>
+    <tipus>CARRER</tipus>
+    <nom>BOLIVIA</nom>
+    <nomGoogle>CARRER  DE BOLIVIA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>81</id>
+    <tipus>CARRER</tipus>
+    <nom>BONA VISTA</nom>
+    <nomGoogle>CARRER  DE LA BONA VISTA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>395</id>
+    <tipus>CARRER</tipus>
+    <nom>BONAVENTURA DE GAYOLA</nom>
+    <nomGoogle>CARRER  DE BONAVENTURA DE GAYOLA</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>68</id>
+    <tipus>PASSATGE</tipus>
+    <nom>BONFILL</nom>
+    <nomGoogle>PASSATGE  DE BONFILL</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>72</id>
+    <tipus>CARRER</tipus>
+    <nom>BORRELL</nom>
+    <nomGoogle>CARRER  DE BORRELL</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>77</id>
+    <tipus>PASSEIG</tipus>
+    <nom>BOSC</nom>
+    <nomGoogle>PASSEIG  DEL BOSC</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>5035</id>
+    <tipus>CARRER</tipus>
+    <nom>BOSC GRAN</nom>
+    <nomGoogle>CARRER  DEL BOSC GRAN</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>78</id>
+    <tipus>CARRER</tipus>
+    <nom>BRASIL</nom>
+    <nomGoogle>CARRER  DEL BRASIL</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>5038</id>
+    <tipus>CARRER</tipus>
+    <nom>BRILLANT</nom>
+    <nomGoogle>CARRER  DEL BRILLANT</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>5140</id>
+    <tipus>CARRER</tipus>
+    <nom>BROLLADOR</nom>
+    <nomGoogle>CARRER  DEL BROLLADOR</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>5039</id>
+    <tipus>PASSATGE</tipus>
+    <nom>BROS</nom>
+    <nomGoogle>PASSATGE  DE BROS</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>80</id>
+    <tipus>CARRER</tipus>
+    <nom>BRUC</nom>
+    <nomGoogle>CARRER  DEL BRUC</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>83</id>
+    <tipus>CARRER</tipus>
+    <nom>BUENOS AIRES</nom>
+    <nomGoogle>CARRER  DE BUENOS AIRES</nomGoogle>
+  </carrer_B>
+  <carrer_B>
+    <id>85</id>
+    <tipus>CARRER</tipus>
+    <nom>BURGOS</nom>
+    <nomGoogle>CARRER  DE BURGOS</nomGoogle>
+  </carrer_B>
+  <carrer_C>
+    <id>5047</id>
+    <tipus>CAMI</tipus>
+    <nom>CA N'ABADAL</nom>
+    <nomGoogle>CAMI  DE CA N'ABADAL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>24</id>
+    <tipus>CAMI</tipus>
+    <nom>CA N'AMETLLER</nom>
+    <nomGoogle>CAMI  DE CA N'AMETLLER</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>106</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CA N'ENRIC</nom>
+    <nomGoogle>AVINGUDA  DE CA N'ENRIC</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>88</id>
+    <tipus>CARRER</tipus>
+    <nom>CABRERA</nom>
+    <nomGoogle>CARRER  DE CABRERA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>150</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CAÇADORS</nom>
+    <nomGoogle>PASSEIG  DELS CAÇADORS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>297</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CADERNERA</nom>
+    <nomGoogle>PASSEIG  DE LA CADERNERA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>105</id>
+    <tipus>CARRER</tipus>
+    <nom>CADI</nom>
+    <nomGoogle>CARRER  DEL CADI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>87</id>
+    <tipus>CARRER</tipus>
+    <nom>CADIS</nom>
+    <nomGoogle>CARRER  DE CADIS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>7004</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CALADO</nom>
+    <nomGoogle>PASSEIG  DE CALADO</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>2003</id>
+    <tipus>CARRER</tipus>
+    <nom>CALANDRIA</nom>
+    <nomGoogle>CARRER  DE LA CALANDRIA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>90</id>
+    <tipus>CARRER</tipus>
+    <nom>CALDES DE MONTBUI</nom>
+    <nomGoogle>CARRER  DE CALDES DE MONTBUI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1380</id>
+    <tipus>CARRER</tipus>
+    <nom>CALDES I ARUS</nom>
+    <nomGoogle>CARRER  DE CALDES I ARUS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5044</id>
+    <tipus>CARRER</tipus>
+    <nom>CALVARI</nom>
+    <nomGoogle>CARRER  DEL CALVARI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>91</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CAMELIES</nom>
+    <nomGoogle>PASSEIG  DE LES CAMELIES</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>230</id>
+    <tipus>CARRER</tipus>
+    <nom>CAMPANYA</nom>
+    <nomGoogle>CARRER  DE CAMPANYA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>99</id>
+    <tipus>CARRER</tipus>
+    <nom>CAMPOAMOR</nom>
+    <nomGoogle>CARRER  DE CAMPOAMOR</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5048</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN BARATA</nom>
+    <nomGoogle>CAMI  DE CAN BARATA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5183</id>
+    <tipus>CARRER</tipus>
+    <nom>CAN BARATA</nom>
+    <nomGoogle>CARRER  DE CAN BARATA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>3000</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN BARBA</nom>
+    <nomGoogle>CAMI  DE CAN BARBA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>97</id>
+    <tipus>RAMBLA</tipus>
+    <nom>CAN BELL</nom>
+    <nomGoogle>RAMBLA  DE CAN BELL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>350</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN BELLET</nom>
+    <nomGoogle>AVINGUDA  DE CAN BELLET</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>100</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN BOBA</nom>
+    <nomGoogle>CAMI  DE CAN BOBA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1019</id>
+    <tipus>PASSATGE</tipus>
+    <nom>CAN BORD</nom>
+    <nomGoogle>PASSATGE  DE CAN BORD</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>2015</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN BORRELL</nom>
+    <nomGoogle>CAMI  DE CAN BORRELL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1166</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN BORRULL</nom>
+    <nomGoogle>AVINGUDA  DE CAN BORRULL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>101</id>
+    <tipus>PASSATGE</tipus>
+    <nom>CAN BROU</nom>
+    <nomGoogle>PASSATGE  DE CAN BROU</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5028</id>
+    <tipus>DRECERA</tipus>
+    <nom>CAN BUSQUETS</nom>
+    <nomGoogle>DRECERA  DE CAN BUSQUETS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>102</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN BUSQUETS</nom>
+    <nomGoogle>AVINGUDA  DE CAN BUSQUETS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1570</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN CABASSA</nom>
+    <nomGoogle>AVINGUDA  DE CAN CABASSA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>95</id>
+    <tipus>PLAÇA</tipus>
+    <nom>CAN CADENA</nom>
+    <nomGoogle>PLAÇA  DE CAN CADENA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>98</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN CADENA</nom>
+    <nomGoogle>CAMI  DE CAN CADENA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5050</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN CALDERS</nom>
+    <nomGoogle>CAMI  DE CAN CALDERS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>14</id>
+    <tipus>CARRER</tipus>
+    <nom>CAN CALOPA</nom>
+    <nomGoogle>CARRER  DE CAN CALOPA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>93</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN CAMPDERROS</nom>
+    <nomGoogle>CAMI  DE CAN CAMPDERROS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>432</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN CAMPS</nom>
+    <nomGoogle>CAMI  DE CAN CAMPS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>215</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN CANYAMERES</nom>
+    <nomGoogle>AVINGUDA  DE CAN CANYAMERES</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5052</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN CASES</nom>
+    <nomGoogle>CAMI  DE CAN CASES</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>94</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN CODONYERS</nom>
+    <nomGoogle>CAMI  DE CAN CODONYERS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5053</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN CORTES</nom>
+    <nomGoogle>AVINGUDA  DE CAN CORTES</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>3004</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN CUSO</nom>
+    <nomGoogle>CAMI  DE CAN CUSO</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>219</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN DELAIRE</nom>
+    <nomGoogle>AVINGUDA  DE CAN DELAIRE</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5059</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN FATJO DELS AURONS</nom>
+    <nomGoogle>CAMI  DE CAN FATJO DELS AURONS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>108</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN FLO</nom>
+    <nomGoogle>CAMI  DE CAN FLO</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>109</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN FONTANALS</nom>
+    <nomGoogle>AVINGUDA  DE CAN FONTANALS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>112</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN GATXET</nom>
+    <nomGoogle>CAMI  DE CAN GATXET</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>7008</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN GORDI</nom>
+    <nomGoogle>CAMI  DE CAN GORDI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5055</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN GRAELLS</nom>
+    <nomGoogle>CAMI  DE CAN GRAELLS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>125</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN JANE</nom>
+    <nomGoogle>CAMI  DE CAN JANE</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>114</id>
+    <tipus>CARRER</tipus>
+    <nom>CAN LLOBET</nom>
+    <nomGoogle>CARRER  DE CAN LLOBET</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>113</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN LLOBET</nom>
+    <nomGoogle>CAMI  DE CAN LLOBET</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>104</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN MAGI</nom>
+    <nomGoogle>AVINGUDA  DE CAN MAGI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>115</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN MAJO</nom>
+    <nomGoogle>CAMI  DE CAN MAJO</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>130</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN MARCET</nom>
+    <nomGoogle>CAMI  DE CAN MARCET</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>116</id>
+    <tipus>CARRER</tipus>
+    <nom>CAN MATES</nom>
+    <nomGoogle>CARRER  DE CAN MATES</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>7071</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN MENTA</nom>
+    <nomGoogle>CAMI  DE CAN MENTA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>117</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN MINGUET</nom>
+    <nomGoogle>CAMI  DE CAN MINGUET</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1146</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN MONMANY</nom>
+    <nomGoogle>AVINGUDA  DE CAN MONMANY</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>7085</id>
+    <tipus>RAMBLA</tipus>
+    <nom>CAN MORA</nom>
+    <nomGoogle>RAMBLA  DE CAN MORA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>563</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CAN MORA</nom>
+    <nomGoogle>PASSEIG  DE CAN MORA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>6603</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN PAGAN</nom>
+    <nomGoogle>CAMI  DE CAN PAGAN</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5208</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN PICANYOL</nom>
+    <nomGoogle>AVINGUDA  DE CAN PICANYOL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>453</id>
+    <tipus>PLAÇA</tipus>
+    <nom>CAN QUITERIA</nom>
+    <nomGoogle>PLAÇA  DE CAN QUITERIA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5061</id>
+    <tipus>CARRER</tipus>
+    <nom>CAN RABELLA</nom>
+    <nomGoogle>CARRER  DE CAN RABELLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>120</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN RABELLA</nom>
+    <nomGoogle>CAMI  DE CAN RABELLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1027</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN ROCA</nom>
+    <nomGoogle>CAMI  DE CAN ROCA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5063</id>
+    <tipus>CARRER</tipus>
+    <nom>CAN SOLA</nom>
+    <nomGoogle>CARRER  DE CAN SOLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>121</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN TRABAL</nom>
+    <nomGoogle>AVINGUDA  DE CAN TRABAL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>96</id>
+    <tipus>CAMI</tipus>
+    <nom>CAN VERNET</nom>
+    <nomGoogle>CAMI  DE CAN VERNET</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>159</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN VILALLONGA</nom>
+    <nomGoogle>AVINGUDA  DE CAN VILALLONGA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5260</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CAN VULPALLERES</nom>
+    <nomGoogle>AVINGUDA  DE CAN VULPALLERES</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1017</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CANADA</nom>
+    <nomGoogle>AVINGUDA  DEL CANADA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>126</id>
+    <tipus>CARRER</tipus>
+    <nom>CANAL DE LA MANEGA</nom>
+    <nomGoogle>CARRER  DEL CANAL DE LA MANEGA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1018</id>
+    <tipus>CARRER</tipus>
+    <nom>CANAL DE SUEZ</nom>
+    <nomGoogle>CARRER  DEL CANAL DE SUEZ</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>127</id>
+    <tipus>CARRER</tipus>
+    <nom>CANARI</nom>
+    <nomGoogle>CARRER  DEL CANARI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5042</id>
+    <tipus>CARRER</tipus>
+    <nom>CANEM</nom>
+    <nomGoogle>CARRER  DEL CANEM</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>7103</id>
+    <tipus>CARRER</tipus>
+    <nom>CANIGO</nom>
+    <nomGoogle>CARRER  DEL CANIGO</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>129</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CAPELLA</nom>
+    <nomGoogle>PASSEIG  DE LA CAPELLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>7076</id>
+    <tipus>CAMI</tipus>
+    <nom>CAPELLA</nom>
+    <nomGoogle>CAMI  DE LA CAPELLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1424</id>
+    <tipus>CARRER</tipus>
+    <nom>CAPELLA DE SANT JOAN</nom>
+    <nomGoogle>CARRER  DE LA CAPELLA DE SANT JOAN</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1186</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CAQUI</nom>
+    <nomGoogle>PASSEIG  DEL CAQUI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>427</id>
+    <tipus>PASSATGE</tipus>
+    <nom>CAQUI</nom>
+    <nomGoogle>PASSATGE  DEL CAQUI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>161</id>
+    <tipus>CARRER</tipus>
+    <nom>CARDENAL CISNEROS</nom>
+    <nomGoogle>CARRER  DEL CARDENAL CISNEROS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5066</id>
+    <tipus>CARRER</tipus>
+    <nom>CARDONA</nom>
+    <nomGoogle>CARRER  DE CARDONA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5067</id>
+    <tipus>CARRER</tipus>
+    <nom>CARENA</nom>
+    <nomGoogle>CARRER  DE LA CARENA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>132</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CARENA</nom>
+    <nomGoogle>PASSEIG  DE LA CARENA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1520</id>
+    <tipus>CARRER</tipus>
+    <nom>CARLES RIBA</nom>
+    <nomGoogle>CARRER  DE CARLES RIBA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>133</id>
+    <tipus>CARRER</tipus>
+    <nom>CARLOS MELLA</nom>
+    <nomGoogle>CARRER  DE CARLOS MELLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>134</id>
+    <tipus>CARRER</tipus>
+    <nom>CARME</nom>
+    <nomGoogle>CARRER  DEL CARME</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>135</id>
+    <tipus>PASSATGE</tipus>
+    <nom>CARME</nom>
+    <nomGoogle>PASSATGE  DEL CARME</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1524</id>
+    <tipus>CARRER</tipus>
+    <nom>CARRASCO I FORMIGUERA</nom>
+    <nomGoogle>CARRER  DE CARRASCO I FORMIGUERA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>136</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CARRIL</nom>
+    <nomGoogle>AVINGUDA  DEL CARRIL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>630</id>
+    <tipus>CAMI</tipus>
+    <nom>CASA VASCONCEL</nom>
+    <nomGoogle>CAMI  DE LA CASA VASCONCEL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>142</id>
+    <tipus>CARRER</tipus>
+    <nom>CASALOT</nom>
+    <nomGoogle>CARRER  DEL CASALOT</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>143</id>
+    <tipus>CARRER</tipus>
+    <nom>CASINO</nom>
+    <nomGoogle>CARRER  DEL CASINO</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>144</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CASTANYER</nom>
+    <nomGoogle>PASSEIG  DEL CASTANYER</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1028</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CASTELLOT</nom>
+    <nomGoogle>AVINGUDA  DEL CASTELLOT</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>145</id>
+    <tipus>CARRER</tipus>
+    <nom>CASTELLVI</nom>
+    <nomGoogle>CARRER  DE CASTELLVI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>146</id>
+    <tipus>CARRER</tipus>
+    <nom>CASTILLEJOS</nom>
+    <nomGoogle>CARRER  DELS CASTILLEJOS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>147</id>
+    <tipus>CARRER</tipus>
+    <nom>CATALPA</nom>
+    <nomGoogle>CARRER  DE LA CATALPA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>184</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CATALUNYA</nom>
+    <nomGoogle>AVINGUDA  DE CATALUNYA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1032</id>
+    <tipus>CARRER</tipus>
+    <nom>CEDRELA</nom>
+    <nomGoogle>CARRER  DE LA CEDRELA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>151</id>
+    <tipus>RAMBLA</tipus>
+    <nom>CELLER</nom>
+    <nomGoogle>RAMBLA  DEL CELLER</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>205</id>
+    <tipus>DRECERA</tipus>
+    <nom>CENTRAL</nom>
+    <nomGoogle>DRECERA CENTRAL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>673</id>
+    <tipus>PLAÇA</tipus>
+    <nom>CENTRE</nom>
+    <nomGoogle>PLAÇA  DEL CENTRE</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>103</id>
+    <tipus>PLAÇA</tipus>
+    <nom>CENTRE CULTURAL</nom>
+    <nomGoogle>PLAÇA  DEL CENTRE CULTURAL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>148</id>
+    <tipus>CARRER</tipus>
+    <nom>CERCIS</nom>
+    <nomGoogle>CARRER  DEL CERCIS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>487</id>
+    <tipus>PARC</tipus>
+    <nom>CERDA</nom>
+    <nomGoogle>PARC  DE CERDA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>561</id>
+    <tipus>CARRER</tipus>
+    <nom>CERDANYA</nom>
+    <nomGoogle>CARRER  DE LA CERDANYA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>555</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CERDANYOLA</nom>
+    <nomGoogle>AVINGUDA  DE CERDANYOLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>155</id>
+    <tipus>CARRER</tipus>
+    <nom>CERVANTES</nom>
+    <nomGoogle>CARRER  DE CERVANTES</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>138</id>
+    <tipus>CARRER</tipus>
+    <nom>CESAR MARTINELL</nom>
+    <nomGoogle>CARRER  DE CESAR MARTINELL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1497</id>
+    <tipus>PLAÇA</tipus>
+    <nom>CHARLIE RIVEL</nom>
+    <nomGoogle>PLAÇA  DE CHARLIE RIVEL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>163</id>
+    <tipus>CARRER</tipus>
+    <nom>CHOPIN</nom>
+    <nomGoogle>CARRER  DE CHOPIN</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>152</id>
+    <tipus>CARRER</tipus>
+    <nom>CICLO</nom>
+    <nomGoogle>CARRER  DEL CICLO</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>154</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CIRERER</nom>
+    <nomGoogle>PASSEIG  DEL CIRERER</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>312</id>
+    <tipus>CARRER</tipus>
+    <nom>CIRERER D'ARBOÇ</nom>
+    <nomGoogle>CARRER  DEL CIRERER D'ARBOÇ</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>162</id>
+    <tipus>PASSATGE</tipus>
+    <nom>CLAVELL</nom>
+    <nomGoogle>PASSATGE  DEL CLAVELL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>158</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CLAVELL</nom>
+    <nomGoogle>PASSEIG  DEL CLAVELL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1515</id>
+    <tipus>CARRER</tipus>
+    <nom>CLEMENTINA ARDERIU</nom>
+    <nomGoogle>CARRER  DE CLEMENTINA ARDERIU</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>164</id>
+    <tipus>CARRER</tipus>
+    <nom>COCOS</nom>
+    <nomGoogle>CARRER  DELS COCOS</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1038</id>
+    <tipus>CARRER</tipus>
+    <nom>COGULLADA</nom>
+    <nomGoogle>CARRER  DE LA COGULLADA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>165</id>
+    <tipus>PASSATGE</tipus>
+    <nom>COLIBRI</nom>
+    <nomGoogle>PASSATGE  DEL COLIBRI</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>168</id>
+    <tipus>PLAÇA</tipus>
+    <nom>COLL</nom>
+    <nomGoogle>PLAÇA  D'EN COLL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5083</id>
+    <tipus>PLAÇA</tipus>
+    <nom>COLL DE LA CREU D'EN BLAU</nom>
+    <nomGoogle>PLAÇA  DEL COLL DE LA CREU D'EN BLAU</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>6250</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>COLLSEROLA</nom>
+    <nomGoogle>AVINGUDA  DE COLLSEROLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>425</id>
+    <tipus>CARRER</tipus>
+    <nom>COLOM</nom>
+    <nomGoogle>CARRER  DEL COLOM</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>171</id>
+    <tipus>PLAÇA</tipus>
+    <nom>COLOMAR</nom>
+    <nomGoogle>PLAÇA  DEL COLOMAR</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>170</id>
+    <tipus>CARRER</tipus>
+    <nom>COLOMBIA</nom>
+    <nomGoogle>CARRER  DE COLOMBIA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1036</id>
+    <tipus>CARRER</tipus>
+    <nom>COLOMBINA</nom>
+    <nomGoogle>CARRER  DE LA COLOMBINA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5079</id>
+    <tipus>CAMI</tipus>
+    <nom>COLOMER</nom>
+    <nomGoogle>CAMI  DEL COLOMER</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5080</id>
+    <tipus>PASSATGE</tipus>
+    <nom>COLOMER</nom>
+    <nomGoogle>PASSATGE  DEL COLOMER</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>368</id>
+    <tipus>CARRER</tipus>
+    <nom>COLONIA OLLER</nom>
+    <nomGoogle>CARRER  DE LA COLONIA OLLER</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>369</id>
+    <tipus>CARRER</tipus>
+    <nom>COLONIA TORRO</nom>
+    <nomGoogle>CARRER  DE LA COLONIA TORRO</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1549</id>
+    <tipus>CARRER</tipus>
+    <nom>COMAS I SOLA</nom>
+    <nomGoogle>CARRER  DE COMAS I SOLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>137</id>
+    <tipus>CARRER</tipus>
+    <nom>COMTE</nom>
+    <nomGoogle>CARRER  DEL COMTE</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>186</id>
+    <tipus>CARRER</tipus>
+    <nom>CONCA</nom>
+    <nomGoogle>CARRER  DE CONCA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>258</id>
+    <tipus>CARRER</tipus>
+    <nom>CONCEPCIO PLA</nom>
+    <nomGoogle>CARRER  DE CONCEPCIO PLA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>5082</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CONILL</nom>
+    <nomGoogle>PASSEIG  DEL CONILL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>175</id>
+    <tipus>CARRER</tipus>
+    <nom>CONSOLAT DE MAR</nom>
+    <nomGoogle>CARRER  DEL CONSOLAT DE MAR</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>519</id>
+    <tipus>PASSATGE</tipus>
+    <nom>COOPERATIVA</nom>
+    <nomGoogle>PASSATGE  DE LA COOPERATIVA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>176</id>
+    <tipus>CARRER</tipus>
+    <nom>CORDOVA</nom>
+    <nomGoogle>CARRER  DE CORDOVA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>197</id>
+    <tipus>CARRER</tipus>
+    <nom>CORSEGA</nom>
+    <nomGoogle>CARRER  DE CORSEGA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>203</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>CORTS CATALANES</nom>
+    <nomGoogle>AVINGUDA  DE LES CORTS CATALANES</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>189</id>
+    <tipus>DRECERA</tipus>
+    <nom>COSCOLL</nom>
+    <nomGoogle>DRECERA  DEL COSCOLL</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>187</id>
+    <tipus>CARRER</tipus>
+    <nom>COSTA</nom>
+    <nomGoogle>CARRER  DE LA COSTA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1511</id>
+    <tipus>CARRER</tipus>
+    <nom>COSTA I LLOBERA</nom>
+    <nomGoogle>CARRER  DE COSTA I LLOBERA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>178</id>
+    <tipus>CARRER</tipus>
+    <nom>COSTA RICA</nom>
+    <nomGoogle>CARRER  DE COSTA RICA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1041</id>
+    <tipus>PASSATGE</tipus>
+    <nom>COT</nom>
+    <nomGoogle>PASSATGE  DE COT</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1338</id>
+    <tipus>PASSATGE</tipus>
+    <nom>CREPUSCLE</nom>
+    <nomGoogle>PASSATGE  DEL CREPUSCLE</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>179</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CREPUSCLE</nom>
+    <nomGoogle>PASSEIG  DEL CREPUSCLE</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>181</id>
+    <tipus>CARRER</tipus>
+    <nom>CREU</nom>
+    <nomGoogle>CARRER  DE LA CREU</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>6003</id>
+    <tipus>CAMI</tipus>
+    <nom>CREU</nom>
+    <nomGoogle>CAMI  DE LA CREU</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>182</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CREU</nom>
+    <nomGoogle>PASSEIG  DE LA CREU</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>107</id>
+    <tipus>PLAÇA</tipus>
+    <nom>CREU DE COLL FAVA</nom>
+    <nomGoogle>PLAÇA  DE LA CREU DE COLL FAVA</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>180</id>
+    <tipus>PASSEIG</tipus>
+    <nom>CRISANTEM</nom>
+    <nomGoogle>PASSEIG  DEL CRISANTEM</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>7016</id>
+    <tipus>CAMI</tipus>
+    <nom>CRIST TREBALLADOR</nom>
+    <nomGoogle>CAMI  DEL CRIST TREBALLADOR</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>173</id>
+    <tipus>CARRER</tipus>
+    <nom>CRISTOFOR COLOM</nom>
+    <nomGoogle>CARRER  DE CRISTOFOR COLOM</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1045</id>
+    <tipus>DRECERA</tipus>
+    <nom>CUPRE</nom>
+    <nomGoogle>DRECERA  DEL CUPRE</nomGoogle>
+  </carrer_C>
+  <carrer_C>
+    <id>1044</id>
+    <tipus>CARRER</tipus>
+    <nom>CUPRE</nom>
+    <nomGoogle>CARRER  DEL CUPRE</nomGoogle>
+  </carrer_C>
+  <carrer_D>
+    <id>188</id>
+    <tipus>PASSEIG</tipus>
+    <nom>DALIA</nom>
+    <nomGoogle>PASSEIG  DE LA DALIA</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>5085</id>
+    <tipus>PASSATGE</tipus>
+    <nom>DALMAU</nom>
+    <nomGoogle>PASSATGE  DE DALMAU</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>701</id>
+    <tipus>CARRER</tipus>
+    <nom>DALMAU</nom>
+    <nomGoogle>CARRER  DE DALMAU</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>82</id>
+    <tipus>CARRER</tipus>
+    <nom>DANUBI</nom>
+    <nomGoogle>CARRER  DEL DANUBI</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>5087</id>
+    <tipus>PASSATGE</tipus>
+    <nom>DELICIES</nom>
+    <nomGoogle>PASSATGE  DE LES DELICIES</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>5089</id>
+    <tipus>PASSEIG</tipus>
+    <nom>DESERT</nom>
+    <nomGoogle>PASSEIG  DEL DESERT</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>5090</id>
+    <tipus>CARRER</tipus>
+    <nom>DIAMANT</nom>
+    <nomGoogle>CARRER  DEL DIAMANT</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>1048</id>
+    <tipus>CARRER</tipus>
+    <nom>DINAMARCA</nom>
+    <nomGoogle>CARRER  DE DINAMARCA</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>190</id>
+    <tipus>CARRER</tipus>
+    <nom>DIPOSIT</nom>
+    <nomGoogle>CARRER  DEL DIPOSIT</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>1046</id>
+    <tipus>PASSATGE</tipus>
+    <nom>DIPOSIT</nom>
+    <nomGoogle>PASSATGE  DEL DIPOSIT</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>194</id>
+    <tipus>CARRER</tipus>
+    <nom>DIPUTACIO</nom>
+    <nomGoogle>CARRER  DE LA DIPUTACIO</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>195</id>
+    <tipus>PASSATGE</tipus>
+    <nom>DIPUTACIO</nom>
+    <nomGoogle>PASSATGE  DE LA DIPUTACIO</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>200</id>
+    <tipus>PLAÇA</tipus>
+    <nom>DOCTOR GALTES</nom>
+    <nomGoogle>PLAÇA  DEL DOCTOR GALTES</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>5092</id>
+    <tipus>PLAÇA</tipus>
+    <nom>DOCTOR GARRIGA</nom>
+    <nomGoogle>PLAÇA  DEL DOCTOR GARRIGA</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>5091</id>
+    <tipus>CARRER</tipus>
+    <nom>DOCTOR MODREGO</nom>
+    <nomGoogle>CARRER  DEL DOCTOR MODREGO</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>202</id>
+    <tipus>CARRER</tipus>
+    <nom>DOCTOR MURILLO</nom>
+    <nomGoogle>CARRER  DEL DOCTOR MURILLO</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>73</id>
+    <tipus>PLAÇA</tipus>
+    <nom>DOCTOR PILA</nom>
+    <nomGoogle>PLAÇA  DEL DOCTOR PILA</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>1049</id>
+    <tipus>PLAÇA</tipus>
+    <nom>DOCTOR VILLAR</nom>
+    <nomGoogle>PLAÇA  DEL DOCTOR VILLAR</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>271</id>
+    <tipus>CARRER</tipus>
+    <nom>DOLORS BIGAS</nom>
+    <nomGoogle>CARRER  DE DOLORS BIGAS</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>1431</id>
+    <tipus>CARRER</tipus>
+    <nom>DOMENEC ORISTRELL</nom>
+    <nomGoogle>CARRER  DE DOMENEC ORISTRELL</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>198</id>
+    <tipus>CARRER</tipus>
+    <nom>DOMENECH</nom>
+    <nomGoogle>CARRER  DE DOMENECH</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>1481</id>
+    <tipus>PASSEIG</tipus>
+    <nom>DOMENECH I MONTANER</nom>
+    <nomGoogle>PASSEIG  DE DOMENECH I MONTANER</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>5131</id>
+    <tipus>CARRER</tipus>
+    <nom>DOMES</nom>
+    <nomGoogle>CARRER  DE LES DOMES</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>199</id>
+    <tipus>CARRER</tipus>
+    <nom>DOS DE MAIG</nom>
+    <nomGoogle>CARRER  DEL DOS DE MAIG</nomGoogle>
+  </carrer_D>
+  <carrer_D>
+    <id>43</id>
+    <tipus>CARRER</tipus>
+    <nom>DRASSANES</nom>
+    <nomGoogle>CARRER  DE LES DRASSANES</nomGoogle>
+  </carrer_D>
+  <carrer_E>
+    <id>41</id>
+    <tipus>CARRER</tipus>
+    <nom>EBRE</nom>
+    <nomGoogle>CARRER  DE L' EBRE</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>118</id>
+    <tipus>CARRER</tipus>
+    <nom>EDUARD MARIA BALCELLS</nom>
+    <nomGoogle>CARRER  D' EDUARD MARIA BALCELLS</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>286</id>
+    <tipus>CARRER</tipus>
+    <nom>EIVISSA</nom>
+    <nomGoogle>CARRER  D' EIVISSA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>277</id>
+    <tipus>CARRER</tipus>
+    <nom>EL GRECO</nom>
+    <nomGoogle>CARRER  D' EL GRECO</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>551</id>
+    <tipus>CARRER</tipus>
+    <nom>EL SALVADOR</nom>
+    <nomGoogle>CARRER  D' EL SALVADOR</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>5094</id>
+    <tipus>CARRER</tipus>
+    <nom>ELEFANT</nom>
+    <nomGoogle>CARRER  DE L' ELEFANT</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>1372</id>
+    <tipus>CARRER</tipus>
+    <nom>ELIES ROGENT</nom>
+    <nomGoogle>CARRER  D' ELIES ROGENT</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>234</id>
+    <tipus>CARRER</tipus>
+    <nom>ELIONOR VINYERTA</nom>
+    <nomGoogle>CARRER  D' ELIONOR VINYERTA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>206</id>
+    <tipus>CARRER</tipus>
+    <nom>ELISENDA RIBATALLADA</nom>
+    <nomGoogle>CARRER  D' ELISENDA RIBATALLADA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>204</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>EMETERIO ESCUDERO</nom>
+    <nomGoogle>AVINGUDA  D' EMETERIO ESCUDERO</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>5190</id>
+    <tipus>CARRER</tipus>
+    <nom>EMPORDA</nom>
+    <nomGoogle>CARRER  DE L' EMPORDA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>209</id>
+    <tipus>CARRER</tipus>
+    <nom>ENAMORATS</nom>
+    <nomGoogle>CARRER  DELS ENAMORATS</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>192</id>
+    <tipus>CARRER</tipus>
+    <nom>ENDAVALLADA</nom>
+    <nomGoogle>CARRER  DE L' ENDAVALLADA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>212</id>
+    <tipus>CARRER</tipus>
+    <nom>ENFILADISSA</nom>
+    <nomGoogle>CARRER  DE L' ENFILADISSA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>211</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>ENLLAÇ</nom>
+    <nomGoogle>AVINGUDA  DE L' ENLLAÇ</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>213</id>
+    <tipus>CARRER</tipus>
+    <nom>ENRIC GRANADOS</nom>
+    <nomGoogle>CARRER  D' ENRIC GRANADOS</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>301</id>
+    <tipus>CARRER</tipus>
+    <nom>ENRIC LANFRANCO</nom>
+    <nomGoogle>CARRER  D' ENRIC LANFRANCO</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>172</id>
+    <tipus>CARRER</tipus>
+    <nom>ENRIC SAGNIER</nom>
+    <nomGoogle>CARRER  D' ENRIC SAGNIER</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>1158</id>
+    <tipus>CARRER</tipus>
+    <nom>ENTRONCAMENT</nom>
+    <nomGoogle>CARRER  DE L' ENTRONCAMENT</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>7018</id>
+    <tipus>CARRER</tipus>
+    <nom>EQUADOR</nom>
+    <nomGoogle>CARRER  DE L' EQUADOR</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>1050</id>
+    <tipus>CARRER</tipus>
+    <nom>ERMITA</nom>
+    <nomGoogle>CARRER  DE L' ERMITA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>5096</id>
+    <tipus>CARRER</tipus>
+    <nom>ESCALES DE TARRUELL</nom>
+    <nomGoogle>CARRER  DE LES ESCALES DE TARRUELL</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>216</id>
+    <tipus>CARRER</tipus>
+    <nom>ESCALETES</nom>
+    <nomGoogle>CARRER  DE LES ESCALETES</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>217</id>
+    <tipus>CARRER</tipus>
+    <nom>ESCOLES</nom>
+    <nomGoogle>CARRER  DE LES ESCOLES</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>288</id>
+    <tipus>CARRER</tipus>
+    <nom>ESGLESIA</nom>
+    <nomGoogle>CARRER  DE L' ESGLESIA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>220</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ESPANYA</nom>
+    <nomGoogle>PLAÇA  D' ESPANYA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>222</id>
+    <tipus>CARRER</tipus>
+    <nom>ESPARREC</nom>
+    <nomGoogle>CARRER  DE L' ESPARREC</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>254</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ESPARVER</nom>
+    <nomGoogle>PASSEIG  DE L' ESPARVER</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>1053</id>
+    <tipus>CARRER</tipus>
+    <nom>ESPERANTO</nom>
+    <nomGoogle>CARRER  DE L' ESPERANTO</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>5088</id>
+    <tipus>CARRER</tipus>
+    <nom>ESPORT</nom>
+    <nomGoogle>CARRER  DE L' ESPORT</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>1079</id>
+    <tipus>CARRER</tipus>
+    <nom>ESQUIROL</nom>
+    <nomGoogle>CARRER  DE L' ESQUIROL</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>221</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>ESTACIO</nom>
+    <nomGoogle>AVINGUDA  DE L' ESTACIO</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>346</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ESTACIO</nom>
+    <nomGoogle>PLAÇA  DE L' ESTACIO</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>472</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ESTACIO DE LA FLORESTA</nom>
+    <nomGoogle>PLAÇA  DE L' ESTACIO DE LA FLORESTA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>223</id>
+    <tipus>CARRER</tipus>
+    <nom>ESTAPE</nom>
+    <nomGoogle>CARRER  D' ESTAPE</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>174</id>
+    <tipus>CARRER</tipus>
+    <nom>ESTEL</nom>
+    <nomGoogle>CARRER  DE L' ESTEL</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>5098</id>
+    <tipus>CARRER</tipus>
+    <nom>ESTEPA</nom>
+    <nomGoogle>CARRER  DE L' ESTEPA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>1438</id>
+    <tipus>CARRER</tipus>
+    <nom>ESTEVE PILA</nom>
+    <nomGoogle>CARRER  D' ESTEVE PILA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>7019</id>
+    <tipus>CARRER</tipus>
+    <nom>ESTRET DE DARDANELS</nom>
+    <nomGoogle>CARRER  DE L' ESTRET DE DARDANELS</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>225</id>
+    <tipus>CARRER</tipus>
+    <nom>ESTRET DE GIBRALTAR</nom>
+    <nomGoogle>CARRER  DE L' ESTRET DE GIBRALTAR</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>7020</id>
+    <tipus>CARRER</tipus>
+    <nom>ESTRET DE MESSINA</nom>
+    <nomGoogle>CARRER  DE L' ESTRET DE MESSINA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>231</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ESTRETS</nom>
+    <nomGoogle>PLAÇA  DELS ESTRETS</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>227</id>
+    <tipus>PASSATGE</tipus>
+    <nom>EUCALIPTUS</nom>
+    <nomGoogle>PASSATGE  DE L' EUCALIPTUS</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>218</id>
+    <tipus>CARRER</tipus>
+    <nom>EUGENI CANAS</nom>
+    <nomGoogle>CARRER  D' EUGENI CANAS</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>1443</id>
+    <tipus>CARRER</tipus>
+    <nom>EUGENI D'ORS</nom>
+    <nomGoogle>CARRER  D' EUGENI D'ORS</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>1422</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>EUROPA</nom>
+    <nomGoogle>AVINGUDA  D' EUROPA</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>141</id>
+    <tipus>CARRER</tipus>
+    <nom>EUSEBI ARNAU</nom>
+    <nomGoogle>CARRER  D' EUSEBI ARNAU</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>807</id>
+    <tipus>CARRER</tipus>
+    <nom>EVEREST</nom>
+    <nomGoogle>CARRER  DE L' EVEREST</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>232</id>
+    <tipus>DRECERA</tipus>
+    <nom>EVONIM</nom>
+    <nomGoogle>DRECERA  DE L' EVONIM</nomGoogle>
+  </carrer_E>
+  <carrer_E>
+    <id>2001</id>
+    <tipus>AUTOPISTA</tipus>
+    <nom>E-9</nom>
+    <nomGoogle>AUTOPISTA E-9</nomGoogle>
+  </carrer_E>
+  <carrer_F>
+    <id>5100</id>
+    <tipus>CARRER</tipus>
+    <nom>FABRICA</nom>
+    <nomGoogle>CARRER  DE LA FABRICA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>229</id>
+    <tipus>CARRER</tipus>
+    <nom>FAISA</nom>
+    <nomGoogle>CARRER  DEL FAISA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>597</id>
+    <tipus>CARRER</tipus>
+    <nom>FARIGOLAR</nom>
+    <nomGoogle>CARRER  DEL FARIGOLAR</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>239</id>
+    <tipus>CARRER</tipus>
+    <nom>FEDANCI</nom>
+    <nomGoogle>CARRER  DE FEDANCI</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>196</id>
+    <tipus>CARRER</tipus>
+    <nom>FERRAN</nom>
+    <nomGoogle>CARRER  DE FERRAN</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>1369</id>
+    <tipus>CARRER</tipus>
+    <nom>FERRAN ROMEU</nom>
+    <nomGoogle>CARRER  DE FERRAN ROMEU</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>1428</id>
+    <tipus>CARRER</tipus>
+    <nom>FERRAN SOLDEVILA</nom>
+    <nomGoogle>CARRER  DE FERRAN SOLDEVILA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>1392</id>
+    <tipus>CARRER</tipus>
+    <nom>FERRER I GUARDIA</nom>
+    <nomGoogle>CARRER  DE FERRER I GUARDIA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>999</id>
+    <tipus>JARDINS</tipus>
+    <nom>FESTA DE TARDOR</nom>
+    <nomGoogle>JARDINS  DE LA FESTA DE TARDOR</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>282</id>
+    <tipus>PASSATGE</tipus>
+    <nom>FIGUERA</nom>
+    <nomGoogle>PASSATGE  DE LA FIGUERA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>814</id>
+    <tipus>CARRER</tipus>
+    <nom>FILIPINES</nom>
+    <nomGoogle>CARRER  DE LES FILIPINES</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>6043</id>
+    <tipus>CARRER</tipus>
+    <nom>FLORS</nom>
+    <nomGoogle>CARRER  DE LES FLORS</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>291</id>
+    <tipus>CARRER</tipus>
+    <nom>FOLCH I TORRES</nom>
+    <nomGoogle>CARRER  DE FOLCH I TORRES</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>5120</id>
+    <tipus>CARRER</tipus>
+    <nom>FONOLL</nom>
+    <nomGoogle>CARRER  DEL FONOLL</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>5106</id>
+    <tipus>PASSATGE</tipus>
+    <nom>FONT</nom>
+    <nomGoogle>PASSATGE  DE LA FONT</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>7024</id>
+    <tipus>PASSEIG</tipus>
+    <nom>FONT</nom>
+    <nomGoogle>PASSEIG  DE LA FONT</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>241</id>
+    <tipus>CARRER</tipus>
+    <nom>FONT</nom>
+    <nomGoogle>CARRER  DE LA FONT</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>529</id>
+    <tipus>CARRER</tipus>
+    <nom>FONT DE LA MATA</nom>
+    <nomGoogle>CARRER  DE LA FONT DE LA MATA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>244</id>
+    <tipus>CAMI</tipus>
+    <nom>FONT DE L'ERMITA</nom>
+    <nomGoogle>CAMI  DE LA FONT DE L'ERMITA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>242</id>
+    <tipus>PASSATGE</tipus>
+    <nom>FONT DE MARIA LLUISA</nom>
+    <nomGoogle>PASSATGE  DE LA FONT DE MARIA LLUISA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>122</id>
+    <tipus>PASSATGE</tipus>
+    <nom>FONT DE SANT RAFAEL</nom>
+    <nomGoogle>PASSATGE  DE LA FONT DE SANT RAFAEL</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>815</id>
+    <tipus>CAMI</tipus>
+    <nom>FONT DEL FUMET</nom>
+    <nomGoogle>CAMI  DE LA FONT DEL FUMET</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>237</id>
+    <tipus>CARRER</tipus>
+    <nom>FONT DEL FUMET</nom>
+    <nomGoogle>CARRER  DE LA FONT DEL FUMET</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>7023</id>
+    <tipus>CARRER</tipus>
+    <nom>FONT DEL REI</nom>
+    <nomGoogle>CARRER  DE LA FONT DEL REI</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>245</id>
+    <tipus>CAMI</tipus>
+    <nom>FONT D'EN PASSARET</nom>
+    <nomGoogle>CAMI  DE LA FONT D'EN PASSARET</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>243</id>
+    <tipus>CARRER</tipus>
+    <nom>FONT D'EN SALADRIGUES</nom>
+    <nomGoogle>CARRER  DE LA FONT D'EN SALADRIGUES</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>236</id>
+    <tipus>CARRER</tipus>
+    <nom>FONT I FERRER</nom>
+    <nomGoogle>CARRER  DE FONT I FERRER</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>5108</id>
+    <tipus>CARRER</tipus>
+    <nom>FONT RICA</nom>
+    <nomGoogle>CARRER  DE LA FONT RICA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>1269</id>
+    <tipus>PASSATGE</tipus>
+    <nom>FONT RICA</nom>
+    <nomGoogle>PASSATGE  DE LA FONT RICA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>5102</id>
+    <tipus>PLAÇA</tipus>
+    <nom>FONT XICA</nom>
+    <nomGoogle>PLAÇA  DE LA FONT XICA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>6000</id>
+    <tipus>CARRER</tipus>
+    <nom>FORMENTERA</nom>
+    <nomGoogle>CARRER  DE FORMENTERA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>1205</id>
+    <tipus>CARRER</tipus>
+    <nom>FORMOSA</nom>
+    <nomGoogle>CARRER  DE FORMOSA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>247</id>
+    <tipus>CARRER</tipus>
+    <nom>FORTUNY</nom>
+    <nomGoogle>CARRER  DE FORTUNY</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>249</id>
+    <tipus>CARRER</tipus>
+    <nom>FOSSAR DE LES MORERES</nom>
+    <nomGoogle>CARRER  DEL FOSSAR DE LES MORERES</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>250</id>
+    <tipus>CARRER</tipus>
+    <nom>FRA LUIS DE LEON</nom>
+    <nomGoogle>CARRER  DE FRA LUIS DE LEON</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>1440</id>
+    <tipus>CARRER</tipus>
+    <nom>FRANCESC CABANAS ALIBAU</nom>
+    <nomGoogle>CARRER  DE FRANCESC CABANAS ALIBAU</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>1509</id>
+    <tipus>PASSEIG</tipus>
+    <nom>FRANCESC MACIA</nom>
+    <nomGoogle>PASSEIG  DE FRANCESC MACIA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>382</id>
+    <tipus>CARRER</tipus>
+    <nom>FRANCESC MORAGAS</nom>
+    <nomGoogle>CARRER  DE FRANCESC MORAGAS</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>5105</id>
+    <tipus>CARRER</tipus>
+    <nom>FRANCESC VILA</nom>
+    <nomGoogle>CARRER  DE FRANCESC VILA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>559</id>
+    <tipus>CARRER</tipus>
+    <nom>FRANCESC VIÑAS</nom>
+    <nomGoogle>CARRER  DE FRANCESC VIÑAS</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>157</id>
+    <tipus>CARRER</tipus>
+    <nom>FREDERIC MARES</nom>
+    <nomGoogle>CARRER  DE FREDERIC MARES</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>1504</id>
+    <tipus>CARRER</tipus>
+    <nom>FREDERIC MOMPOU</nom>
+    <nomGoogle>CARRER  DE FREDERIC MOMPOU</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>240</id>
+    <tipus>PASSATGE</tipus>
+    <nom>FREIXAS</nom>
+    <nomGoogle>PASSATGE  DE FREIXAS</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>248</id>
+    <tipus>CARRER</tipus>
+    <nom>FUERTEVENTURA</nom>
+    <nomGoogle>CARRER  DE FUERTEVENTURA</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>499</id>
+    <tipus>CARRER</tipus>
+    <nom>FUMET</nom>
+    <nomGoogle>CARRER  DEL FUMET</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>5109</id>
+    <tipus>PASSATGE</tipus>
+    <nom>FUMET</nom>
+    <nomGoogle>PASSATGE  DEL FUMET</nomGoogle>
+  </carrer_F>
+  <carrer_F>
+    <id>246</id>
+    <tipus>CARRER</tipus>
+    <nom>FUSTER I SERRACANT</nom>
+    <nomGoogle>CARRER  DE FUSTER I SERRACANT</nomGoogle>
+  </carrer_F>
+  <carrer_G>
+    <id>1574</id>
+    <tipus>PLAÇA</tipus>
+    <nom>GABRIEL FERRATER</nom>
+    <nomGoogle>PLAÇA  DE GABRIEL FERRATER</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>208</id>
+    <tipus>CARRER</tipus>
+    <nom>GABRIEL FERRATER</nom>
+    <nomGoogle>CARRER  DE GABRIEL FERRATER</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>156</id>
+    <tipus>PASSEIG</tipus>
+    <nom>GAFARRO</nom>
+    <nomGoogle>PASSEIG  DEL GAFARRO</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>251</id>
+    <tipus>CARRER</tipus>
+    <nom>GALICIA</nom>
+    <nomGoogle>CARRER  DE GALICIA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>252</id>
+    <tipus>PASSEIG</tipus>
+    <nom>GARDENIA</nom>
+    <nomGoogle>PASSEIG  DE LA GARDENIA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1586</id>
+    <tipus>CARRER</tipus>
+    <nom>GARRAF</nom>
+    <nomGoogle>CARRER  DEL GARRAF</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>5176</id>
+    <tipus>PASSATGE</tipus>
+    <nom>GARRIGA</nom>
+    <nomGoogle>PASSATGE  DE LA GARRIGA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>5188</id>
+    <tipus>CARRER</tipus>
+    <nom>GARROTXA</nom>
+    <nomGoogle>CARRER  DE LA GARROTXA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>253</id>
+    <tipus>PASSEIG</tipus>
+    <nom>GARSA</nom>
+    <nomGoogle>PASSEIG  DE LA GARSA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>386</id>
+    <tipus>CARRER</tipus>
+    <nom>GASPAR SALA</nom>
+    <nomGoogle>CARRER  DE GASPAR SALA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1202</id>
+    <tipus>CARRER</tipus>
+    <nom>GAVETA</nom>
+    <nomGoogle>CARRER  DE LA GAVETA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>261</id>
+    <tipus>CARRER</tipus>
+    <nom>GENERAL PRIM</nom>
+    <nomGoogle>CARRER  DEL GENERAL PRIM</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1453</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>GENERALITAT</nom>
+    <nomGoogle>AVINGUDA  DE LA GENERALITAT</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>256</id>
+    <tipus>PASSEIG</tipus>
+    <nom>GERANI</nom>
+    <nomGoogle>PASSEIG  DEL GERANI</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1069</id>
+    <tipus>PASSATGE</tipus>
+    <nom>GERRER</nom>
+    <nomGoogle>PASSATGE  DEL GERRER</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1057</id>
+    <tipus>CARRER</tipus>
+    <nom>GIJON</nom>
+    <nomGoogle>CARRER  DE GIJON</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>259</id>
+    <tipus>CARRER</tipus>
+    <nom>GINEBRO</nom>
+    <nomGoogle>CARRER  DEL GINEBRO</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>6300</id>
+    <tipus>CARRER</tipus>
+    <nom>GINJOLER</nom>
+    <nomGoogle>CARRER  DEL GINJOLER</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>270</id>
+    <tipus>PASSATGE</tipus>
+    <nom>GIRA-SOL</nom>
+    <nomGoogle>PASSATGE  DEL GIRA-SOL</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>257</id>
+    <tipus>CARRER</tipus>
+    <nom>GIRONA</nom>
+    <nomGoogle>CARRER  DE GIRONA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>62</id>
+    <tipus>CARRER</tipus>
+    <nom>GLA</nom>
+    <nomGoogle>CARRER  DE LA GLA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1059</id>
+    <tipus>PASSATGE</tipus>
+    <nom>GLADIOL</nom>
+    <nomGoogle>PASSATGE  DEL GLADIOL</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>263</id>
+    <tipus>CARRER</tipus>
+    <nom>GOLF DE BISCAIA</nom>
+    <nomGoogle>CARRER  DEL GOLF DE BISCAIA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>599</id>
+    <tipus>PASSATGE</tipus>
+    <nom>GOLF DE BISCAIA</nom>
+    <nomGoogle>PASSATGE  DEL GOLF DE BISCAIA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>662</id>
+    <tipus>CARRER</tipus>
+    <nom>GOLF DE BOTNIA</nom>
+    <nomGoogle>CARRER  DEL GOLF DE BOTNIA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1060</id>
+    <tipus>CARRER</tipus>
+    <nom>GOLF DE CADIS</nom>
+    <nomGoogle>CARRER  DEL GOLF DE CADIS</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>705</id>
+    <tipus>CARRER</tipus>
+    <nom>GOLF DE MEXIC</nom>
+    <nomGoogle>CARRER  DEL GOLF DE MEXIC</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>262</id>
+    <tipus>CARRER</tipus>
+    <nom>GOLF DE ROSES</nom>
+    <nomGoogle>CARRER  DEL GOLF DE ROSES</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1064</id>
+    <tipus>CARRER</tipus>
+    <nom>GOLF DE VALENCIA</nom>
+    <nomGoogle>CARRER  DEL GOLF DE VALENCIA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>265</id>
+    <tipus>CARRER</tipus>
+    <nom>GOMERA</nom>
+    <nomGoogle>CARRER  DE LA GOMERA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1390</id>
+    <tipus>CARRER</tipus>
+    <nom>GORDI</nom>
+    <nomGoogle>CARRER  D'EN GORDI</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>266</id>
+    <tipus>CARRER</tipus>
+    <nom>GORINA</nom>
+    <nomGoogle>CARRER  DE GORINA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>447</id>
+    <tipus>CARRER</tipus>
+    <nom>GOYA</nom>
+    <nomGoogle>CARRER  DE GOYA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>128</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>GRACIA</nom>
+    <nomGoogle>AVINGUDA  DE GRACIA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>268</id>
+    <tipus>CARRER</tipus>
+    <nom>GRACIES</nom>
+    <nomGoogle>CARRER  DE LES GRACIES</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>269</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>GRAELLS</nom>
+    <nomGoogle>AVINGUDA  DE GRAELLS</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>272</id>
+    <tipus>CARRER</tipus>
+    <nom>GRANADA</nom>
+    <nomGoogle>CARRER  DE GRANADA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>273</id>
+    <tipus>CARRER</tipus>
+    <nom>GRANJA</nom>
+    <nomGoogle>CARRER  DE LA GRANJA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>274</id>
+    <tipus>CARRER</tipus>
+    <nom>GRANOLLERS</nom>
+    <nomGoogle>CARRER  DE GRANOLLERS</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1066</id>
+    <tipus>CARRER</tipus>
+    <nom>GRIVA</nom>
+    <nomGoogle>CARRER  DE LA GRIVA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>276</id>
+    <tipus>CARRER</tipus>
+    <nom>GUADALAJARA</nom>
+    <nomGoogle>CARRER  DE GUADALAJARA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>255</id>
+    <tipus>CARRER</tipus>
+    <nom>GUADALUPE DURAN</nom>
+    <nomGoogle>CARRER  DE GUADALUPE DURAN</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>660</id>
+    <tipus>PASSEIG</tipus>
+    <nom>GUINEU</nom>
+    <nomGoogle>PASSEIG  DE LA GUINEU</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>1483</id>
+    <tipus>CARRER</tipus>
+    <nom>GUIPUSCOA</nom>
+    <nomGoogle>CARRER  DE GUIPUSCOA</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>5118</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>GUIX BORRULL</nom>
+    <nomGoogle>AVINGUDA  DE GUIX BORRULL</nomGoogle>
+  </carrer_G>
+  <carrer_G>
+    <id>5119</id>
+    <tipus>CARRER</tipus>
+    <nom>GURUGU</nom>
+    <nomGoogle>CARRER  DEL GURUGU</nomGoogle>
+  </carrer_G>
+  <carrer_H>
+    <id>281</id>
+    <tipus>CARRER</tipus>
+    <nom>HAITI</nom>
+    <nomGoogle>CARRER  D' HAITI</nomGoogle>
+  </carrer_H>
+  <carrer_H>
+    <id>5121</id>
+    <tipus>CARRER</tipus>
+    <nom>HIPICA</nom>
+    <nomGoogle>CARRER  DE L' HIPICA</nomGoogle>
+  </carrer_H>
+  <carrer_H>
+    <id>283</id>
+    <tipus>PASSEIG</tipus>
+    <nom>HORTENSIA</nom>
+    <nomGoogle>PASSEIG  DE L' HORTENSIA</nomGoogle>
+  </carrer_H>
+  <carrer_H>
+    <id>6057</id>
+    <tipus>PLAÇA</tipus>
+    <nom>HORTET SOLE</nom>
+    <nomGoogle>PLAÇA  D' HORTET SOLE</nomGoogle>
+  </carrer_H>
+  <carrer_H>
+    <id>1333</id>
+    <tipus>CARRER</tipus>
+    <nom>HORTET SOLE</nom>
+    <nomGoogle>CARRER  D' HORTET SOLE</nomGoogle>
+  </carrer_H>
+  <carrer_H>
+    <id>285</id>
+    <tipus>CARRER</tipus>
+    <nom>HOSPITAL</nom>
+    <nomGoogle>CARRER  DE L' HOSPITAL</nomGoogle>
+  </carrer_H>
+  <carrer_I>
+    <id>287</id>
+    <tipus>CARRER</tipus>
+    <nom>IDEAL</nom>
+    <nomGoogle>CARRER  DE L' IDEAL</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>69</id>
+    <tipus>CARRER</tipus>
+    <nom>IGNASI BARRAQUER</nom>
+    <nomGoogle>CARRER  D' IGNASI BARRAQUER</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>696</id>
+    <tipus>CARRER</tipus>
+    <nom>IGUALADA</nom>
+    <nomGoogle>CARRER  D' IGUALADA</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>330</id>
+    <tipus>CARRER</tipus>
+    <nom>ILDEFONS CERDA</nom>
+    <nomGoogle>CARRER  D' ILDEFONS CERDA</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>1484</id>
+    <tipus>CARRER</tipus>
+    <nom>ILLES MEDES</nom>
+    <nomGoogle>CARRER  DE LES ILLES MEDES</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>289</id>
+    <tipus>CARRER</tipus>
+    <nom>INDUSTRIA</nom>
+    <nomGoogle>CARRER  DE LA INDUSTRIA</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>284</id>
+    <tipus>CARRER</tipus>
+    <nom>INFANT</nom>
+    <nomGoogle>CARRER  DE L' INFANT</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>292</id>
+    <tipus>CARRER</tipus>
+    <nom>IRUN</nom>
+    <nomGoogle>CARRER  D' IRUN</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>385</id>
+    <tipus>CARRER</tipus>
+    <nom>ISIDRE MARGENAT</nom>
+    <nomGoogle>CARRER  D' ISIDRE MARGENAT</nomGoogle>
+  </carrer_I>
+  <carrer_I>
+    <id>1436</id>
+    <tipus>CARRER</tipus>
+    <nom>ISIDRE NONELL</nom>
+    <nomGoogle>CARRER  D' ISIDRE NONELL</nomGoogle>
+  </carrer_I>
+  <carrer_J>
+    <id>1068</id>
+    <tipus>CARRER</tipus>
+    <nom>JAEN</nom>
+    <nomGoogle>CARRER  DE JAEN</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>293</id>
+    <tipus>RAMBLA</tipus>
+    <nom>JARDI</nom>
+    <nomGoogle>RAMBLA  DEL JARDI</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>295</id>
+    <tipus>PASSATGE</tipus>
+    <nom>JARDINER</nom>
+    <nomGoogle>PASSATGE  DEL JARDINER</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>391</id>
+    <tipus>CARRER</tipus>
+    <nom>JAUME DE MONTCORB</nom>
+    <nomGoogle>CARRER  DE JAUME DE MONTCORB</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1308</id>
+    <tipus>CARRER</tipus>
+    <nom>JAUME I</nom>
+    <nomGoogle>CARRER  DE JAUME I</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1550</id>
+    <tipus>CARRER</tipus>
+    <nom>JAUME PERICH</nom>
+    <nomGoogle>CARRER  DE JAUME PERICH</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1534</id>
+    <tipus>RAMBLA</tipus>
+    <nom>JAUME SABAT</nom>
+    <nomGoogle>RAMBLA  DE JAUME SABAT</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>5125</id>
+    <tipus>CARRER</tipus>
+    <nom>JAVA</nom>
+    <nomGoogle>CARRER  DE JAVA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>375</id>
+    <tipus>CARRER</tipus>
+    <nom>JERONI PUJADES</nom>
+    <nomGoogle>CARRER  DE JERONI PUJADES</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1513</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN ALCOVER</nom>
+    <nomGoogle>CARRER  DE JOAN ALCOVER</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1542</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN AMADES</nom>
+    <nomGoogle>CARRER  DE JOAN AMADES</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>70</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>JOAN BORRAS</nom>
+    <nomGoogle>AVINGUDA  DE JOAN BORRAS</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>5126</id>
+    <tipus>PLAÇA</tipus>
+    <nom>JOAN BORRAS</nom>
+    <nomGoogle>PLAÇA  DE JOAN BORRAS</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>5040</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN BUSCALLA</nom>
+    <nomGoogle>CARRER  DE JOAN BUSCALLA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1507</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN COROMINES</nom>
+    <nomGoogle>CARRER  DE JOAN COROMINES</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>5128</id>
+    <tipus>PLAÇA</tipus>
+    <nom>JOAN GASSO</nom>
+    <nomGoogle>PLAÇA  DE JOAN GASSO</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>7028</id>
+    <tipus>PLAÇA</tipus>
+    <nom>JOAN MAJOR</nom>
+    <nomGoogle>PLAÇA  DE JOAN MAJOR</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1512</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN MARAGALL</nom>
+    <nomGoogle>CARRER  DE JOAN MARAGALL</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1297</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN MIRO</nom>
+    <nomGoogle>CARRER  DE JOAN MIRO</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>333</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN OLIVER</nom>
+    <nomGoogle>CARRER  DE JOAN OLIVER</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>458</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN PLANAS</nom>
+    <nomGoogle>CARRER  DE JOAN PLANAS</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1441</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN REBULL</nom>
+    <nomGoogle>CARRER  DE JOAN REBULL</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1429</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN REGLA</nom>
+    <nomGoogle>CARRER  DE JOAN REGLA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>805</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAN XXIII</nom>
+    <nomGoogle>CARRER  DE JOAN XXIII</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>5236</id>
+    <tipus>CARRER</tipus>
+    <nom>JOANOT MARTORELL</nom>
+    <nomGoogle>CARRER  DE JOANOT MARTORELL</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>5009</id>
+    <tipus>CARRER</tipus>
+    <nom>JOAQUIM BLUME</nom>
+    <nomGoogle>CARRER  DE JOAQUIM BLUME</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>468</id>
+    <tipus>PLAÇA</tipus>
+    <nom>JOCS FLORALS</nom>
+    <nomGoogle>PLAÇA  DELS JOCS FLORALS</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1070</id>
+    <tipus>PASSEIG</tipus>
+    <nom>JOSE IBAÑEZ OLUCHA</nom>
+    <nomGoogle>PASSEIG  DE JOSE IBAÑEZ OLUCHA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1573</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEFINA MASCAREÑAS</nom>
+    <nomGoogle>CARRER  DE JOSEFINA MASCAREÑAS</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>298</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>JOSEP ANSELM CLAVE</nom>
+    <nomGoogle>AVINGUDA  DE JOSEP ANSELM CLAVE</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>60</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP CARNER</nom>
+    <nomGoogle>CARRER  DE JOSEP CARNER</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1432</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP CLARA</nom>
+    <nomGoogle>CARRER  DE JOSEP CLARA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>379</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP DE PERAY</nom>
+    <nomGoogle>CARRER  DE JOSEP DE PERAY</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>371</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP IRLA</nom>
+    <nomGoogle>CARRER  DE JOSEP IRLA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>124</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP LLIMONA</nom>
+    <nomGoogle>CARRER  DE JOSEP LLIMONA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>329</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP MARIA DE SAGARRA</nom>
+    <nomGoogle>CARRER  DE JOSEP MARIA DE SAGARRA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>207</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP MARIA SERT</nom>
+    <nomGoogle>CARRER  DE JOSEP MARIA SERT</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1526</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP PALLACH</nom>
+    <nomGoogle>CARRER  DE JOSEP PALLACH</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>5127</id>
+    <tipus>PLAÇA</tipus>
+    <nom>JOSEP PLAYA</nom>
+    <nomGoogle>PLAÇA  DE JOSEP PLAYA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>303</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP SALA I GENER</nom>
+    <nomGoogle>CARRER  DE JOSEP SALA I GENER</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>318</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP SERRABOGUNYA</nom>
+    <nomGoogle>CARRER  DE JOSEP SERRABOGUNYA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>370</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP TARRADELLAS</nom>
+    <nomGoogle>CARRER  DE JOSEP TARRADELLAS</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>5057</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP TRUETA</nom>
+    <nomGoogle>CARRER  DE JOSEP TRUETA</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>39</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP VALLS</nom>
+    <nomGoogle>CARRER  DE JOSEP VALLS</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1514</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP VICENÇ FOIX</nom>
+    <nomGoogle>CARRER  DE JOSEP VICENÇ FOIX</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>1434</id>
+    <tipus>CARRER</tipus>
+    <nom>JOSEP VIDAL I GRANES</nom>
+    <nomGoogle>CARRER  DE JOSEP VIDAL I GRANES</nomGoogle>
+  </carrer_J>
+  <carrer_J>
+    <id>438</id>
+    <tipus>CARRER</tipus>
+    <nom>JULIVERT</nom>
+    <nomGoogle>CARRER  DEL JULIVERT</nomGoogle>
+  </carrer_J>
+  <carrer_L>
+    <id>224</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>LA CLOTA</nom>
+    <nomGoogle>AVINGUDA  DE LA CLOTA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>367</id>
+    <tipus>CARRER</tipus>
+    <nom>LA COMA</nom>
+    <nomGoogle>CARRER  DE LA COMA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>177</id>
+    <tipus>CARRER</tipus>
+    <nom>LA CORUNYA</nom>
+    <nomGoogle>CARRER  DE LA CORUNYA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1150</id>
+    <tipus>CARRETERA</tipus>
+    <nom>LA FLORESTA</nom>
+    <nomGoogle>CARRETERA  DE LA FLORESTA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>235</id>
+    <tipus>PASSEIG</tipus>
+    <nom>LA FLORESTA</nom>
+    <nomGoogle>PASSEIG  DE LA FLORESTA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>341</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>LA GUINARDERA</nom>
+    <nomGoogle>AVINGUDA  DE LA GUINARDERA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>6606</id>
+    <tipus>CAMI</tipus>
+    <nom>LA GUINARDERA</nom>
+    <nomGoogle>CAMI  DE LA GUINARDERA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>7041</id>
+    <tipus>CARRER</tipus>
+    <nom>LA PLATA</nom>
+    <nomGoogle>CARRER  DE LA PLATA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1532</id>
+    <tipus>PLAÇA</tipus>
+    <nom>LA UNIO</nom>
+    <nomGoogle>PLAÇA  DE LA UNIO</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1073</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>LAIETANIA</nom>
+    <nomGoogle>AVINGUDA  DE LA LAIETANIA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>302</id>
+    <tipus>CARRER</tipus>
+    <nom>LANZAROTE</nom>
+    <nomGoogle>CARRER  DE LANZAROTE</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1074</id>
+    <tipus>CARRER</tipus>
+    <nom>LAS PALMAS</nom>
+    <nomGoogle>CARRER  DE LAS PALMAS</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1077</id>
+    <tipus>CARRER</tipus>
+    <nom>LEON</nom>
+    <nomGoogle>CARRER  DE LEON</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>313</id>
+    <tipus>CARRER</tipus>
+    <nom>LEPANT</nom>
+    <nomGoogle>CARRER  DE LEPANT</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>366</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>LES MARINES</nom>
+    <nomGoogle>AVINGUDA  DE LES MARINES</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>460</id>
+    <tipus>CARRER</tipus>
+    <nom>LES PLANES</nom>
+    <nomGoogle>CARRER  DE LES PLANES</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>280</id>
+    <tipus>PASSEIG</tipus>
+    <nom>L'HAVANA</nom>
+    <nomGoogle>PASSEIG  DE L'HAVANA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>316</id>
+    <tipus>PASSATGE</tipus>
+    <nom>LILA</nom>
+    <nomGoogle>PASSATGE  DEL LILA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1078</id>
+    <tipus>PASSATGE</tipus>
+    <nom>LLAC</nom>
+    <nomGoogle>PASSATGE  DEL LLAC</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>300</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>LLAC</nom>
+    <nomGoogle>AVINGUDA  DEL LLAC</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>307</id>
+    <tipus>CARRER</tipus>
+    <nom>LLACERES</nom>
+    <nomGoogle>CARRER  DE LLACERES</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>426</id>
+    <tipus>CARRER</tipus>
+    <nom>LLANEGA</nom>
+    <nomGoogle>CARRER  DE LA LLANEGA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>5132</id>
+    <tipus>CARRER</tipus>
+    <nom>LLEBRE</nom>
+    <nomGoogle>CARRER  DE LA LLEBRE</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>304</id>
+    <tipus>CARRER</tipus>
+    <nom>LLEIDA</nom>
+    <nomGoogle>CARRER  DE LLEIDA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1076</id>
+    <tipus>CARRER</tipus>
+    <nom>LLENTISCLE</nom>
+    <nomGoogle>CARRER  DEL LLENTISCLE</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>296</id>
+    <tipus>PASSEIG</tipus>
+    <nom>LLESSAMI</nom>
+    <nomGoogle>PASSEIG  DEL LLESSAMI</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>305</id>
+    <tipus>CARRER</tipus>
+    <nom>LLI</nom>
+    <nomGoogle>CARRER  DEL LLI</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1080</id>
+    <tipus>PASSATGE</tipus>
+    <nom>LLIMONA</nom>
+    <nomGoogle>PASSATGE  DE LA LLIMONA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>20</id>
+    <tipus>CARRER</tipus>
+    <nom>LLOBREGAT</nom>
+    <nomGoogle>CARRER  DEL LLOBREGAT</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>16</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>LLUIS COMPANYS</nom>
+    <nomGoogle>AVINGUDA  DE LLUIS COMPANYS</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>5137</id>
+    <tipus>PLAÇA</tipus>
+    <nom>LLUIS MILLET</nom>
+    <nomGoogle>PLAÇA  DE LLUIS MILLET</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>568</id>
+    <tipus>PLAÇA</tipus>
+    <nom>LLUIS PUIG I TUNEU</nom>
+    <nomGoogle>PLAÇA  DE LLUIS PUIG I TUNEU</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>414</id>
+    <tipus>CARRER</tipus>
+    <nom>LLUIS VERMELL</nom>
+    <nomGoogle>CARRER  DE LLUIS VERMELL</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>5138</id>
+    <tipus>CARRER</tipus>
+    <nom>LLUM</nom>
+    <nomGoogle>CARRER  DE LA LLUM</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>310</id>
+    <tipus>CARRER</tipus>
+    <nom>LLUNA</nom>
+    <nomGoogle>CARRER  DE LA LLUNA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>1449</id>
+    <tipus>CARRER</tipus>
+    <nom>LOLA ANGLADA</nom>
+    <nomGoogle>CARRER  DE LOLA ANGLADA</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>483</id>
+    <tipus>PASSATGE</tipus>
+    <nom>LOTUS</nom>
+    <nomGoogle>PASSATGE  DEL LOTUS</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>5135</id>
+    <tipus>CARRER</tipus>
+    <nom>LUGO</nom>
+    <nomGoogle>CARRER  DE LUGO</nomGoogle>
+  </carrer_L>
+  <carrer_L>
+    <id>800</id>
+    <tipus>CARRER</tipus>
+    <nom>LUZON</nom>
+    <nomGoogle>CARRER  DE LUZON</nomGoogle>
+  </carrer_L>
+  <carrer_M>
+    <id>311</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MADRID</nom>
+    <nomGoogle>AVINGUDA  DE MADRID</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>314</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MAGNOLIA</nom>
+    <nomGoogle>PASSEIG  DE LA MAGNOLIA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>473</id>
+    <tipus>PLAÇA</tipus>
+    <nom>MAINADA</nom>
+    <nomGoogle>PLAÇA  DE LA MAINADA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>338</id>
+    <tipus>CARRER</tipus>
+    <nom>MAJOR</nom>
+    <nomGoogle>CARRER MAJOR</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5157</id>
+    <tipus>CARRER</tipus>
+    <nom>MAJOR DE LA FLORESTA</nom>
+    <nomGoogle>CARRER MAJOR DE LA FLORESTA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5155</id>
+    <tipus>CARRER</tipus>
+    <nom>MAJOR DEL RECTORET</nom>
+    <nomGoogle>CARRER MAJOR DEL RECTORET</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1142</id>
+    <tipus>CARRER</tipus>
+    <nom>MALLORCA</nom>
+    <nomGoogle>CARRER  DE MALLORCA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>315</id>
+    <tipus>CARRER</tipus>
+    <nom>MALVA REIAL</nom>
+    <nomGoogle>CARRER  DE LA MALVA REIAL</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>7094</id>
+    <tipus>CARRER</tipus>
+    <nom>MALVI</nom>
+    <nomGoogle>CARRER  DEL MALVI</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1316</id>
+    <tipus>CARRER</tipus>
+    <nom>MANEL FARRES</nom>
+    <nomGoogle>CARRER  DE MANEL FARRES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>464</id>
+    <tipus>CARRER</tipus>
+    <nom>MANUEL DE PEDROLO</nom>
+    <nomGoogle>CARRER  DE MANUEL DE PEDROLO</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5141</id>
+    <tipus>PASSATGE</tipus>
+    <nom>MAR BLANC</nom>
+    <nomGoogle>PASSATGE  DEL MAR BLANC</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5142</id>
+    <tipus>CARRER</tipus>
+    <nom>MAR DE LA XINA</nom>
+    <nomGoogle>CARRER  DEL MAR DE LA XINA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5143</id>
+    <tipus>CARRER</tipus>
+    <nom>MAR DEL NORD</nom>
+    <nomGoogle>CARRER  DEL MAR DEL NORD</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5145</id>
+    <tipus>CARRER</tipus>
+    <nom>MAR EGEU</nom>
+    <nomGoogle>CARRER  DEL MAR EGEU</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5146</id>
+    <tipus>CARRER</tipus>
+    <nom>MAR NEGRE</nom>
+    <nomGoogle>CARRER  DEL MAR NEGRE</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>477</id>
+    <tipus>CARRER</tipus>
+    <nom>MARCOS REDONDO</nom>
+    <nomGoogle>CARRER  DE MARCOS REDONDO</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>6550</id>
+    <tipus>CARRER</tipus>
+    <nom>MARE DE DEU DEL ROSER</nom>
+    <nomGoogle>CARRER  DE LA MARE DE DEU DEL ROSER</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>226</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MARE DE LA FONT</nom>
+    <nomGoogle>PASSEIG  DE LA MARE DE LA FONT</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>6601</id>
+    <tipus>CARRER</tipus>
+    <nom>MARESME</nom>
+    <nomGoogle>CARRER  DEL MARESME</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>320</id>
+    <tipus>CARRER</tipus>
+    <nom>MARGARIT</nom>
+    <nomGoogle>CARRER  DE MARGARIT</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>319</id>
+    <tipus>CARRER</tipus>
+    <nom>MARGES</nom>
+    <nomGoogle>CARRER  DELS MARGES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5148</id>
+    <tipus>CARRER</tipus>
+    <nom>MARIA ANTONIA</nom>
+    <nomGoogle>CARRER  DE MARIA ANTONIA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>347</id>
+    <tipus>CARRER</tipus>
+    <nom>MARIA BENLLIURE</nom>
+    <nomGoogle>CARRER  DE MARIA BENLLIURE</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1502</id>
+    <tipus>CARRER</tipus>
+    <nom>MARIA MANENT</nom>
+    <nomGoogle>CARRER  DE MARIA MANENT</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1360</id>
+    <tipus>CARRER</tipus>
+    <nom>MARIA VAYREDA</nom>
+    <nomGoogle>CARRER  DE MARIA VAYREDA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>321</id>
+    <tipus>CARRER</tipus>
+    <nom>MARINE</nom>
+    <nomGoogle>CARRER  DE MARINE</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>323</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MARISCOTA</nom>
+    <nomGoogle>PASSEIG  DE LA MARISCOTA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>353</id>
+    <tipus>CARRER</tipus>
+    <nom>MARIUS TORRES</nom>
+    <nomGoogle>CARRER  DE MARIUS TORRES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5144</id>
+    <tipus>CARRER</tipus>
+    <nom>MARS DEL SUD</nom>
+    <nomGoogle>CARRER  DELS MARS DEL SUD</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1496</id>
+    <tipus>CARRER</tipus>
+    <nom>MARTI L'HUMA</nom>
+    <nomGoogle>CARRER  DE MARTI L'HUMA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>324</id>
+    <tipus>CARRER</tipus>
+    <nom>MARTORELL</nom>
+    <nomGoogle>CARRER  DE MARTORELL</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>564</id>
+    <tipus>PASSATGE</tipus>
+    <nom>MARXA INFANTIL</nom>
+    <nomGoogle>PASSATGE  DE LA MARXA INFANTIL</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5149</id>
+    <tipus>CAMI</tipus>
+    <nom>MAS DEL BOSC</nom>
+    <nomGoogle>CAMI  DEL MAS DEL BOSC</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>339</id>
+    <tipus>CAMI</tipus>
+    <nom>MAS FORTUNY</nom>
+    <nomGoogle>CAMI  DEL MAS FORTUNY</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1148</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MAS FUSTER</nom>
+    <nomGoogle>AVINGUDA  DEL MAS FUSTER</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5151</id>
+    <tipus>PLAÇA</tipus>
+    <nom>MAS GENER</nom>
+    <nomGoogle>PLAÇA  DEL MAS GENER</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1094</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MAS GENER</nom>
+    <nomGoogle>AVINGUDA  DEL MAS GENER</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>335</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MAS ROIG</nom>
+    <nomGoogle>PASSEIG  DEL MAS ROIG</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>334</id>
+    <tipus>PLAÇA</tipus>
+    <nom>MAS ROIG</nom>
+    <nomGoogle>PLAÇA  DEL MAS ROIG</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>336</id>
+    <tipus>CAMI</tipus>
+    <nom>MAS ROIG AL MAS FUSTER</nom>
+    <nomGoogle>CAMI  DEL MAS ROIG AL MAS FUSTER</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>6500</id>
+    <tipus>PLAÇA</tipus>
+    <nom>MATA</nom>
+    <nomGoogle>PLAÇA  DE LA MATA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>337</id>
+    <tipus>CARRER</tipus>
+    <nom>MATA (VALLDOREIX)</nom>
+    <nomGoogle>CARRER  DE LA MATA (VALLDOREIX)</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1096</id>
+    <tipus>CARRER</tipus>
+    <nom>MENDEZ NUÑEZ</nom>
+    <nomGoogle>CARRER  DE MENDEZ NUÑEZ</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>343</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MENENDEZ PELAYO</nom>
+    <nomGoogle>AVINGUDA  DE MENENDEZ PELAYO</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1164</id>
+    <tipus>CARRER</tipus>
+    <nom>MENORCA</nom>
+    <nomGoogle>CARRER  DE MENORCA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1097</id>
+    <tipus>CARRER</tipus>
+    <nom>MENTA</nom>
+    <nomGoogle>CARRER  DE LA MENTA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>345</id>
+    <tipus>PASSATGE</tipus>
+    <nom>MENTA</nom>
+    <nomGoogle>PASSATGE  DE LA MENTA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1206</id>
+    <tipus>CARRER</tipus>
+    <nom>MERCAT</nom>
+    <nomGoogle>CARRER  DEL MERCAT</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>131</id>
+    <tipus>CARRER</tipus>
+    <nom>MERCE CAPSIR</nom>
+    <nomGoogle>CARRER  DE MERCE CAPSIR</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>327</id>
+    <tipus>CARRER</tipus>
+    <nom>MERCE RODOREDA</nom>
+    <nomGoogle>CARRER  DE MERCE RODOREDA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>919</id>
+    <tipus>CARRER</tipus>
+    <nom>MERCE VILARET</nom>
+    <nomGoogle>CARRER  DE MERCE VILARET</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>361</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MERLA</nom>
+    <nomGoogle>PASSEIG  DE LA MERLA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1541</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MESTRA CASESNOVES</nom>
+    <nomGoogle>PASSEIG  DE LA MESTRA CASESNOVES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5139</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MESTRE ALFONS</nom>
+    <nomGoogle>AVINGUDA  DEL MESTRE ALFONS</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5133</id>
+    <tipus>CARRER</tipus>
+    <nom>MESTRES</nom>
+    <nomGoogle>CARRER  DELS MESTRES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5158</id>
+    <tipus>CARRER</tipus>
+    <nom>MEXIC</nom>
+    <nomGoogle>CARRER  DE MEXIC</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>340</id>
+    <tipus>CARRER</tipus>
+    <nom>MIGDIA</nom>
+    <nomGoogle>CARRER  DEL MIGDIA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>331</id>
+    <tipus>PLAÇA</tipus>
+    <nom>MIL.LENARI</nom>
+    <nomGoogle>PLAÇA  DEL MIL.LENARI</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>348</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MIMOSA</nom>
+    <nomGoogle>PASSEIG  DE LA MIMOSA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>349</id>
+    <tipus>CARRER</tipus>
+    <nom>MINA</nom>
+    <nomGoogle>CARRER  DE LA MINA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>7033</id>
+    <tipus>DRECERA</tipus>
+    <nom>MINES</nom>
+    <nomGoogle>DRECERA  DE LES MINES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>351</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MINES</nom>
+    <nomGoogle>AVINGUDA  DE LES MINES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5161</id>
+    <tipus>CARRER</tipus>
+    <nom>MIQUEL ANGEL</nom>
+    <nomGoogle>CARRER  DE MIQUEL ANGEL</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>140</id>
+    <tipus>PASSATGE</tipus>
+    <nom>MIQUEL BLAY</nom>
+    <nomGoogle>PASSATGE  DE MIQUEL BLAY</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>392</id>
+    <tipus>CARRER</tipus>
+    <nom>MIQUEL QUINTANA</nom>
+    <nomGoogle>CARRER  DE MIQUEL QUINTANA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>490</id>
+    <tipus>PLAÇA</tipus>
+    <nom>MIQUEL ROS</nom>
+    <nomGoogle>PLAÇA  DE MIQUEL ROS</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>65</id>
+    <tipus>CARRER</tipus>
+    <nom>MIQUEL SERVET</nom>
+    <nomGoogle>CARRER  DE MIQUEL SERVET</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>354</id>
+    <tipus>CARRER</tipus>
+    <nom>MIR</nom>
+    <nomGoogle>CARRER  DE MIR</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5164</id>
+    <tipus>PASSATGE</tipus>
+    <nom>MIRALLES</nom>
+    <nomGoogle>PASSATGE  DE MIRALLES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>470</id>
+    <tipus>CARRER</tipus>
+    <nom>MIRALLUNY</nom>
+    <nomGoogle>CARRER  DE MIRALLUNY</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5163</id>
+    <tipus>PASSATGE</tipus>
+    <nom>MIRANDA</nom>
+    <nomGoogle>PASSATGE  DE LA MIRANDA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>356</id>
+    <tipus>CARRER</tipus>
+    <nom>MIRANDA DE MONTSERRAT</nom>
+    <nomGoogle>CARRER  DE LA MIRANDA DE MONTSERRAT</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>357</id>
+    <tipus>CARRER</tipus>
+    <nom>MIRANDA DEL VALLES</nom>
+    <nomGoogle>CARRER  DE LA MIRANDA DEL VALLES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5165</id>
+    <tipus>PLAÇA</tipus>
+    <nom>MIRA-SOL</nom>
+    <nomGoogle>PLAÇA  DE MIRA-SOL</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>358</id>
+    <tipus>CARRER</tipus>
+    <nom>MIRA-SOL</nom>
+    <nomGoogle>CARRER  DE MIRA-SOL</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>364</id>
+    <tipus>CARRER</tipus>
+    <nom>MOLI DE LES PLANES</nom>
+    <nomGoogle>CARRER  DEL MOLI DE LES PLANES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>363</id>
+    <tipus>CARRER</tipus>
+    <nom>MOLI DE VALLDOREIX</nom>
+    <nomGoogle>CARRER  DEL MOLI DE VALLDOREIX</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5166</id>
+    <tipus>CARRETERA</tipus>
+    <nom>MOLINS DE REI A CALDES</nom>
+    <nomGoogle>CARRETERA  DE MOLINS DE REI A CALDES</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>365</id>
+    <tipus>CARRER</tipus>
+    <nom>MONESTIR</nom>
+    <nomGoogle>CARRER  DEL MONESTIR</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5169</id>
+    <tipus>CARRER</tipus>
+    <nom>MONESTIR DE BESALU</nom>
+    <nomGoogle>CARRER  DEL MONESTIR DE BESALU</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>404</id>
+    <tipus>CARRER</tipus>
+    <nom>MONESTIR DE POBLET</nom>
+    <nomGoogle>CARRER  DEL MONESTIR DE POBLET</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>408</id>
+    <tipus>CARRER</tipus>
+    <nom>MONESTIR DE SANT LLORENÇ</nom>
+    <nomGoogle>CARRER  DEL MONESTIR DE SANT LLORENÇ</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1101</id>
+    <tipus>CARRER</tipus>
+    <nom>MONESTIR DE VILABERTRAN</nom>
+    <nomGoogle>CARRER  DEL MONESTIR DE VILABERTRAN</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5185</id>
+    <tipus>CAMI</tipus>
+    <nom>MONJOS</nom>
+    <nomGoogle>CAMI  DELS MONJOS</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>372</id>
+    <tipus>CARRER</tipus>
+    <nom>MONT BLANC</nom>
+    <nomGoogle>CARRER  DEL MONT BLANC</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5177</id>
+    <tipus>CARRER</tipus>
+    <nom>MONTEVIDEO</nom>
+    <nomGoogle>CARRER  DE MONTEVIDEO</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>373</id>
+    <tipus>CARRER</tipus>
+    <nom>MONTJUIC</nom>
+    <nomGoogle>CARRER  DE MONTJUIC</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>376</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MONTSENY</nom>
+    <nomGoogle>AVINGUDA  DEL MONTSENY</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>377</id>
+    <tipus>CARRER</tipus>
+    <nom>MONTSENY</nom>
+    <nomGoogle>CARRER  DEL MONTSENY</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5178</id>
+    <tipus>PLAÇA</tipus>
+    <nom>MONTSERRAT</nom>
+    <nomGoogle>PLAÇA  DE MONTSERRAT</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>378</id>
+    <tipus>CARRER</tipus>
+    <nom>MONTSERRAT</nom>
+    <nomGoogle>CARRER  DE MONTSERRAT</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>9</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MONTSERRAT ROIG</nom>
+    <nomGoogle>AVINGUDA  DE MONTSERRAT ROIG</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1490</id>
+    <tipus>CARRER</tipus>
+    <nom>MONTSIA</nom>
+    <nomGoogle>CARRER  DEL MONTSIA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5179</id>
+    <tipus>CARRER</tipus>
+    <nom>MORENETA DE MONTSERRAT</nom>
+    <nomGoogle>CARRER  DE LA MORENETA DE MONTSERRAT</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>384</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MORERA</nom>
+    <nomGoogle>PASSEIG  DE LA MORERA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1105</id>
+    <tipus>CARRER</tipus>
+    <nom>MORET</nom>
+    <nomGoogle>CARRER  DE MORET</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>1106</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>MOSSEN JACINT VERDAGUER</nom>
+    <nomGoogle>AVINGUDA  DE MOSSEN JACINT VERDAGUER</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>387</id>
+    <tipus>RAMBLA</tipus>
+    <nom>MOSSEN JACINT VERDAGUER</nom>
+    <nomGoogle>RAMBLA  DE MOSSEN JACINT VERDAGUER</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>166</id>
+    <tipus>RAMBLA</tipus>
+    <nom>MOSSEN JULI</nom>
+    <nomGoogle>RAMBLA  DE MOSSEN JULI</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>388</id>
+    <tipus>CARRER</tipus>
+    <nom>MOZART</nom>
+    <nomGoogle>CARRER  DE MOZART</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>389</id>
+    <tipus>PASSATGE</tipus>
+    <nom>MUNERA</nom>
+    <nomGoogle>PASSATGE  DE MUNERA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5175</id>
+    <tipus>PASSEIG</tipus>
+    <nom>MUNTANYA</nom>
+    <nomGoogle>PASSEIG  DE LA MUNTANYA</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>360</id>
+    <tipus>CARRER</tipus>
+    <nom>MURILLO</nom>
+    <nomGoogle>CARRER  DE MURILLO</nomGoogle>
+  </carrer_M>
+  <carrer_M>
+    <id>5180</id>
+    <tipus>PASSATGE</tipus>
+    <nom>MUSELLA</nom>
+    <nomGoogle>PASSATGE  DE MUSELLA</nomGoogle>
+  </carrer_M>
+  <carrer_N>
+    <id>509</id>
+    <tipus>CARRER</tipus>
+    <nom>NARCIS MONTURIOL</nom>
+    <nomGoogle>CARRER  DE NARCIS MONTURIOL</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>393</id>
+    <tipus>PASSEIG</tipus>
+    <nom>NARD</nom>
+    <nomGoogle>PASSEIG  DEL NARD</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>394</id>
+    <tipus>CARRER</tipus>
+    <nom>NAVARRA</nom>
+    <nomGoogle>CARRER  DE NAVARRA</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>5159</id>
+    <tipus>CARRER</tipus>
+    <nom>NENUFAR</nom>
+    <nomGoogle>CARRER  DEL NENUFAR</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>5160</id>
+    <tipus>PASSATGE</tipus>
+    <nom>NENUFAR</nom>
+    <nomGoogle>PASSATGE  DEL NENUFAR</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>396</id>
+    <tipus>CARRER</tipus>
+    <nom>NICARAGUA</nom>
+    <nomGoogle>CARRER  DE NICARAGUA</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>397</id>
+    <tipus>CARRER</tipus>
+    <nom>NIU GUERRER</nom>
+    <nomGoogle>CARRER  DEL NIU GUERRER</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>399</id>
+    <tipus>PASSATGE</tipus>
+    <nom>NOGUERA</nom>
+    <nomGoogle>PASSATGE  DE LA NOGUERA</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>398</id>
+    <tipus>PASSEIG</tipus>
+    <nom>NOGUERA</nom>
+    <nomGoogle>PASSEIG  DE LA NOGUERA</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>1452</id>
+    <tipus>RONDA</tipus>
+    <nom>NORD</nom>
+    <nomGoogle>RONDA  DEL NORD</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>5182</id>
+    <tipus>CARRER</tipus>
+    <nom>NOSTRA SENYORA DE L'ESTRADA</nom>
+    <nomGoogle>CARRER  DE NOSTRA SENYORA DE L'ESTRADA</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>640</id>
+    <tipus>CARRER</tipus>
+    <nom>NOSTRA SENYORA DEL PILAR</nom>
+    <nomGoogle>CARRER  DE NOSTRA SENYORA DEL PILAR</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>5181</id>
+    <tipus>CARRER</tipus>
+    <nom>NOSTRA SENYORA DELS ANGELS</nom>
+    <nomGoogle>CARRER  DE NOSTRA SENYORA DELS ANGELS</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>1109</id>
+    <tipus>CARRER</tipus>
+    <nom>NOU DE LA FLORESTA</nom>
+    <nomGoogle>CARRER NOU DE LA FLORESTA</nomGoogle>
+  </carrer_N>
+  <carrer_N>
+    <id>403</id>
+    <tipus>CARRER</tipus>
+    <nom>NURIA</nom>
+    <nomGoogle>CARRER  DE NURIA</nomGoogle>
+  </carrer_N>
+  <carrer_O>
+    <id>1110</id>
+    <tipus>CARRER</tipus>
+    <nom>OBIOLS</nom>
+    <nomGoogle>CARRER  D' OBIOLS</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>1173</id>
+    <tipus>CARRER</tipus>
+    <nom>OCEA ATLANTIC</nom>
+    <nomGoogle>CARRER  DE L' OCEA ATLANTIC</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>1170</id>
+    <tipus>CARRER</tipus>
+    <nom>OCEA GLACIAL</nom>
+    <nomGoogle>CARRER  DE L' OCEA GLACIAL</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>1171</id>
+    <tipus>CARRER</tipus>
+    <nom>OCEA INDIC</nom>
+    <nomGoogle>CARRER  DE L' OCEA INDIC</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>1189</id>
+    <tipus>CARRER</tipus>
+    <nom>OCEA PACIFIC</nom>
+    <nomGoogle>CARRER  DE L' OCEA PACIFIC</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>421</id>
+    <tipus>CARRER</tipus>
+    <nom>OCELLS</nom>
+    <nomGoogle>CARRER  DELS OCELLS</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>1156</id>
+    <tipus>PLAÇA</tipus>
+    <nom>OCELLS</nom>
+    <nomGoogle>PLAÇA  DELS OCELLS</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>405</id>
+    <tipus>PLAÇA</tipus>
+    <nom>OCTAVIA</nom>
+    <nomGoogle>PLAÇA  D' OCTAVIA</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>406</id>
+    <tipus>PASSEIG</tipus>
+    <nom>OLABARRIA</nom>
+    <nomGoogle>PASSEIG  D' OLABARRIA</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>409</id>
+    <tipus>CARRER</tipus>
+    <nom>OLIMPIA</nom>
+    <nomGoogle>CARRER  D' OLIMPIA</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>411</id>
+    <tipus>PLAÇA</tipus>
+    <nom>OLIVERES</nom>
+    <nomGoogle>PLAÇA  DE LES OLIVERES</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>1113</id>
+    <tipus>CARRER</tipus>
+    <nom>OLORDA</nom>
+    <nomGoogle>CARRER  D' OLORDA</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>562</id>
+    <tipus>PLAÇA</tipus>
+    <nom>OM</nom>
+    <nomGoogle>PLAÇA  DE L' OM</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>413</id>
+    <tipus>PASSEIG</tipus>
+    <nom>OM</nom>
+    <nomGoogle>PASSEIG  DE L' OM</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>5195</id>
+    <tipus>CARRER</tipus>
+    <nom>ONES</nom>
+    <nomGoogle>CARRER  DE LES ONES</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>5194</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ONES</nom>
+    <nomGoogle>PLAÇA  DE LES ONES</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>5197</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ONES</nom>
+    <nomGoogle>PASSATGE  DE LES ONES</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>415</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ONZE DE SETEMBRE</nom>
+    <nomGoogle>PLAÇA  DE L' ONZE DE SETEMBRE</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>5196</id>
+    <tipus>CARRER</tipus>
+    <nom>OR</nom>
+    <nomGoogle>CARRER  DE L' OR</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>5174</id>
+    <tipus>CARRER</tipus>
+    <nom>ORDAL</nom>
+    <nomGoogle>CARRER  DE L' ORDAL</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>264</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ORENETA</nom>
+    <nomGoogle>PASSEIG  DE L' ORENETA</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>1114</id>
+    <tipus>CARRER</tipus>
+    <nom>ORENGA</nom>
+    <nomGoogle>CARRER  DE L' ORENGA</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>412</id>
+    <tipus>CARRER</tipus>
+    <nom>ORENSE</nom>
+    <nomGoogle>CARRER  D' ORENSE</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>416</id>
+    <tipus>CARRER</tipus>
+    <nom>ORIENT</nom>
+    <nomGoogle>CARRER  D' ORIENT</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>417</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ORIOL</nom>
+    <nomGoogle>PASSATGE  DE L' ORIOL</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>418</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ORQUIDIA</nom>
+    <nomGoogle>PASSEIG  DE L' ORQUIDIA</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>5122</id>
+    <tipus>CARRER</tipus>
+    <nom>OSCA</nom>
+    <nomGoogle>CARRER  D' OSCA</nomGoogle>
+  </carrer_O>
+  <carrer_O>
+    <id>7045</id>
+    <tipus>CARRER</tipus>
+    <nom>OSONA</nom>
+    <nomGoogle>CARRER  D' OSONA</nomGoogle>
+  </carrer_O>
+  <carrer_P>
+    <id>119</id>
+    <tipus>CARRER</tipus>
+    <nom>PAHISSA</nom>
+    <nomGoogle>CARRER  DE PAHISSA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1572</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>PAISOS CATALANS</nom>
+    <nomGoogle>AVINGUDA  DELS PAISOS CATALANS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>423</id>
+    <tipus>CARRER</tipus>
+    <nom>PALMERA</nom>
+    <nomGoogle>CARRER  DE LA PALMERA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>424</id>
+    <tipus>PASSATGE</tipus>
+    <nom>PALMIRA</nom>
+    <nomGoogle>PASSATGE  DE PALMIRA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>428</id>
+    <tipus>CARRER</tipus>
+    <nom>PAMPLONA</nom>
+    <nomGoogle>CARRER  DE PAMPLONA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>429</id>
+    <tipus>CARRER</tipus>
+    <nom>PANAMA</nom>
+    <nomGoogle>CARRER  DE PANAMA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>322</id>
+    <tipus>CARRER</tipus>
+    <nom>PAPALLONES</nom>
+    <nomGoogle>CARRER  DE LES PAPALLONES</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1200</id>
+    <tipus>CARRER</tipus>
+    <nom>PARC</nom>
+    <nomGoogle>CARRER  DEL PARC</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>267</id>
+    <tipus>PASSEIG</tipus>
+    <nom>PARDAL</nom>
+    <nomGoogle>PASSEIG  DEL PARDAL</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>431</id>
+    <tipus>DRECERA</tipus>
+    <nom>PARDOS</nom>
+    <nomGoogle>DRECERA  DE PARDOS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>191</id>
+    <tipus>CARRER</tipus>
+    <nom>PARE MIQUEL BATLLORI</nom>
+    <nomGoogle>CARRER  DEL PARE MIQUEL BATLLORI</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5199</id>
+    <tipus>PASSATGE</tipus>
+    <nom>PARES</nom>
+    <nomGoogle>PASSATGE  DE PARES</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1116</id>
+    <tipus>CARRER</tipus>
+    <nom>PAS DE L'ESTACIO</nom>
+    <nomGoogle>CARRER  DEL PAS DE L'ESTACIO</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>260</id>
+    <tipus>CARRER</tipus>
+    <nom>PASTORA MARTOS</nom>
+    <nomGoogle>CARRER  DE PASTORA MARTOS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>433</id>
+    <tipus>CARRER</tipus>
+    <nom>PAU</nom>
+    <nomGoogle>CARRER  DE LA PAU</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>434</id>
+    <tipus>CARRER</tipus>
+    <nom>PAU CASALS</nom>
+    <nomGoogle>CARRER  DE PAU CASALS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1433</id>
+    <tipus>CARRER</tipus>
+    <nom>PAU GARGALLO</nom>
+    <nomGoogle>CARRER  DE PAU GARGALLO</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>294</id>
+    <tipus>CARRER</tipus>
+    <nom>PAU MUÑOZ</nom>
+    <nomGoogle>CARRER  DE PAU MUÑOZ</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1115</id>
+    <tipus>CARRER</tipus>
+    <nom>PAU VI</nom>
+    <nomGoogle>CARRER  DE PAU VI</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1506</id>
+    <tipus>CARRER</tipus>
+    <nom>PAU VILA</nom>
+    <nomGoogle>CARRER  DE PAU VILA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1117</id>
+    <tipus>CARRER</tipus>
+    <nom>PAULONIA</nom>
+    <nomGoogle>CARRER  DE LA PAULONIA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>866</id>
+    <tipus>PASSATGE</tipus>
+    <nom>PEARSON</nom>
+    <nomGoogle>PASSATGE  DE PEARSON</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1184</id>
+    <tipus>CARRER</tipus>
+    <nom>PEARSON</nom>
+    <nomGoogle>CARRER  DE PEARSON</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5201</id>
+    <tipus>CARRER</tipus>
+    <nom>PEDRAFORCA</nom>
+    <nomGoogle>CARRER  DEL PEDRAFORCA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>917</id>
+    <tipus>CAMI</tipus>
+    <nom>PEDRERA</nom>
+    <nomGoogle>CAMI  DE LA PEDRERA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>50</id>
+    <tipus>CARRER</tipus>
+    <nom>PEDRO I PONS</nom>
+    <nomGoogle>CARRER  DE PEDRO I PONS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>435</id>
+    <tipus>PASSEIG</tipus>
+    <nom>PENSAMENT</nom>
+    <nomGoogle>PASSEIG  DEL PENSAMENT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>498</id>
+    <tipus>JARDINS</tipus>
+    <nom>PENYA REGALESSIA</nom>
+    <nomGoogle>JARDINS  DE LA PENYA REGALESSIA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>436</id>
+    <tipus>PASSEIG</tipus>
+    <nom>PEONIA</nom>
+    <nomGoogle>PASSEIG  DE LA PEONIA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>712</id>
+    <tipus>PLAÇA</tipus>
+    <nom>PEP VENTURA</nom>
+    <nomGoogle>PLAÇA  DE PEP VENTURA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5203</id>
+    <tipus>PASSEIG</tipus>
+    <nom>PERDIUS</nom>
+    <nomGoogle>PASSEIG  DE LES PERDIUS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>380</id>
+    <tipus>CARRER</tipus>
+    <nom>PERE BOSCH</nom>
+    <nomGoogle>CARRER  DE PERE BOSCH</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>410</id>
+    <tipus>CARRER</tipus>
+    <nom>PERE CALDERS</nom>
+    <nomGoogle>CARRER  DE PERE CALDERS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>400</id>
+    <tipus>CARRER</tipus>
+    <nom>PERE FERRER</nom>
+    <nomGoogle>CARRER  DE PERE FERRER</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>332</id>
+    <tipus>CARRER</tipus>
+    <nom>PERE MAS</nom>
+    <nomGoogle>CARRER  DE PERE MAS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5202</id>
+    <tipus>PLAÇA</tipus>
+    <nom>PERE PLANAS</nom>
+    <nomGoogle>PLAÇA  DE PERE PLANAS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>461</id>
+    <tipus>DRECERA</tipus>
+    <nom>PERE PLANAS</nom>
+    <nomGoogle>DRECERA  DE PERE PLANAS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>459</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>PERE PLANAS</nom>
+    <nomGoogle>AVINGUDA  DE PERE PLANAS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1191</id>
+    <tipus>PLAÇA</tipus>
+    <nom>PERE SAN</nom>
+    <nomGoogle>PLAÇA  DE PERE SAN</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>565</id>
+    <tipus>CARRER</tipus>
+    <nom>PERE SERRA</nom>
+    <nomGoogle>CARRER  DE PERE SERRA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>439</id>
+    <tipus>CARRER</tipus>
+    <nom>PEREZ GALDOS</nom>
+    <nomGoogle>CARRER  DE PEREZ GALDOS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5204</id>
+    <tipus>CARRER</tipus>
+    <nom>PEREZ MOYA</nom>
+    <nomGoogle>CARRER  DE PEREZ MOYA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>442</id>
+    <tipus>CARRER</tipus>
+    <nom>PERU</nom>
+    <nomGoogle>CARRER  DEL PERU</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>443</id>
+    <tipus>CARRER</tipus>
+    <nom>PESCADOR</nom>
+    <nomGoogle>CARRER  DEL PESCADOR</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>446</id>
+    <tipus>PLAÇA</tipus>
+    <nom>PESSEBRISTA MILLET</nom>
+    <nomGoogle>PLAÇA  DEL PESSEBRISTA MILLET</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5210</id>
+    <tipus>PASSATGE</tipus>
+    <nom>PI</nom>
+    <nomGoogle>PASSATGE  DEL PI</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1583</id>
+    <tipus>CARRER</tipus>
+    <nom>PI D'EN XANDRI</nom>
+    <nomGoogle>CARRER  DEL PI D'EN XANDRI</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5207</id>
+    <tipus>CAMI</tipus>
+    <nom>PICADOR</nom>
+    <nomGoogle>CAMI  DEL PICADOR</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1439</id>
+    <tipus>CARRER</tipus>
+    <nom>PICASSO</nom>
+    <nomGoogle>CARRER  DE PICASSO</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5209</id>
+    <tipus>CARRER</tipus>
+    <nom>PIERROT</nom>
+    <nomGoogle>CARRER  DE PIERROT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>444</id>
+    <tipus>CARRER</tipus>
+    <nom>PIGOT</nom>
+    <nomGoogle>CARRER  DEL PIGOT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>888</id>
+    <tipus>JARDINS</tipus>
+    <nom>PILAR ROIG</nom>
+    <nomGoogle>JARDINS  DE PILAR ROIG</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>445</id>
+    <tipus>RONDA</tipus>
+    <nom>PINAR</nom>
+    <nomGoogle>RONDA  DEL PINAR</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>422</id>
+    <tipus>CARRER</tipus>
+    <nom>PINETELL</nom>
+    <nomGoogle>CARRER  DEL PINETELL</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5211</id>
+    <tipus>PLAÇA</tipus>
+    <nom>PINS</nom>
+    <nomGoogle>PLAÇA  DELS PINS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1122</id>
+    <tipus>PASSEIG</tipus>
+    <nom>PINSA</nom>
+    <nomGoogle>PASSEIG  DEL PINSA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>451</id>
+    <tipus>CARRER</tipus>
+    <nom>PINYA</nom>
+    <nomGoogle>CARRER  DE LA PINYA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>858</id>
+    <tipus>CAMI</tipus>
+    <nom>PINYER</nom>
+    <nomGoogle>CAMI  DEL PINYER</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>538</id>
+    <tipus>CARRER</tipus>
+    <nom>PINYONAIRES</nom>
+    <nomGoogle>CARRER  DELS PINYONAIRES</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>450</id>
+    <tipus>CARRER</tipus>
+    <nom>PIRINEUS</nom>
+    <nomGoogle>CARRER  DELS PIRINEUS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>452</id>
+    <tipus>PASSEIG</tipus>
+    <nom>PISCINA</nom>
+    <nomGoogle>PASSEIG  DE LA PISCINA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1123</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>PISCINA</nom>
+    <nomGoogle>AVINGUDA  DE LA PISCINA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>448</id>
+    <tipus>CARRER</tipus>
+    <nom>PIUS XI</nom>
+    <nomGoogle>CARRER  DE PIUS XI</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>306</id>
+    <tipus>CARRER</tipus>
+    <nom>PLA</nom>
+    <nomGoogle>CARRER  DEL PLA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>454</id>
+    <tipus>PASSATGE</tipus>
+    <nom>PLA</nom>
+    <nomGoogle>PASSATGE  DEL PLA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>7040</id>
+    <tipus>CARRER</tipus>
+    <nom>PLA DE LA PAGESA</nom>
+    <nomGoogle>CARRER  DEL PLA DE LA PAGESA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>457</id>
+    <tipus>CARRER</tipus>
+    <nom>PLA DE LES SARDANES</nom>
+    <nomGoogle>CARRER  DEL PLA DE LES SARDANES</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5186</id>
+    <tipus>CARRER</tipus>
+    <nom>PLA DE L'ESTANY</nom>
+    <nomGoogle>CARRER  DEL PLA DE L'ESTANY</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>455</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>PLA DEL VINYET</nom>
+    <nomGoogle>AVINGUDA  DEL PLA DEL VINYET</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>690</id>
+    <tipus>CARRER</tipus>
+    <nom>PLANA</nom>
+    <nomGoogle>CARRER  DE LA PLANA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>456</id>
+    <tipus>CARRER</tipus>
+    <nom>PLANA DE L'HOSPITAL</nom>
+    <nomGoogle>CARRER  DE LA PLANA DE L'HOSPITAL</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5214</id>
+    <tipus>CARRER</tipus>
+    <nom>PLANETA</nom>
+    <nomGoogle>CARRER  DEL PLANETA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1124</id>
+    <tipus>PASSATGE</tipus>
+    <nom>PLATAN</nom>
+    <nomGoogle>PASSATGE  DEL PLATAN</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>463</id>
+    <tipus>CARRER</tipus>
+    <nom>PLATI</nom>
+    <nomGoogle>CARRER  DEL PLATI</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>493</id>
+    <tipus>PARC</tipus>
+    <nom>POLLANCREDA</nom>
+    <nomGoogle>PARC  DE LA POLLANCREDA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5072</id>
+    <tipus>PASSEIG</tipus>
+    <nom>POLLANCRES</nom>
+    <nomGoogle>PASSEIG  DELS POLLANCRES</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1125</id>
+    <tipus>PLAÇA</tipus>
+    <nom>POMPEU FABRA</nom>
+    <nomGoogle>PLAÇA  DE POMPEU FABRA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1548</id>
+    <tipus>CARRER</tipus>
+    <nom>POMPEU FABRA</nom>
+    <nomGoogle>CARRER  DE POMPEU FABRA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>465</id>
+    <tipus>CARRER</tipus>
+    <nom>PONENT</nom>
+    <nomGoogle>CARRER  DE PONENT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5217</id>
+    <tipus>PLAÇA</tipus>
+    <nom>PONENT</nom>
+    <nomGoogle>PLAÇA  DE PONENT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5216</id>
+    <tipus>DRECERA</tipus>
+    <nom>PONENT</nom>
+    <nomGoogle>DRECERA  DE PONENT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>469</id>
+    <tipus>CARRER</tipus>
+    <nom>PONT</nom>
+    <nomGoogle>CARRER  DEL PONT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1517</id>
+    <tipus>CARRER</tipus>
+    <nom>PONT DE CAN VERNET</nom>
+    <nomGoogle>CARRER  DEL PONT DE CAN VERNET</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1126</id>
+    <tipus>PLAÇA</tipus>
+    <nom>PONT DEL DIARI</nom>
+    <nomGoogle>PLAÇA  DEL PONT DEL DIARI</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>466</id>
+    <tipus>CARRER</tipus>
+    <nom>PONTEVEDRA</nom>
+    <nomGoogle>CARRER  DE PONTEVEDRA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1128</id>
+    <tipus>PASSATGE</tipus>
+    <nom>PORT</nom>
+    <nomGoogle>PASSATGE  DEL PORT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1131</id>
+    <tipus>PLAÇA</tipus>
+    <nom>PORTERS</nom>
+    <nomGoogle>PLAÇA  DELS PORTERS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5218</id>
+    <tipus>CARRER</tipus>
+    <nom>POUS</nom>
+    <nomGoogle>CARRER  DELS POUS</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>467</id>
+    <tipus>PASSEIG</tipus>
+    <nom>PRAT</nom>
+    <nomGoogle>PASSEIG  DEL PRAT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1537</id>
+    <tipus>CARRER</tipus>
+    <nom>PRAT DE LA RIBA</nom>
+    <nomGoogle>CARRER  DE PRAT DE LA RIBA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>342</id>
+    <tipus>PASSEIG</tipus>
+    <nom>PRESSEC</nom>
+    <nomGoogle>PASSEIG  DEL PRESSEC</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>7043</id>
+    <tipus>CARRER</tipus>
+    <nom>PRINCEP</nom>
+    <nomGoogle>CARRER  DEL PRINCEP</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>5192</id>
+    <tipus>CARRER</tipus>
+    <nom>PRIORAT</nom>
+    <nomGoogle>CARRER  DEL PRIORAT</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>359</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>PUIG DE RIMILA</nom>
+    <nomGoogle>AVINGUDA  DEL PUIG DE RIMILA</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1370</id>
+    <tipus>CARRER</tipus>
+    <nom>PUIG I CADAFALCH</nom>
+    <nomGoogle>CARRER  DE PUIG I CADAFALCH</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>1129</id>
+    <tipus>CARRER</tipus>
+    <nom>PUJOL</nom>
+    <nomGoogle>CARRER  DE PUJOL</nomGoogle>
+  </carrer_P>
+  <carrer_P>
+    <id>471</id>
+    <tipus>CARRER</tipus>
+    <nom>PUJOLAR</nom>
+    <nomGoogle>CARRER  DE PUJOLAR</nomGoogle>
+  </carrer_P>
+  <carrer_Q>
+    <id>183</id>
+    <tipus>CARRER</tipus>
+    <nom>QUADRA DE CANALS</nom>
+    <nomGoogle>CARRER  DE LA QUADRA DE CANALS</nomGoogle>
+  </carrer_Q>
+  <carrer_Q>
+    <id>1031</id>
+    <tipus>PLAÇA</tipus>
+    <nom>QUATRE CANTONS</nom>
+    <nomGoogle>PLAÇA  DELS QUATRE CANTONS</nomGoogle>
+  </carrer_Q>
+  <carrer_Q>
+    <id>139</id>
+    <tipus>CARRER</tipus>
+    <nom>QUATRE VENTS</nom>
+    <nomGoogle>CARRER  DELS QUATRE VENTS</nomGoogle>
+  </carrer_Q>
+  <carrer_R>
+    <id>5221</id>
+    <tipus>CARRETERA</tipus>
+    <nom>RABASSADA</nom>
+    <nomGoogle>CARRETERA  DE LA RABASSADA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>308</id>
+    <tipus>CARRETERA</tipus>
+    <nom>RABASSADA A LA FLORESTA</nom>
+    <nomGoogle>CARRETERA  DE LA RABASSADA A LA FLORESTA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>441</id>
+    <tipus>PLAÇA</tipus>
+    <nom>RABASSAIRES</nom>
+    <nomGoogle>PLAÇA  DELS RABASSAIRES</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5060</id>
+    <tipus>CAMI</tipus>
+    <nom>RABASSALET</nom>
+    <nomGoogle>CAMI  DEL RABASSALET</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1600</id>
+    <tipus>PLAÇA</tipus>
+    <nom>RABASSALET</nom>
+    <nomGoogle>PLAÇA  DEL RABASSALET</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1042</id>
+    <tipus>PLAÇA</tipus>
+    <nom>RAFAEL CASTANYER</nom>
+    <nomGoogle>PLAÇA  DE RAFAEL CASTANYER</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1040</id>
+    <tipus>CARRER</tipus>
+    <nom>RAFAEL CASTANYER</nom>
+    <nomGoogle>CARRER  DE RAFAEL CASTANYER</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1043</id>
+    <tipus>PLAÇA</tipus>
+    <nom>RAFAEL DE CASANOVA</nom>
+    <nomGoogle>PLAÇA  DE RAFAEL DE CASANOVA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>474</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>RAGULL</nom>
+    <nomGoogle>AVINGUDA  DE RAGULL</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>476</id>
+    <tipus>PASSATGE</tipus>
+    <nom>RAM</nom>
+    <nomGoogle>PASSATGE  DEL RAM</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1130</id>
+    <tipus>PASSATGE</tipus>
+    <nom>RAMIREZ</nom>
+    <nomGoogle>PASSATGE  DE RAMIREZ</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>482</id>
+    <tipus>PARC</tipus>
+    <nom>RAMON BARNILS</nom>
+    <nomGoogle>PARC  DE RAMON BARNILS</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1445</id>
+    <tipus>CARRER</tipus>
+    <nom>RAMON BERENGUER I</nom>
+    <nomGoogle>CARRER  DE RAMON BERENGUER I</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1359</id>
+    <tipus>CARRER</tipus>
+    <nom>RAMON CASAS</nom>
+    <nomGoogle>CARRER  DE RAMON CASAS</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5015</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>RAMON ESCAYOLA</nom>
+    <nomGoogle>AVINGUDA  DE RAMON ESCAYOLA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1536</id>
+    <tipus>CARRER</tipus>
+    <nom>RAMON LLULL</nom>
+    <nomGoogle>CARRER  DE RAMON LLULL</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>278</id>
+    <tipus>CARRER</tipus>
+    <nom>RAMON MAS</nom>
+    <nomGoogle>CARRER  DE RAMON MAS</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1383</id>
+    <tipus>CARRER</tipus>
+    <nom>RAMON MUNTANER</nom>
+    <nomGoogle>CARRER  DE RAMON MUNTANER</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>390</id>
+    <tipus>PASSEIG</tipus>
+    <nom>RATAPINYADA</nom>
+    <nomGoogle>PASSEIG  DE LA RATAPINYADA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>475</id>
+    <tipus>PLAÇA</tipus>
+    <nom>REI</nom>
+    <nomGoogle>PLAÇA  DEL REI</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>478</id>
+    <tipus>CARRER</tipus>
+    <nom>REUS</nom>
+    <nomGoogle>CARRER  DE REUS</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>479</id>
+    <tipus>RAMBLA</tipus>
+    <nom>RIBATALLADA</nom>
+    <nomGoogle>RAMBLA  DE RIBATALLADA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>480</id>
+    <tipus>CARRER</tipus>
+    <nom>RIERA</nom>
+    <nomGoogle>CARRER  DE LA RIERA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>74</id>
+    <tipus>CARRER</tipus>
+    <nom>RIN</nom>
+    <nomGoogle>CARRER  DEL RIN</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5198</id>
+    <tipus>CARRER</tipus>
+    <nom>RIPOLLES</nom>
+    <nomGoogle>CARRER  DEL RIPOLLES</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>484</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>RIUS I TAULET</nom>
+    <nomGoogle>AVINGUDA  DE RIUS I TAULET</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>485</id>
+    <tipus>RAMBLA</tipus>
+    <nom>RIVERA</nom>
+    <nomGoogle>RAMBLA  DE RIVERA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>275</id>
+    <tipus>CARRER</tipus>
+    <nom>ROC CODO</nom>
+    <nomGoogle>CARRER  DE ROC CODO</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>708</id>
+    <tipus>CARRER</tipus>
+    <nom>RODA DE TER</nom>
+    <nomGoogle>CARRER  DE RODA DE TER</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>89</id>
+    <tipus>CARRER</tipus>
+    <nom>ROINE</nom>
+    <nomGoogle>CARRER  DEL ROINE</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>489</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ROMERO DE TORRES</nom>
+    <nomGoogle>PASSEIG  DE ROMERO DE TORRES</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>7047</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>ROQUETES</nom>
+    <nomGoogle>AVINGUDA  DE LES ROQUETES</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5224</id>
+    <tipus>CARRER</tipus>
+    <nom>ROSA MARINE</nom>
+    <nomGoogle>CARRER  DE ROSA MARINE</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5226</id>
+    <tipus>CARRER</tipus>
+    <nom>ROSARI</nom>
+    <nomGoogle>CARRER  DEL ROSARI</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5227</id>
+    <tipus>CARRER</tipus>
+    <nom>ROSAS</nom>
+    <nomGoogle>CARRER  DE ROSAS</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5021</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ROSELLA</nom>
+    <nomGoogle>PASSEIG  DE LA ROSELLA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>491</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ROSER</nom>
+    <nomGoogle>PASSEIG  DEL ROSER</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>492</id>
+    <tipus>CARRER</tipus>
+    <nom>ROSERAR</nom>
+    <nomGoogle>CARRER  DEL ROSERAR</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5228</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ROSSELLO</nom>
+    <nomGoogle>PASSATGE  DEL ROSSELLO</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>806</id>
+    <tipus>CARRER</tipus>
+    <nom>ROSSELLO</nom>
+    <nomGoogle>CARRER  DEL ROSSELLO</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>501</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ROSSINYOL</nom>
+    <nomGoogle>PASSEIG  DEL ROSSINYOL</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1567</id>
+    <tipus>PLAÇA</tipus>
+    <nom>ROTARY INTERNATIONAL</nom>
+    <nomGoogle>PLAÇA  DEL ROTARY INTERNATIONAL</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>481</id>
+    <tipus>PASSATGE</tipus>
+    <nom>ROURE</nom>
+    <nomGoogle>PASSATGE  DEL ROURE</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>486</id>
+    <tipus>PASSEIG</tipus>
+    <nom>ROURE</nom>
+    <nomGoogle>PASSEIG  DEL ROURE</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>494</id>
+    <tipus>CARRER</tipus>
+    <nom>ROVELLAT</nom>
+    <nomGoogle>CARRER  DE ROVELLAT</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1426</id>
+    <tipus>CARRER</tipus>
+    <nom>ROVIRA I VIRGILI</nom>
+    <nomGoogle>CARRER  DE ROVIRA I VIRGILI</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>497</id>
+    <tipus>PASSEIG</tipus>
+    <nom>RUBI</nom>
+    <nomGoogle>PASSEIG  DE RUBI</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1163</id>
+    <tipus>CARRETERA</tipus>
+    <nom>RUBI</nom>
+    <nomGoogle>CARRETERA  DE RUBI</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>496</id>
+    <tipus>CAMI</tipus>
+    <nom>RUBI A SABADELL</nom>
+    <nomGoogle>CAMI  DE RUBI A SABADELL</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>6260</id>
+    <tipus>PLAÇA</tipus>
+    <nom>RUBIES</nom>
+    <nomGoogle>PLAÇA  DE RUBIES</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>5229</id>
+    <tipus>PASSATGE</tipus>
+    <nom>RUBIES</nom>
+    <nomGoogle>PASSATGE  DE RUBIES</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>1527</id>
+    <tipus>CARRER</tipus>
+    <nom>RUBIO I TUDURI</nom>
+    <nomGoogle>CARRER  DE RUBIO I TUDURI</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>500</id>
+    <tipus>CARRER</tipus>
+    <nom>RUDA</nom>
+    <nomGoogle>CARRER  DE LA RUDA</nomGoogle>
+  </carrer_R>
+  <carrer_R>
+    <id>169</id>
+    <tipus>CARRER</tipus>
+    <nom>RUSC</nom>
+    <nomGoogle>CARRER  DEL RUSC</nomGoogle>
+  </carrer_R>
+  <carrer_S>
+    <id>545</id>
+    <tipus>CARRER</tipus>
+    <nom>SABADELL</nom>
+    <nomGoogle>CARRER  DE SABADELL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>61</id>
+    <tipus>CARRER</tipus>
+    <nom>SABINA CANYAMERAS</nom>
+    <nomGoogle>CARRER  DE SABINA CANYAMERAS</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1075</id>
+    <tipus>CARRER</tipus>
+    <nom>SAFAREIGS</nom>
+    <nomGoogle>CARRER  DELS SAFAREIGS</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5261</id>
+    <tipus>CARRER</tipus>
+    <nom>SAFIR</nom>
+    <nomGoogle>CARRER  DEL SAFIR</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>546</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SAGUES</nom>
+    <nomGoogle>PASSATGE  DE SAGUES</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>547</id>
+    <tipus>CARRER</tipus>
+    <nom>SALAMANCA</nom>
+    <nomGoogle>CARRER  DE SALAMANCA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>7089</id>
+    <tipus>CARRER</tipus>
+    <nom>SALCILLO</nom>
+    <nomGoogle>CARRER  DE SALCILLO</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>549</id>
+    <tipus>CARRER</tipus>
+    <nom>SALLES</nom>
+    <nomGoogle>CARRER  DE SALLES</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>550</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SALUT</nom>
+    <nomGoogle>PASSATGE  DE LA SALUT</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>552</id>
+    <tipus>CAMI</tipus>
+    <nom>SALUT</nom>
+    <nomGoogle>CAMI  DE LA SALUT</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1437</id>
+    <tipus>CARRER</tipus>
+    <nom>SALVADOR DALI</nom>
+    <nomGoogle>CARRER  DE SALVADOR DALI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1500</id>
+    <tipus>CARRER</tipus>
+    <nom>SALVADOR ESPRIU</nom>
+    <nomGoogle>CARRER  DE SALVADOR ESPRIU</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1519</id>
+    <tipus>CARRER</tipus>
+    <nom>SALVAT-PAPASSEIT</nom>
+    <nomGoogle>CARRER  DE SALVAT-PAPASSEIT</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>557</id>
+    <tipus>PASSEIG</tipus>
+    <nom>SALZE</nom>
+    <nomGoogle>PASSEIG  DEL SALZE</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>7100</id>
+    <tipus>CARRER</tipus>
+    <nom>SANATORI</nom>
+    <nomGoogle>CARRER  DEL SANATORI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1132</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANATORI DEL FUMET</nom>
+    <nomGoogle>PASSATGE  DEL SANATORI DEL FUMET</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5239</id>
+    <tipus>CARRER</tipus>
+    <nom>SANDAL</nom>
+    <nomGoogle>CARRER  DEL SANDAL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1584</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT ADJUTORI</nom>
+    <nomGoogle>CARRER  DE SANT ADJUTORI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>503</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT ALBERT</nom>
+    <nomGoogle>CARRER  DE SANT ALBERT</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>508</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANT ANTONI</nom>
+    <nomGoogle>PASSATGE  DE SANT ANTONI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>504</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT ANTONI</nom>
+    <nomGoogle>CARRER  DE SANT ANTONI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>214</id>
+    <tipus>PLAÇA</tipus>
+    <nom>SANT ANTONI</nom>
+    <nomGoogle>PLAÇA  DE SANT ANTONI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>505</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT BARTOMEU</nom>
+    <nomGoogle>CARRER  DE SANT BARTOMEU</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>506</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT BONAVENTURA</nom>
+    <nomGoogle>CARRER  DE SANT BONAVENTURA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>507</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT CASIMIR</nom>
+    <nomGoogle>CARRER  DE SANT CASIMIR</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>659</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT CELONI</nom>
+    <nomGoogle>CARRER  DE SANT CELONI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5246</id>
+    <tipus>CAMI</tipus>
+    <nom>SANT CRIST</nom>
+    <nomGoogle>CAMI  DEL SANT CRIST</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5240</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT CRIST DE LLACERES</nom>
+    <nomGoogle>CARRER  DEL SANT CRIST DE LLACERES</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5232</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT CRISTOFOR</nom>
+    <nomGoogle>CARRER  DE SANT CRISTOFOR</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>511</id>
+    <tipus>PLAÇA</tipus>
+    <nom>SANT CUGAT</nom>
+    <nomGoogle>PLAÇA  DE SANT CUGAT</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>510</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT CUGAT</nom>
+    <nomGoogle>CARRER  DE SANT CUGAT</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>516</id>
+    <tipus>CAMI</tipus>
+    <nom>SANT CUGAT A SABADELL</nom>
+    <nomGoogle>CAMI  DE SANT CUGAT A SABADELL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>512</id>
+    <tipus>CAMI</tipus>
+    <nom>SANT CUGAT AL PAPIOL</nom>
+    <nomGoogle>CAMI  DE SANT CUGAT AL PAPIOL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>574</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT DOMENEC</nom>
+    <nomGoogle>CARRER  DE SANT DOMENEC</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>513</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT EDUARD</nom>
+    <nomGoogle>CARRER  DE SANT EDUARD</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>514</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT ESTEVE</nom>
+    <nomGoogle>CARRER  DE SANT ESTEVE</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>515</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT EUSEBI</nom>
+    <nomGoogle>CARRER  DE SANT EUSEBI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5233</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANT FELIU</nom>
+    <nomGoogle>PASSATGE  DE SANT FELIU</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>7051</id>
+    <tipus>PLAÇA</tipus>
+    <nom>SANT FRANCESC</nom>
+    <nomGoogle>PLAÇA  DE SANT FRANCESC</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>518</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT FRANCESC</nom>
+    <nomGoogle>CARRER  DE SANT FRANCESC</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5234</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT FRANCESC D'ASSIS</nom>
+    <nomGoogle>CARRER  DE SANT FRANCESC D'ASSIS</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>520</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT FRANCESC XAVIER</nom>
+    <nomGoogle>CARRER  DE SANT FRANCESC XAVIER</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>521</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT HILARI</nom>
+    <nomGoogle>CARRER  DE SANT HILARI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5235</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT IGNASI DE LOIOLA</nom>
+    <nomGoogle>CARRER  DE SANT IGNASI DE LOIOLA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>523</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT JAUME</nom>
+    <nomGoogle>CARRER  DE SANT JAUME</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>524</id>
+    <tipus>PLAÇA</tipus>
+    <nom>SANT JAUME</nom>
+    <nomGoogle>PLAÇA  DE SANT JAUME</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1183</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>SANT JOAN</nom>
+    <nomGoogle>AVINGUDA  DE SANT JOAN</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>522</id>
+    <tipus>PLAÇA</tipus>
+    <nom>SANT JOAN</nom>
+    <nomGoogle>PLAÇA  DE SANT JOAN</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1133</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT JOAN DE LA CREU</nom>
+    <nomGoogle>CARRER  DE SANT JOAN DE LA CREU</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>709</id>
+    <tipus>PLAÇA</tipus>
+    <nom>SANT JOAQUIM</nom>
+    <nomGoogle>PLAÇA  DE SANT JOAQUIM</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>525</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT JORDI</nom>
+    <nomGoogle>CARRER  DE SANT JORDI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>526</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT JOSEP</nom>
+    <nomGoogle>CARRER  DE SANT JOSEP</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1555</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>SANT JOSEP</nom>
+    <nomGoogle>AVINGUDA  DE SANT JOSEP</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>527</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT JOSEP ORIOL</nom>
+    <nomGoogle>CARRER  DE SANT JOSEP ORIOL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1134</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT JULI</nom>
+    <nomGoogle>CARRER  DE SANT JULI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>530</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANT JULIA</nom>
+    <nomGoogle>PASSATGE  DE SANT JULIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>531</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT LLORENÇ</nom>
+    <nomGoogle>CARRER  DE SANT LLORENÇ</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>532</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT LLUIS</nom>
+    <nomGoogle>CARRER  DE SANT LLUIS</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>533</id>
+    <tipus>PASSEIG</tipus>
+    <nom>SANT MAGI</nom>
+    <nomGoogle>PASSEIG  DE SANT MAGI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1391</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANT MAMET</nom>
+    <nomGoogle>PASSATGE  DE SANT MAMET</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>534</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT MARTI</nom>
+    <nomGoogle>CARRER  DE SANT MARTI</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>535</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT MEDIR</nom>
+    <nomGoogle>CARRER  DE SANT MEDIR</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>536</id>
+    <tipus>CAMI</tipus>
+    <nom>SANT MEDIR</nom>
+    <nomGoogle>CAMI  DE SANT MEDIR</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>537</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT PAU</nom>
+    <nomGoogle>CARRER  DE SANT PAU</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>7079</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANT PAU</nom>
+    <nomGoogle>PASSATGE  DE SANT PAU</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>539</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT PERE</nom>
+    <nomGoogle>CARRER  DE SANT PERE</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>6604</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT PONÇ</nom>
+    <nomGoogle>CARRER  DE SANT PONÇ</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>548</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT QUIRZE</nom>
+    <nomGoogle>CARRER  DE SANT QUIRZE</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>540</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT RAFAEL</nom>
+    <nomGoogle>CARRER  DE SANT RAFAEL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>541</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT RAMON</nom>
+    <nomGoogle>CARRER  DE SANT RAMON</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5238</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANT SALVADOR</nom>
+    <nomGoogle>PASSATGE  DE SANT SALVADOR</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>542</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT SALVADOR</nom>
+    <nomGoogle>CARRER  DE SANT SALVADOR</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>543</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT SEBASTIA</nom>
+    <nomGoogle>CARRER  DE SANT SEBASTIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>664</id>
+    <tipus>BAIXADA</tipus>
+    <nom>SANT SEVER</nom>
+    <nomGoogle>BAIXADA  DE SANT SEVER</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>544</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANT TIMOTEU</nom>
+    <nomGoogle>PASSATGE  DE SANT TIMOTEU</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>585</id>
+    <tipus>CARRER</tipus>
+    <nom>SANT TOMAS</nom>
+    <nomGoogle>CARRER  DE SANT TOMAS</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1585</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SANT VICENÇ DEL BOSC</nom>
+    <nomGoogle>PASSATGE  DE SANT VICENÇ DEL BOSC</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>572</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA ANNA</nom>
+    <nomGoogle>CARRER  DE SANTA ANNA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>575</id>
+    <tipus>CARRETERA</tipus>
+    <nom>SANTA CREU D'OLORDA</nom>
+    <nomGoogle>CARRETERA  DE LA SANTA CREU D'OLORDA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>576</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA ENGRACIA</nom>
+    <nomGoogle>CARRER  DE SANTA ENGRACIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>577</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA EULALIA</nom>
+    <nomGoogle>CARRER  DE SANTA EULALIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>578</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA GEMMA</nom>
+    <nomGoogle>CARRER  DE SANTA GEMMA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>579</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA ISABEL</nom>
+    <nomGoogle>CARRER  DE SANTA ISABEL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>580</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA JOAQUIMA</nom>
+    <nomGoogle>CARRER  DE SANTA JOAQUIMA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>581</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA MARIA</nom>
+    <nomGoogle>CARRER  DE SANTA MARIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>582</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA RITA</nom>
+    <nomGoogle>CARRER  DE SANTA RITA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>583</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA ROSA</nom>
+    <nomGoogle>CARRER  DE SANTA ROSA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>584</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTA TERESA</nom>
+    <nomGoogle>CARRER  DE SANTA TERESA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>553</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTANDER</nom>
+    <nomGoogle>CARRER  DE SANTANDER</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>502</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTIAGO RUSIÑOL</nom>
+    <nomGoogle>CARRER  DE SANTIAGO RUSIÑOL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1135</id>
+    <tipus>CARRER</tipus>
+    <nom>SANTJOANISTES</nom>
+    <nomGoogle>CARRER  DE LES SANTJOANISTES</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>658</id>
+    <tipus>CARRER</tipus>
+    <nom>SARAGOSSA</nom>
+    <nomGoogle>CARRER  DE SARAGOSSA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>554</id>
+    <tipus>CARRER</tipus>
+    <nom>SARDANES</nom>
+    <nomGoogle>CARRER  DE LES SARDANES</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>153</id>
+    <tipus>CARRER</tipus>
+    <nom>SARDENYA</nom>
+    <nomGoogle>CARRER  DE SARDENYA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>556</id>
+    <tipus>CARRER</tipus>
+    <nom>SARRIA</nom>
+    <nomGoogle>CARRER  DE SARRIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>558</id>
+    <tipus>CARRER</tipus>
+    <nom>SAUC</nom>
+    <nomGoogle>CARRER  DEL SAUC</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5241</id>
+    <tipus>CARRER</tipus>
+    <nom>SEBASTIA ALTET</nom>
+    <nomGoogle>CARRER  DE SEBASTIA ALTET</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5230</id>
+    <tipus>PASSATGE</tipus>
+    <nom>SEGALA</nom>
+    <nomGoogle>PASSATGE  DE SEGALA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5184</id>
+    <tipus>CARRER</tipus>
+    <nom>SEGARRA</nom>
+    <nomGoogle>CARRER  DE LA SEGARRA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>31</id>
+    <tipus>CARRER</tipus>
+    <nom>SEGRE</nom>
+    <nomGoogle>CARRER  DEL SEGRE</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5189</id>
+    <tipus>CARRER</tipus>
+    <nom>SEGRIA</nom>
+    <nomGoogle>CARRER  DEL SEGRIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>560</id>
+    <tipus>PASSEIG</tipus>
+    <nom>SELVA</nom>
+    <nomGoogle>PASSEIG  DE LA SELVA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>75</id>
+    <tipus>CARRER</tipus>
+    <nom>SENA</nom>
+    <nomGoogle>CARRER  DEL SENA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>419</id>
+    <tipus>CARRER</tipus>
+    <nom>SENGLAR</nom>
+    <nomGoogle>CARRER  DEL SENGLAR</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5242</id>
+    <tipus>CARRER</tipus>
+    <nom>SERPENTINA</nom>
+    <nomGoogle>CARRER  DE LA SERPENTINA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>407</id>
+    <tipus>CAMI</tipus>
+    <nom>SERRA D'EN JULIA</nom>
+    <nomGoogle>CAMI  DE LA SERRA D'EN JULIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1161</id>
+    <tipus>PASSEIG</tipus>
+    <nom>SEVILLA</nom>
+    <nomGoogle>PASSEIG  DE SEVILLA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1136</id>
+    <tipus>CARRER</tipus>
+    <nom>SICILIA</nom>
+    <nomGoogle>CARRER  DE SICILIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>567</id>
+    <tipus>PASSEIG</tipus>
+    <nom>SOL</nom>
+    <nomGoogle>PASSEIG  DEL SOL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>566</id>
+    <tipus>CARRER</tipus>
+    <nom>SOL</nom>
+    <nomGoogle>CARRER  DEL SOL</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1501</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>SOL I AIRE</nom>
+    <nomGoogle>AVINGUDA  DE SOL I AIRE</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>569</id>
+    <tipus>CARRER</tipus>
+    <nom>SOLA</nom>
+    <nomGoogle>CARRER  DE SOLA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>6088</id>
+    <tipus>CARRER</tipus>
+    <nom>SOLEDAT</nom>
+    <nomGoogle>CARRER  DE LA SOLEDAT</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>570</id>
+    <tipus>CARRER</tipus>
+    <nom>SOLSONA</nom>
+    <nomGoogle>CARRER  DE SOLSONA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>571</id>
+    <tipus>CARRER</tipus>
+    <nom>SORIA</nom>
+    <nomGoogle>CARRER  DE SORIA</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>1137</id>
+    <tipus>CARRER</tipus>
+    <nom>SORT</nom>
+    <nomGoogle>CARRER  DE LA SORT</nomGoogle>
+  </carrer_S>
+  <carrer_S>
+    <id>5243</id>
+    <tipus>CARRER</tipus>
+    <nom>STRAUSS</nom>
+    <nomGoogle>CARRER  D' STRAUSS</nomGoogle>
+  </carrer_S>
+  <carrer_T>
+    <id>79</id>
+    <tipus>CARRER</tipus>
+    <nom>TAMESI</nom>
+    <nomGoogle>CARRER  DEL TAMESI</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>587</id>
+    <tipus>CARRER</tipus>
+    <nom>TANGER</nom>
+    <nomGoogle>CARRER  DE TANGER</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>588</id>
+    <tipus>CARRER</tipus>
+    <nom>TARRAGONA</nom>
+    <nomGoogle>CARRER  DE TARRAGONA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>437</id>
+    <tipus>CARRER</tipus>
+    <nom>TARREGA</nom>
+    <nomGoogle>CARRER  DE TARREGA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>589</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>TARRUELL</nom>
+    <nomGoogle>AVINGUDA  DE TARRUELL</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>686</id>
+    <tipus>CARRER</tipus>
+    <nom>TEATRE</nom>
+    <nomGoogle>CARRER  DEL TEATRE</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>420</id>
+    <tipus>CARRER</tipus>
+    <nom>TEIXO</nom>
+    <nomGoogle>CARRER  DEL TEIXO</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>590</id>
+    <tipus>CARRER</tipus>
+    <nom>TENERIFE</nom>
+    <nomGoogle>CARRER  DE TENERIFE</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>58</id>
+    <tipus>CARRER</tipus>
+    <nom>TER</nom>
+    <nomGoogle>CARRER  DEL TER</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>591</id>
+    <tipus>CARRER</tipus>
+    <nom>TEROL</nom>
+    <nomGoogle>CARRER  DE TEROL</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>5025</id>
+    <tipus>CAMI</tipus>
+    <nom>TERRASSA</nom>
+    <nomGoogle>CAMI  DE TERRASSA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>15</id>
+    <tipus>CARRER</tipus>
+    <nom>TERRISSERS</nom>
+    <nomGoogle>CARRER  DELS TERRISSERS</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>592</id>
+    <tipus>CARRER</tipus>
+    <nom>TETUAN</nom>
+    <nomGoogle>CARRER  DE TETUAN</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>76</id>
+    <tipus>CARRER</tipus>
+    <nom>TIBER</nom>
+    <nomGoogle>CARRER  DEL TIBER</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>593</id>
+    <tipus>CARRER</tipus>
+    <nom>TIBIDABO</nom>
+    <nomGoogle>CARRER  DEL TIBIDABO</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>5244</id>
+    <tipus>CARRER</tipus>
+    <nom>TIGRE</nom>
+    <nomGoogle>CARRER  DEL TIGRE</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>595</id>
+    <tipus>PASSEIG</tipus>
+    <nom>TIL.LERS</nom>
+    <nomGoogle>PASSEIG  DELS TIL.LERS</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>596</id>
+    <tipus>CARRER</tipus>
+    <nom>TOLEDO</nom>
+    <nomGoogle>CARRER  DE TOLEDO</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>325</id>
+    <tipus>PLAÇA</tipus>
+    <nom>TOMAS AYMAT</nom>
+    <nomGoogle>PLAÇA  DE TOMAS AYMAT</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>598</id>
+    <tipus>CARRER</tipus>
+    <nom>TOPAZI</nom>
+    <nomGoogle>CARRER  DEL TOPAZI</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>1201</id>
+    <tipus>CARRER</tipus>
+    <nom>TORD</nom>
+    <nomGoogle>CARRER  DEL TORD</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>5130</id>
+    <tipus>CARRER</tipus>
+    <nom>TORRE</nom>
+    <nomGoogle>CARRER  DE LA TORRE</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>601</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>TORRE BLANCA</nom>
+    <nomGoogle>AVINGUDA  DE LA TORRE BLANCA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>600</id>
+    <tipus>PASSEIG</tipus>
+    <nom>TORRE BLANCA</nom>
+    <nomGoogle>PASSEIG  DE LA TORRE BLANCA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>5245</id>
+    <tipus>CAMI</tipus>
+    <nom>TORRE NEGRA</nom>
+    <nomGoogle>CAMI  DE LA TORRE NEGRA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>7056</id>
+    <tipus>PASSEIG</tipus>
+    <nom>TORRENT</nom>
+    <nomGoogle>PASSEIG  DEL TORRENT</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>602</id>
+    <tipus>CARRER</tipus>
+    <nom>TORRENT</nom>
+    <nomGoogle>CARRER  DEL TORRENT</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>228</id>
+    <tipus>CARRER</tipus>
+    <nom>TORRENT D'ALERAN</nom>
+    <nomGoogle>CARRER  DEL TORRENT D'ALERAN</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>1568</id>
+    <tipus>CARRER</tipus>
+    <nom>TORRENT DE FERRUSSONS</nom>
+    <nomGoogle>CARRER  DEL TORRENT DE FERRUSSONS</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>603</id>
+    <tipus>CARRER</tipus>
+    <nom>TORRENT DE LA BOMBA</nom>
+    <nomGoogle>CARRER  DEL TORRENT DE LA BOMBA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>604</id>
+    <tipus>RAMBLA</tipus>
+    <nom>TORRENT D'EN XANDRI</nom>
+    <nomGoogle>RAMBLA  DEL TORRENT D'EN XANDRI</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>1533</id>
+    <tipus>CARRER</tipus>
+    <nom>TORRENT D'EN XEP</nom>
+    <nomGoogle>CARRER  DEL TORRENT D'EN XEP</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>605</id>
+    <tipus>CARRER</tipus>
+    <nom>TORTORA</nom>
+    <nomGoogle>CARRER  DE LA TORTORA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>309</id>
+    <tipus>PASSEIG</tipus>
+    <nom>TOSSAL</nom>
+    <nomGoogle>PASSEIG  DEL TOSSAL</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>6200</id>
+    <tipus>PLAÇA</tipus>
+    <nom>TRANSVAAL</nom>
+    <nomGoogle>PLAÇA  DEL TRANSVAAL</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>607</id>
+    <tipus>CARRER</tipus>
+    <nom>TRES PLACES</nom>
+    <nomGoogle>CARRER  DE LES TRES PLACES</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>5247</id>
+    <tipus>CARRER</tipus>
+    <nom>TROANES</nom>
+    <nomGoogle>CARRER  DE LES TROANES</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>608</id>
+    <tipus>CARRER</tipus>
+    <nom>TROBADOR</nom>
+    <nomGoogle>CARRER  DEL TROBADOR</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>1138</id>
+    <tipus>PASSEIG</tipus>
+    <nom>TULIPA</nom>
+    <nomGoogle>PASSEIG  DE LA TULIPA</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>233</id>
+    <tipus>CARRER</tipus>
+    <nom>TUNEL DE CAN BELLET</nom>
+    <nomGoogle>CARRER  DEL TUNEL DE CAN BELLET</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>609</id>
+    <tipus>CARRER</tipus>
+    <nom>TURO</nom>
+    <nomGoogle>CARRER  DEL TURO</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>355</id>
+    <tipus>PARC</tipus>
+    <nom>TURO DE CAN MATES</nom>
+    <nomGoogle>PARC  DEL TURO DE CAN MATES</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>5248</id>
+    <tipus>CARRER</tipus>
+    <nom>TURO DEL FUMET</nom>
+    <nomGoogle>CARRER  DEL TURO DEL FUMET</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>611</id>
+    <tipus>CARRER</tipus>
+    <nom>TURO DEL PINYER</nom>
+    <nomGoogle>CARRER  DEL TURO DEL PINYER</nomGoogle>
+  </carrer_T>
+  <carrer_T>
+    <id>612</id>
+    <tipus>CARRER</tipus>
+    <nom>TURO DEL SOL</nom>
+    <nomGoogle>CARRER  DEL TURO DEL SOL</nomGoogle>
+  </carrer_T>
+  <carrer_U>
+    <id>614</id>
+    <tipus>CARRER</tipus>
+    <nom>URALS</nom>
+    <nomGoogle>CARRER  DELS URALS</nomGoogle>
+  </carrer_U>
+  <carrer_U>
+    <id>5249</id>
+    <tipus>CARRER</tipus>
+    <nom>URUGUAI</nom>
+    <nomGoogle>CARRER  DE L' URUGUAI</nomGoogle>
+  </carrer_U>
+  <carrer_V>
+    <id>625</id>
+    <tipus>PASSEIG</tipus>
+    <nom>VALL</nom>
+    <nomGoogle>PASSEIG  DE LA VALL</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>1582</id>
+    <tipus>PASSEIG</tipus>
+    <nom>VALL DE GAUSAC</nom>
+    <nomGoogle>PASSEIG  DE LA VALL DE GAUSAC</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>149</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>VALL D'OR</nom>
+    <nomGoogle>AVINGUDA  DE LA VALL D'OR</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>628</id>
+    <tipus>PASSATGE</tipus>
+    <nom>VALL D'OR</nom>
+    <nomGoogle>PASSATGE  DE LA VALL D'OR</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>7105</id>
+    <tipus>CARRER</tipus>
+    <nom>VALLADOLID</nom>
+    <nomGoogle>CARRER  DE VALLADOLID</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>1139</id>
+    <tipus>CARRER</tipus>
+    <nom>VALLCARCA</nom>
+    <nomGoogle>CARRER  DE VALLCARCA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5250</id>
+    <tipus>CARRER</tipus>
+    <nom>VALLDAURA</nom>
+    <nomGoogle>CARRER  DE VALLDAURA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>618</id>
+    <tipus>CARRER</tipus>
+    <nom>VALLDOREIX</nom>
+    <nomGoogle>CARRER  DE VALLDOREIX</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>623</id>
+    <tipus>PASSEIG</tipus>
+    <nom>VALLDOREIX</nom>
+    <nomGoogle>PASSEIG  DE VALLDOREIX</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>626</id>
+    <tipus>CARRER</tipus>
+    <nom>VALLES</nom>
+    <nomGoogle>CARRER  DE VALLES</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>495</id>
+    <tipus>JARDINS</tipus>
+    <nom>VALLES</nom>
+    <nomGoogle>JARDINS  DEL VALLES</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>624</id>
+    <tipus>CARRER</tipus>
+    <nom>VALLESPIR</nom>
+    <nomGoogle>CARRER  DEL VALLESPIR</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>627</id>
+    <tipus>CARRER</tipus>
+    <nom>VALLSECA</nom>
+    <nomGoogle>CARRER  DE VALLSECA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>111</id>
+    <tipus>DRECERA</tipus>
+    <nom>VALLVIDRERA</nom>
+    <nomGoogle>DRECERA  DE VALLVIDRERA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>2012</id>
+    <tipus>CARRETERA</tipus>
+    <nom>VALLVIDRERA</nom>
+    <nomGoogle>CARRETERA  DE VALLVIDRERA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>629</id>
+    <tipus>CARRER</tipus>
+    <nom>VALLVIDRERA</nom>
+    <nomGoogle>CARRER  DE VALLVIDRERA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5252</id>
+    <tipus>CARRETERA</tipus>
+    <nom>VALLVIDRERA A SANT CUGAT</nom>
+    <nomGoogle>CARRETERA  DE VALLVIDRERA A SANT CUGAT</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>631</id>
+    <tipus>CARRER</tipus>
+    <nom>VALPARAISO</nom>
+    <nomGoogle>CARRER  DE VALPARAISO</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>1325</id>
+    <tipus>CAMI</tipus>
+    <nom>VELL DE SABADELL</nom>
+    <nomGoogle>CAMI VELL DE SABADELL</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>633</id>
+    <tipus>CARRER</tipus>
+    <nom>VENEÇUELA</nom>
+    <nomGoogle>CARRER  DE VENEÇUELA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>1510</id>
+    <tipus>CARRER</tipus>
+    <nom>VENTURA GASSOL</nom>
+    <nomGoogle>CARRER  DE VENTURA GASSOL</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>7082</id>
+    <tipus>PASSATGE</tipus>
+    <nom>VERDAGUER</nom>
+    <nomGoogle>PASSATGE  DE VERDAGUER</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>634</id>
+    <tipus>CARRER</tipus>
+    <nom>VERDAGUER</nom>
+    <nomGoogle>CARRER  DE VERDAGUER</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>636</id>
+    <tipus>CARRER</tipus>
+    <nom>VERDI</nom>
+    <nomGoogle>CARRER  DE VERDI</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>635</id>
+    <tipus>PASSEIG</tipus>
+    <nom>VERDUM</nom>
+    <nomGoogle>PASSEIG  DEL VERDUM</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>639</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>VERGE DE MONTSERRAT</nom>
+    <nomGoogle>AVINGUDA  DE LA VERGE DE MONTSERRAT</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5251</id>
+    <tipus>CARRER</tipus>
+    <nom>VERONICA</nom>
+    <nomGoogle>CARRER  DE LA VERONICA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>7099</id>
+    <tipus>PASSATGE</tipus>
+    <nom>VERONICA</nom>
+    <nomGoogle>PASSATGE  DE LA VERONICA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>1423</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>VIA AUGUSTA</nom>
+    <nomGoogle>AVINGUDA  DE LA VIA AUGUSTA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5253</id>
+    <tipus>CARRER</tipus>
+    <nom>VIC</nom>
+    <nomGoogle>CARRER  DE VIC</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>1425</id>
+    <tipus>CARRER</tipus>
+    <nom>VICENS I VIVES</nom>
+    <nomGoogle>CARRER  DE VICENS I VIVES</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>641</id>
+    <tipus>PLAÇA</tipus>
+    <nom>VICTOR BALAGUER</nom>
+    <nomGoogle>PLAÇA  DE VICTOR BALAGUER</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>642</id>
+    <tipus>CARRER</tipus>
+    <nom>VICTOR CATALA</nom>
+    <nomGoogle>CARRER  DE VICTOR CATALA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>92</id>
+    <tipus>CARRER</tipus>
+    <nom>VICTOR HUGO</nom>
+    <nomGoogle>CARRER  DE VICTOR HUGO</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>643</id>
+    <tipus>CARRER</tipus>
+    <nom>VIGO</nom>
+    <nomGoogle>CARRER  DE VIGO</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>462</id>
+    <tipus>PLAÇA</tipus>
+    <nom>VILA</nom>
+    <nomGoogle>PLAÇA  DE LA VILA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>648</id>
+    <tipus>CARRER</tipus>
+    <nom>VILAFRANCA</nom>
+    <nomGoogle>CARRER  DE VILAFRANCA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>645</id>
+    <tipus>CARRER</tipus>
+    <nom>VILASECA</nom>
+    <nomGoogle>CARRER  DE VILASECA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>646</id>
+    <tipus>CARRER</tipus>
+    <nom>VILLA</nom>
+    <nomGoogle>CARRER  DE VILLA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5255</id>
+    <tipus>AVINGUDA</tipus>
+    <nom>VILLADELPRAT</nom>
+    <nomGoogle>AVINGUDA  DE VILLADELPRAT</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5162</id>
+    <tipus>CARRER</tipus>
+    <nom>VIMETERA</nom>
+    <nomGoogle>CARRER  DE LA VIMETERA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>449</id>
+    <tipus>PLAÇA</tipus>
+    <nom>VINYA</nom>
+    <nomGoogle>PLAÇA  DE LA VINYA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>649</id>
+    <tipus>CARRER</tipus>
+    <nom>VIÑOLAS</nom>
+    <nomGoogle>CARRER  DE VIÑOLAS</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>650</id>
+    <tipus>CARRER</tipus>
+    <nom>VIOLETES</nom>
+    <nomGoogle>CARRER  DE LES VIOLETES</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5257</id>
+    <tipus>CARRER</tipus>
+    <nom>VISTA ALEGRE</nom>
+    <nomGoogle>CARRER  DE LA VISTA ALEGRE</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5258</id>
+    <tipus>CARRER</tipus>
+    <nom>VISTA RICA</nom>
+    <nomGoogle>CARRER  DE LA VISTA RICA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>1165</id>
+    <tipus>CARRER</tipus>
+    <nom>VITORIA</nom>
+    <nomGoogle>CARRER  DE VITORIA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>5259</id>
+    <tipus>CARRER</tipus>
+    <nom>VOLCA</nom>
+    <nomGoogle>CARRER  DEL VOLCA</nomGoogle>
+  </carrer_V>
+  <carrer_V>
+    <id>84</id>
+    <tipus>PASSEIG</tipus>
+    <nom>VOLTOR</nom>
+    <nomGoogle>PASSEIG  DEL VOLTOR</nomGoogle>
+  </carrer_V>
+  <carrer_X>
+    <id>290</id>
+    <tipus>PASSEIG</tipus>
+    <nom>XAVIER AZQUETA</nom>
+    <nomGoogle>PASSEIG  DE XAVIER AZQUETA</nomGoogle>
+  </carrer_X>
+  <carrer_X>
+    <id>661</id>
+    <tipus>PLAÇA</tipus>
+    <nom>XAVIER CUGAT</nom>
+    <nomGoogle>PLAÇA  DE XAVIER CUGAT</nomGoogle>
+  </carrer_X>
+  <carrer_X>
+    <id>299</id>
+    <tipus>CARRER</tipus>
+    <nom>XERRIC</nom>
+    <nomGoogle>CARRER  DE XERRIC</nomGoogle>
+  </carrer_X>
+  <carrer_X>
+    <id>160</id>
+    <tipus>PASSEIG</tipus>
+    <nom>XIPRER</nom>
+    <nomGoogle>PASSEIG  DEL XIPRER</nomGoogle>
+  </carrer_X>
+</carrers>

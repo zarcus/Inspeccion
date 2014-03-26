@@ -1,0 +1,899 @@
+<?xml version="1.0"?>
+<niveles3>
+  <item_115>
+    <id>116</id>
+    <desc>ARRANCADA ARBRES </desc>
+  </item_115>
+  <item_923>
+    <id>1187</id>
+    <desc>Tractaments Fitosanitaris Arbrat</desc>
+  </item_923>
+  <item_923>
+    <id>934</id>
+    <desc>Poda arbrat</desc>
+  </item_923>
+  <item_923>
+    <id>1189</id>
+    <desc>Tala Arbrat</desc>
+  </item_923>
+  <item_923>
+    <id>936</id>
+    <desc>Poda Arbustiva / Retall</desc>
+  </item_923>
+  <item_923>
+    <id>937</id>
+    <desc>Reposicions del verd</desc>
+  </item_923>
+  <item_923>
+    <id>938</id>
+    <desc>Jardinera</desc>
+  </item_923>
+  <item_923>
+    <id>940</id>
+    <desc>Adobats i Esmenes</desc>
+  </item_923>
+  <item_923>
+    <id>941</id>
+    <desc>Reposicions Arbrat</desc>
+  </item_923>
+  <item_923>
+    <id>942</id>
+    <desc>Regs</desc>
+  </item_923>
+  <item_923>
+    <id>943</id>
+    <desc>Arrels Arbrat</desc>
+  </item_923>
+  <item_923>
+    <id>944</id>
+    <desc>Refaldat Arbrat</desc>
+  </item_923>
+  <item_923>
+    <id>945</id>
+    <desc>Flor de temporada</desc>
+  </item_923>
+  <item_923>
+    <id>946</id>
+    <desc>Verd peri-urbà</desc>
+  </item_923>
+  <item_923>
+    <id>947</id>
+    <desc>Tractaments FItosanitaris Resta Planta</desc>
+  </item_923>
+  <item_923>
+    <id>933</id>
+    <desc>Altres Manteniment Plantacions P i J</desc>
+  </item_923>
+  <item_923>
+    <id>1325</id>
+    <desc>Aspratges Arbrat</desc>
+  </item_923>
+  <item_923>
+    <id>1326</id>
+    <desc>Parterres</desc>
+  </item_923>
+  <item_923>
+    <id>1327</id>
+    <desc>Males Herbes</desc>
+  </item_923>
+  <item_923>
+    <id>1456</id>
+    <desc>Arrels arbrat US PJ</desc>
+  </item_923>
+  <item_923>
+    <id>1457</id>
+    <desc>Poda arbrat US PJ</desc>
+  </item_923>
+  <item_923>
+    <id>1458</id>
+    <desc>Tala arbrat US PJ</desc>
+  </item_923>
+  <item_924>
+    <id>930</id>
+    <desc>Projectes</desc>
+  </item_924>
+  <item_924>
+    <id>1196</id>
+    <desc>Estudis</desc>
+  </item_924>
+  <item_924>
+    <id>1197</id>
+    <desc>Informes</desc>
+  </item_924>
+  <item_924>
+    <id>931</id>
+    <desc>Valoracions</desc>
+  </item_924>
+  <item_924>
+    <id>932</id>
+    <desc>Altres projectes requeriment parcs i jardins</desc>
+  </item_924>
+  <item_924>
+    <id>1319</id>
+    <desc>Podes per interferències ( fanals, contenidors, etc.)</desc>
+  </item_924>
+  <item_926>
+    <id>929</id>
+    <desc>Altres parcs i jardins</desc>
+  </item_926>
+  <item_926>
+    <id>1460</id>
+    <desc>Altres Parcs i Jardins US PJ</desc>
+  </item_926>
+  <item_926>
+    <id>1472</id>
+    <desc>Vandalisme</desc>
+  </item_926>
+  <item_1033>
+    <id>1050</id>
+    <desc>01 Electricitat</desc>
+  </item_1033>
+  <item_1033>
+    <id>1034</id>
+    <desc>02 Il·luminació</desc>
+  </item_1033>
+  <item_1033>
+    <id>1037</id>
+    <desc>03 Gas</desc>
+  </item_1033>
+  <item_1033>
+    <id>1036</id>
+    <desc>04 Aigua i llauneria</desc>
+  </item_1033>
+  <item_1033>
+    <id>1040</id>
+    <desc>05 Calefacció i climatització</desc>
+  </item_1033>
+  <item_1033>
+    <id>1039</id>
+    <desc>06 Ascensors i elevadors</desc>
+  </item_1033>
+  <item_1033>
+    <id>1038</id>
+    <desc>07 Alarmes</desc>
+  </item_1033>
+  <item_1033>
+    <id>1047</id>
+    <desc>08 Sistemes contra incendis</desc>
+  </item_1033>
+  <item_1033>
+    <id>1035</id>
+    <desc>09 Telefonia i dades</desc>
+  </item_1033>
+  <item_1033>
+    <id>1043</id>
+    <desc>10 Parallamps</desc>
+  </item_1033>
+  <item_1033>
+    <id>1052</id>
+    <desc>11 Portes automatitzades</desc>
+  </item_1033>
+  <item_1033>
+    <id>1044</id>
+    <desc>12 Equips auxiliars</desc>
+  </item_1033>
+  <item_1033>
+    <id>1048</id>
+    <desc>13 Grups electrògens</desc>
+  </item_1033>
+  <item_1033>
+    <id>1056</id>
+    <desc>20 Altres manteniment instal·lacions</desc>
+  </item_1033>
+  <item_1057>
+    <id>1058</id>
+    <desc>Altres edificis municipals</desc>
+  </item_1057>
+  <item_1059>
+    <id>1061</id>
+    <desc>01 Queixes</desc>
+  </item_1059>
+  <item_1059>
+    <id>1060</id>
+    <desc>02 Actes programats</desc>
+  </item_1059>
+  <item_1059>
+    <id>1070</id>
+    <desc>03 Neteges extres</desc>
+  </item_1059>
+  <item_1059>
+    <id>1066</id>
+    <desc>05 Neteges urgents</desc>
+  </item_1059>
+  <item_1059>
+    <id>1074</id>
+    <desc>07 Neteja nous espais</desc>
+  </item_1059>
+  <item_1059>
+    <id>1075</id>
+    <desc>09 Altres neteja edificis municipals</desc>
+  </item_1059>
+  <item_1076>
+    <id>1079</id>
+    <desc>01 Instal·lacions</desc>
+  </item_1076>
+  <item_1076>
+    <id>1262</id>
+    <desc>02 Edifici</desc>
+  </item_1076>
+  <item_1076>
+    <id>1263</id>
+    <desc>03 Patis i jardins</desc>
+  </item_1076>
+  <item_1076>
+    <id>1078</id>
+    <desc>05 Energètics</desc>
+  </item_1076>
+  <item_1076>
+    <id>1077</id>
+    <desc>07 Gestió</desc>
+  </item_1076>
+  <item_1076>
+    <id>1080</id>
+    <desc>09 Altres projectes i requeriments</desc>
+  </item_1076>
+  <item_1127>
+    <id>1135</id>
+    <desc>Terrassa</desc>
+  </item_1127>
+  <item_1127>
+    <id>1137</id>
+    <desc>Obra</desc>
+  </item_1127>
+  <item_1127>
+    <id>1227</id>
+    <desc>Acte</desc>
+  </item_1127>
+  <item_1128>
+    <id>1133</id>
+    <desc>Alta</desc>
+  </item_1128>
+  <item_1128>
+    <id>1217</id>
+    <desc>Baixa</desc>
+  </item_1128>
+  <item_1128>
+    <id>1219</id>
+    <desc>Modificació</desc>
+  </item_1128>
+  <item_1128>
+    <id>1220</id>
+    <desc>Irregularitat</desc>
+  </item_1128>
+  <item_1130>
+    <id>1138</id>
+    <desc>Obra privada</desc>
+  </item_1130>
+  <item_1130>
+    <id>1221</id>
+    <desc>Obra servei</desc>
+  </item_1130>
+  <item_1155>
+    <id>1164</id>
+    <desc>10 Vianants</desc>
+  </item_1155>
+  <item_1155>
+    <id>1165</id>
+    <desc>20 Biicicletes</desc>
+  </item_1155>
+  <item_1155>
+    <id>1159</id>
+    <desc>30 Vehicles</desc>
+  </item_1155>
+  <item_1155>
+    <id>1156</id>
+    <desc>40 Semaforia</desc>
+  </item_1155>
+  <item_1155>
+    <id>1158</id>
+    <desc>50 Pilones</desc>
+  </item_1155>
+  <item_1155>
+    <id>1160</id>
+    <desc>60 Reductors de velocitat</desc>
+  </item_1155>
+  <item_1155>
+    <id>1199</id>
+    <desc>70 Altres</desc>
+  </item_1155>
+  <item_1190>
+    <id>1191</id>
+    <desc>Sauló</desc>
+  </item_1190>
+  <item_1190>
+    <id>1192</id>
+    <desc>Paviments i escocells</desc>
+  </item_1190>
+  <item_1190>
+    <id>1193</id>
+    <desc>Font aigua potable</desc>
+  </item_1190>
+  <item_1190>
+    <id>1194</id>
+    <desc>Mobiliari urbà ( banc, paperera, jardinera )</desc>
+  </item_1190>
+  <item_1190>
+    <id>1195</id>
+    <desc>Xarxa reg</desc>
+  </item_1190>
+  <item_1190>
+    <id>1320</id>
+    <desc>Camins</desc>
+  </item_1190>
+  <item_1190>
+    <id>1321</id>
+    <desc>Drenatges</desc>
+  </item_1190>
+  <item_1190>
+    <id>1322</id>
+    <desc>Fonts i estanys</desc>
+  </item_1190>
+  <item_1190>
+    <id>1323</id>
+    <desc>Solars</desc>
+  </item_1190>
+  <item_1190>
+    <id>1324</id>
+    <desc>Altres manteniments elements P i J</desc>
+  </item_1190>
+  <item_1190>
+    <id>1459</id>
+    <desc>Solars US PJ</desc>
+  </item_1190>
+  <item_1202>
+    <id>1203</id>
+    <desc>Administració de via pública</desc>
+  </item_1202>
+  <item_1207>
+    <id>1208</id>
+    <desc>Plànols i estadística</desc>
+  </item_1207>
+  <item_1210>
+    <id>1211</id>
+    <desc>Altres</desc>
+  </item_1210>
+  <item_1239>
+    <id>1241</id>
+    <desc>10 Incidències d'enllumenat</desc>
+  </item_1239>
+  <item_1239>
+    <id>1242</id>
+    <desc>20 Tapes i caixes de registre o cablejats</desc>
+  </item_1239>
+  <item_1239>
+    <id>1243</id>
+    <desc>30 Fanal deteriorat</desc>
+  </item_1239>
+  <item_1239>
+    <id>1244</id>
+    <desc>40 Fanal dóna poca llum</desc>
+  </item_1239>
+  <item_1239>
+    <id>1246</id>
+    <desc>50 Incidències en quadres de llum</desc>
+  </item_1239>
+  <item_1239>
+    <id>1250</id>
+    <desc>60 Altres incidències d'enllumenat públic</desc>
+  </item_1239>
+  <item_1240>
+    <id>1285</id>
+    <desc>10 Incidències en jocs infantils</desc>
+  </item_1240>
+  <item_1240>
+    <id>1247</id>
+    <desc>20 Incidències en cistelles de bàsquet</desc>
+  </item_1240>
+  <item_1240>
+    <id>1248</id>
+    <desc>30 Incidències en porteries d'handbol</desc>
+  </item_1240>
+  <item_1240>
+    <id>1249</id>
+    <desc>40 Incidències en parcs d'skate</desc>
+  </item_1240>
+  <item_1240>
+    <id>1259</id>
+    <desc>50 Incidències en espais esportius per a la gent gran</desc>
+  </item_1240>
+  <item_1240>
+    <id>1251</id>
+    <desc>60 Altres incidències en jocs esportius</desc>
+  </item_1240>
+  <item_1260>
+    <id>1275</id>
+    <desc>01 Patis</desc>
+  </item_1260>
+  <item_1260>
+    <id>1276</id>
+    <desc>02 Arbrat i jardins</desc>
+  </item_1260>
+  <item_1260>
+    <id>1277</id>
+    <desc>03 Paviments</desc>
+  </item_1260>
+  <item_1260>
+    <id>1278</id>
+    <desc>04 Tanques i portes</desc>
+  </item_1260>
+  <item_1260>
+    <id>1279</id>
+    <desc>05 Embornals i clavegueram</desc>
+  </item_1260>
+  <item_1260>
+    <id>1280</id>
+    <desc>06 Mobiliari exterior</desc>
+  </item_1260>
+  <item_1260>
+    <id>1281</id>
+    <desc>07 Jocs infantils</desc>
+  </item_1260>
+  <item_1260>
+    <id>1282</id>
+    <desc>08 Pistes esportives</desc>
+  </item_1260>
+  <item_1260>
+    <id>1283</id>
+    <desc>09 Altres manteniment patis</desc>
+  </item_1260>
+  <item_1261>
+    <id>1266</id>
+    <desc> 01 Estructura</desc>
+  </item_1261>
+  <item_1261>
+    <id>1267</id>
+    <desc>02 Façanes i paraments exteriors</desc>
+  </item_1261>
+  <item_1261>
+    <id>1268</id>
+    <desc>03 Cobertes</desc>
+  </item_1261>
+  <item_1261>
+    <id>1269</id>
+    <desc>04 Desguassos i conductes d'evacuació</desc>
+  </item_1261>
+  <item_1261>
+    <id>1270</id>
+    <desc>05 Tancaments exteriors</desc>
+  </item_1261>
+  <item_1261>
+    <id>1271</id>
+    <desc>06 Tancaments interiors</desc>
+  </item_1261>
+  <item_1261>
+    <id>1272</id>
+    <desc>07 Acabats Interiors</desc>
+  </item_1261>
+  <item_1261>
+    <id>1273</id>
+    <desc>08 Mobiliari i parament int.</desc>
+  </item_1261>
+  <item_1261>
+    <id>1274</id>
+    <desc>09 Altres manteniment edifici</desc>
+  </item_1261>
+  <item_1286>
+    <id>1349</id>
+    <desc>10 Altres incidències</desc>
+  </item_1286>
+  <item_1286>
+    <id>1350</id>
+    <desc>20 Agraïments</desc>
+  </item_1286>
+  <item_1286>
+    <id>1493</id>
+    <desc>30 Sol·licitud d'informe o resposta</desc>
+  </item_1286>
+  <item_1287>
+    <id>1304</id>
+    <desc>010 Incidències en aparcaments de ferm asfaltat</desc>
+  </item_1287>
+  <item_1287>
+    <id>1305</id>
+    <desc>020 Incidències en aparcaments de ferm permeable (terra)</desc>
+  </item_1287>
+  <item_1288>
+    <id>1306</id>
+    <desc>010 Incidències en calçada</desc>
+  </item_1288>
+  <item_1288>
+    <id>1307</id>
+    <desc>020 Incidències en tapes de serveis a la calçada</desc>
+  </item_1288>
+  <item_1289>
+    <id>1308</id>
+    <desc>010 Incidències en reixes d'embornal</desc>
+  </item_1289>
+  <item_1289>
+    <id>1309</id>
+    <desc>020 Incidències en tapes de clavegueram</desc>
+  </item_1289>
+  <item_1289>
+    <id>1310</id>
+    <desc>030 Altres incidències de clavegueram</desc>
+  </item_1289>
+  <item_1291>
+    <id>1355</id>
+    <desc>010 Incidències en bancs</desc>
+  </item_1291>
+  <item_1291>
+    <id>1356</id>
+    <desc>020 Sol·licitud de banc</desc>
+  </item_1291>
+  <item_1291>
+    <id>1357</id>
+    <desc>030 Incidències en papereres</desc>
+  </item_1291>
+  <item_1291>
+    <id>1358</id>
+    <desc>040 Sol·licitud de paperera</desc>
+  </item_1291>
+  <item_1291>
+    <id>1359</id>
+    <desc>050 Incidències en fonts d'aigua</desc>
+  </item_1291>
+  <item_1291>
+    <id>1360</id>
+    <desc>060 Sol·licitud de font pública</desc>
+  </item_1291>
+  <item_1291>
+    <id>1361</id>
+    <desc>070 Incidències en fonts ornamentals</desc>
+  </item_1291>
+  <item_1291>
+    <id>1362</id>
+    <desc>080 Incidències en cartelleres d'informació ciutadana</desc>
+  </item_1291>
+  <item_1291>
+    <id>1363</id>
+    <desc>090 Incidències en cartelleres d'informació variable (leds)</desc>
+  </item_1291>
+  <item_1291>
+    <id>1364</id>
+    <desc>100 Incidències en miralls parabòlics</desc>
+  </item_1291>
+  <item_1291>
+    <id>1365</id>
+    <desc>110 Altres incidències en mobiliari urbà</desc>
+  </item_1291>
+  <item_1292>
+    <id>1339</id>
+    <desc>10 Incidències en pilones</desc>
+  </item_1292>
+  <item_1292>
+    <id>1340</id>
+    <desc>20 Sol·licitud de pilona fixa</desc>
+  </item_1292>
+  <item_1292>
+    <id>1341</id>
+    <desc>30 Incidències en pilones automàtiques</desc>
+  </item_1292>
+  <item_1292>
+    <id>1342</id>
+    <desc>40 Sol·licitud de pilona automàtica</desc>
+  </item_1292>
+  <item_1293>
+    <id>1343</id>
+    <desc>10 Incidències en bandes reductores de cautxú</desc>
+  </item_1293>
+  <item_1293>
+    <id>1344</id>
+    <desc>20 Incidències en passos de vianants elevats</desc>
+  </item_1293>
+  <item_1293>
+    <id>1345</id>
+    <desc>30 Altres incidències en reductors de velocitat</desc>
+  </item_1293>
+  <item_1294>
+    <id>1346</id>
+    <desc>10 Incidències en semaforia</desc>
+  </item_1294>
+  <item_1295>
+    <id>1347</id>
+    <desc>10 Incidències en vorera</desc>
+  </item_1295>
+  <item_1295>
+    <id>1348</id>
+    <desc>20 Incidències en tapes de registre de serveis en vorera</desc>
+  </item_1295>
+  <item_1296>
+    <id>1351</id>
+    <desc>10 Incidències en senyalització horitzontal (Pintura Vial)</desc>
+  </item_1296>
+  <item_1296>
+    <id>1352</id>
+    <desc>20 Incidències en senyalització vertical de codi (Senyals de trànsit)</desc>
+  </item_1296>
+  <item_1296>
+    <id>1353</id>
+    <desc>30 Incidències en senyalització orientativa</desc>
+  </item_1296>
+  <item_1296>
+    <id>1354</id>
+    <desc>40 Incidències en plaques de nom de carrer</desc>
+  </item_1296>
+  <item_1296>
+    <id>1454</id>
+    <desc>50 Altres incidències en senyalització</desc>
+  </item_1296>
+  <item_1298>
+    <id>1301</id>
+    <desc>10 Sol·licitud d'infraestructures</desc>
+  </item_1298>
+  <item_1299>
+    <id>1302</id>
+    <desc>10 Sol·licitud de transport</desc>
+  </item_1299>
+  <item_1299>
+    <id>1455</id>
+    <desc>20 Sol·licitud de recollida de piles</desc>
+  </item_1299>
+  <item_1300>
+    <id>1303</id>
+    <desc>10 Altres sol·licituds</desc>
+  </item_1300>
+  <item_1316>
+    <id>1317</id>
+    <desc>Queixes</desc>
+  </item_1316>
+  <item_1316>
+    <id>1318</id>
+    <desc> Propostes de millora</desc>
+  </item_1316>
+  <item_1331>
+    <id>1333</id>
+    <desc>010 Vorera</desc>
+  </item_1331>
+  <item_1331>
+    <id>1334</id>
+    <desc>020 Calçada</desc>
+  </item_1331>
+  <item_1331>
+    <id>1335</id>
+    <desc>030 Mobiliari urbà</desc>
+  </item_1331>
+  <item_1331>
+    <id>1409</id>
+    <desc>040 Escocells</desc>
+  </item_1331>
+  <item_1331>
+    <id>1336</id>
+    <desc>100 Altres</desc>
+  </item_1331>
+  <item_1332>
+    <id>1337</id>
+    <desc>Elements arquitectónics</desc>
+  </item_1332>
+  <item_1332>
+    <id>1338</id>
+    <desc>Sauló</desc>
+  </item_1332>
+  <item_1332>
+    <id>1380</id>
+    <desc>Mobiliari urbà</desc>
+  </item_1332>
+  <item_1332>
+    <id>1382</id>
+    <desc>Embornals</desc>
+  </item_1332>
+  <item_1332>
+    <id>1383</id>
+    <desc>Gespa i parterres</desc>
+  </item_1332>
+  <item_1332>
+    <id>1384</id>
+    <desc>Excrements i olors</desc>
+  </item_1332>
+  <item_1332>
+    <id>1385</id>
+    <desc>Fruits</desc>
+  </item_1332>
+  <item_1332>
+    <id>1386</id>
+    <desc>Altres neteja PJ</desc>
+  </item_1332>
+  <item_1371>
+    <id>1392</id>
+    <desc> 010 Suggeriments</desc>
+  </item_1371>
+  <item_1371>
+    <id>1390</id>
+    <desc>020 Queixes</desc>
+  </item_1371>
+  <item_1371>
+    <id>1379</id>
+    <desc>100 Altres</desc>
+  </item_1371>
+  <item_1371>
+    <id>1461</id>
+    <desc>030 Sol·licitud recollida de piles</desc>
+  </item_1371>
+  <item_1372>
+    <id>1396</id>
+    <desc>010 Alta</desc>
+  </item_1372>
+  <item_1372>
+    <id>1394</id>
+    <desc>020 Baixa</desc>
+  </item_1372>
+  <item_1372>
+    <id>1398</id>
+    <desc>030 Manteniment superfície</desc>
+  </item_1372>
+  <item_1372>
+    <id>1395</id>
+    <desc>040 Manteniment soterrats</desc>
+  </item_1372>
+  <item_1372>
+    <id>1393</id>
+    <desc>050 Moviment</desc>
+  </item_1372>
+  <item_1372>
+    <id>1397</id>
+    <desc>060 Queixa</desc>
+  </item_1372>
+  <item_1372>
+    <id>1408</id>
+    <desc>100 Altres</desc>
+  </item_1372>
+  <item_1374>
+    <id>1407</id>
+    <desc>Altres</desc>
+  </item_1374>
+  <item_1412>
+    <id>1415</id>
+    <desc>10 Alta de senyalització vertical -codi-</desc>
+  </item_1412>
+  <item_1412>
+    <id>1416</id>
+    <desc>20 Baixa de senyalització vertical -codi-</desc>
+  </item_1412>
+  <item_1412>
+    <id>1417</id>
+    <desc>30 Modificació de senyalització vertical -codi-</desc>
+  </item_1412>
+  <item_1412>
+    <id>1418</id>
+    <desc>40 Alta de senyalització vertical -orientativa-</desc>
+  </item_1412>
+  <item_1412>
+    <id>1419</id>
+    <desc>50 Baixa de senyalització vertical -orientativa-</desc>
+  </item_1412>
+  <item_1412>
+    <id>1420</id>
+    <desc>60 Modificació de senyalització vertical -orientativa-</desc>
+  </item_1412>
+  <item_1412>
+    <id>1421</id>
+    <desc>70 Alta de senyalització horitzontal</desc>
+  </item_1412>
+  <item_1412>
+    <id>1422</id>
+    <desc>80 Baixa de senyalització horitzontal</desc>
+  </item_1412>
+  <item_1412>
+    <id>1423</id>
+    <desc>90 Modificació de senyalització horitzontal</desc>
+  </item_1412>
+  <item_1412>
+    <id>1424</id>
+    <desc>95 Altres</desc>
+  </item_1412>
+  <item_1413>
+    <id>1425</id>
+    <desc>010 Alta de reserva zona blava</desc>
+  </item_1413>
+  <item_1413>
+    <id>1426</id>
+    <desc>020 Baixa de reserva zona blava</desc>
+  </item_1413>
+  <item_1413>
+    <id>1427</id>
+    <desc>030 Modificació de reserva zona blava</desc>
+  </item_1413>
+  <item_1413>
+    <id>1428</id>
+    <desc>040 Alta de reserva càrrega i descàrrega</desc>
+  </item_1413>
+  <item_1413>
+    <id>1429</id>
+    <desc>050 Baixa de reserva càrrega i descàrrega</desc>
+  </item_1413>
+  <item_1413>
+    <id>1430</id>
+    <desc>060 Modificació de reserva càrrega i descàrrega</desc>
+  </item_1413>
+  <item_1413>
+    <id>1431</id>
+    <desc>070 Alta de reserva per a persones amb mobilitat reduïda</desc>
+  </item_1413>
+  <item_1413>
+    <id>1432</id>
+    <desc>080 Baixa de reserva per a persones amb mobilitat reduïda</desc>
+  </item_1413>
+  <item_1413>
+    <id>1433</id>
+    <desc>090 Modificació de reserva per a persones amb mobilitat reduïda</desc>
+  </item_1413>
+  <item_1413>
+    <id>1434</id>
+    <desc>100 Alta de reserva per a motos</desc>
+  </item_1413>
+  <item_1413>
+    <id>1435</id>
+    <desc>110 Baixa de reserva per a motos</desc>
+  </item_1413>
+  <item_1413>
+    <id>1436</id>
+    <desc>120 Modificació de reserva per a motos</desc>
+  </item_1413>
+  <item_1413>
+    <id>1437</id>
+    <desc>130 Alta de reserva per a bicicletes</desc>
+  </item_1413>
+  <item_1413>
+    <id>1438</id>
+    <desc>140 Baixa de reserva per a bicicletes</desc>
+  </item_1413>
+  <item_1413>
+    <id>1439</id>
+    <desc>150 Modificació de reserva per a bicicletes</desc>
+  </item_1413>
+  <item_1414>
+    <id>1440</id>
+    <desc>10 Horaris transport urbà</desc>
+  </item_1414>
+  <item_1414>
+    <id>1441</id>
+    <desc>20 Mobiliiari transport urbà</desc>
+  </item_1414>
+  <item_1414>
+    <id>1442</id>
+    <desc>30 Altres transport urbà</desc>
+  </item_1414>
+  <item_1414>
+    <id>1443</id>
+    <desc>40 Horaris transport interurbà</desc>
+  </item_1414>
+  <item_1414>
+    <id>1444</id>
+    <desc>50 Mobiliari transport interurbà</desc>
+  </item_1414>
+  <item_1414>
+    <id>1445</id>
+    <desc>60 Altres transport interurbà</desc>
+  </item_1414>
+  <item_1414>
+    <id>1446</id>
+    <desc>70 Estudis i propostes</desc>
+  </item_1414>
+  <item_1414>
+    <id>1447</id>
+    <desc>80 Altres</desc>
+  </item_1414>
+  <item_1448>
+    <id>1449</id>
+    <desc>10 Aigües de Vilafranca</desc>
+  </item_1448>
+  <item_1448>
+    <id>1450</id>
+    <desc>20 Fecsa Endesa</desc>
+  </item_1448>
+  <item_1448>
+    <id>1451</id>
+    <desc>30 Gas Natural</desc>
+  </item_1448>
+  <item_1448>
+    <id>1452</id>
+    <desc>40 Ono</desc>
+  </item_1448>
+  <item_1448>
+    <id>1453</id>
+    <desc>50 Movistar</desc>
+  </item_1448>
+  <item_1469>
+    <id>1470</id>
+    <desc>Varis</desc>
+  </item_1469>
+</niveles3>

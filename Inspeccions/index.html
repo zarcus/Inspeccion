@@ -99,12 +99,16 @@
                     <input name="txtUsuari" id="txtUsuari" placeholder="Usuari" value="Usuari" type="text" required="required" data-inline="true" data-mini="false">
                     <label for="txtPassword" class="ui-hidden-accessible" data-mini="false">Clau accés:</label>
                     <input name="txtPassword" id="txtPassword" placeholder="Clau accés" value="Clau accés" type="password" required="required" data-inline="true" data-mini="false">
-                    <!-- <input id="btnAccedir" type="submit" value="Accedir" name="Accedir" onclick="paginas/MenuPpal.html" data-inline="true" data-theme="b" data-mini="false" data-icon="arrow-r" data-position="center" value="entrar"> -->
-                    <a href='paginas/MenuPpal.html' rel="external" type="button" id="buttonAccedir" data-inline="true" data-theme="b" data-mini="false" data-icon="arrow-r" data-position="center" >entrar</a>
+
+                    <!--<a href='paginas/MenuPpal.html' rel="external" type="button" id="buttonAccedir" data-inline="true" data-theme="b" data-mini="false" data-icon="arrow-r" data-position="center" >entrar</a>-->
+                    <a href='paginas/pageSelRecorregut.html' rel="external" type="button" id="buttonAccedir" data-inline="true" data-theme="b" data-mini="false" data-icon="arrow-r" data-position="center" >entrar</a>
+
                 </div>
             </form>
         </div>
     </div>
+
+
 
 </div>
 
@@ -190,26 +194,11 @@
                     },
                     async: false
                 });
+
+
             }
 
             cargaConfigEnArray();
-
-        // EVENTOS ----------------------------------------------------------------------------------------------------------
-        //En pageNuevaIncidencia, al cerrarse el acordeón del Comentari, que se ponga el texto en su cabecera ----------------
-
-/*
-        $('#collapsibleComentario').bind('expand', function () {
-            $('#textareaComentari').focus();
-        });
-
-        $('#collapsibleComentario').bind('collapse', function () {
-            $('#labelComentari').text( $('#textareaComentari').val() );
-        });
-
-        $('#collapsibleLocalizacion').bind('collapse', function () {
-            if( muestraDireccion() == '') return;
-        });
-*/
 
             // Botón 'atrás' sale de la app si está en la pantalla principal y es un Androide ...
             document.addEventListener("backbutton", function(e){
@@ -221,6 +210,8 @@
                     navigator.app.backHistory();
                 }
             }, false);
+
+
 
         });
 

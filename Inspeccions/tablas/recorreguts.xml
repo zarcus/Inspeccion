@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<recorreguts>
+  <recorregut>
+    <id>1</id>
+    <desc>1001</desc>
+  </recorregut>
+  <recorregut>
+    <id>2</id>
+     <desc>1002</desc>
+  </recorregut>
+</recorreguts>

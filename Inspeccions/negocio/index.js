@@ -65,6 +65,9 @@ function abrirPagina(sPag, bBack) {
                 imagen.style.display = 'block';
                 imagen.src = "data:image/jpeg;base64," + sFoto;
                 break;
+
+            case 'pageSelRecorregut':
+                inicioPaginaSelRecorregut();
         }
     });
 }

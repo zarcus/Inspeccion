@@ -23,6 +23,8 @@
     <script src="../negocio/utilitats.js" type="text/javascript"></script>
     <script src="../negocio/webService.js" type="text/javascript"></script>
     <script src="../negocio/pageNuevaIncidencia.js" type="text/javascript"></script>
+    <script src="../negocio/pageConsultaIncidencia.js" type="text/javascript"></script>
+    <script src="../negocio/pageSelRecorregut.js" type="text/javascript"></script>
     <script src="../negocio/baseDades.js" type="text/javascript"></script>
 
     <!-- objetos -->
@@ -37,12 +39,19 @@
 <!-- Pantalla de Menu Ppal (Accedir nomes si logat ok)     -->
 <div data-role="page" id="MenuPpal">
     <div data-role="header" data-theme="d">
-        <h3>CIEP Autoritat</h3>
+        <h3>
+            <div class="ui-grid-a" data-mini="false">
+                <div class="ui-block-a" data-mini="false">Menu Principal</div>
+                <div class="ui-block-b" data-position="right" data-mini="false">
+                    <label id="labelRecInformado" style='width:15%; text-align:right; font-size:x-small; vertical-align:middle; color:Black;'></label>
+                </div>
+            </div>
+        </h3>
         <a href="#Home" data-icon="home" data-iconpos="notext" data-direction="reverse" data-theme="b"></a>
     </div>
     <div data-role="content">
         <br/>
-        <table style="width:90%;">
+        <table style="width:100%;">
             <tr>
                 <td colspan="2">
                     <a href="" onclick="abrirPagina('pageNuevaIncidencia',true);" data-role="button" data-inline="false" data-theme="b">Nova Incidència</a>
@@ -60,7 +69,7 @@
             </tr>
             <tr>
                 <td colspan="2">
-                    <a href="" onclick="abrirPagina('pageSelecRecorregut',true);" data-role="button" data-inline="false" data-theme="b">Sel.Recorregut</a>
+                    <a href="" onclick="abrirPagina('pageSelRecorregut',true);" data-role="button" data-inline="false" data-theme="b">Sel.Recorregut</a>
                 </td>
             </tr>
             <tr>
@@ -78,8 +87,20 @@
             </tr>
         </table>
         </br>
+
     </div>
+
     <div data-role="footer" data-theme="b"></div>
+
+    <div data-role="popup" id="popupRecorregut" data-theme="b" data-mini="false">
+        <div data-role="popup" id="popupSelRecorregut" data-theme="b" class="ui-corner-all">
+            <form  id="formSelRec" data-theme="b">
+                <div style="padding:5px;text-align: center;" data-mini="false">
+                    <select name="selectRec" data-native-menu="true" id="selectRec" data-inline="true" data-mini="false" data-theme="c"></select>
+                </div>
+            </form>
+        </div>
+    </div>
 </div>
 
 <script type="text/javascript">
@@ -179,6 +200,7 @@
             $('#divMensajeMapa').hide();  //de inicio que no ponga que no se ha podido cargar el mapa
         });
 //fin EVENTOS DE LA PAGINA NuevaIncidencia *************************************************************************************
+
 
 
     });

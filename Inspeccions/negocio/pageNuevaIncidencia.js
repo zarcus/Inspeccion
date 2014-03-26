@@ -156,7 +156,15 @@ function iniciaMapaAlta(bAbrir) {
     try{
         var mapOptions = {
             zoom: 14,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            enabledHighAccuracy:true,
+            panControl: false,
+            rotateControl: false,
+            scaleControl: false,
+            scrollwheel: false,
+            zoomControl: false,
+            streetViewControl: false
+
         };
         mapAlta = new google.maps.Map(document.getElementById('divMapaAlta'), mapOptions);
         $('#divMensajeMapa').hide();

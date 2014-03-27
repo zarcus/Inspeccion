@@ -31,9 +31,9 @@
 <body>
 <!-- Pantalla de Alta -->
 <div data-role="page" id="pageSelRecorregut">
-<div data-role="header" data-mini="false" data-theme="d">
+<div data-role="header" data-mini="false" data-theme="c">
     <a href="MenuPpal.html" data-icon="back" data-direction="reverse" data-iconpos="notext" data-theme="b"></a>
-    <h3>Sel. Recorregut</h3>
+    <h3>Seleccionar Recorregut</h3>
 </div>
     <div data-role="content" data-mini="false" style="padding:2px 2px 2px 2px;">
         <div data-theme="b" data-role="collapsible-set" style="background-color: Silver">
@@ -79,10 +79,11 @@
 <script type="text/javascript">
 
     $(document).bind('pageinit', function(event){
-        cargaComboDesdeArray($('#selectRec'), "Seleccionar un recorregut", cargaTablaEnArray("recorreguts", "recorregut"));
+        cargaComboDesdeArray($('#selectRec'), " ", cargaTablaEnArray("recorreguts", "recorregut"));
 
         $("#selectRec").bind( "change", function(event, ui) {
             $('#labelRecInformado').text($('#selectRec option:selected').text());
+            $('#labelRecorregut').text($('#selectRec option:selected').text());
         });
     });
 

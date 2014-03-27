@@ -94,9 +94,11 @@ function cierraMapaAbreComentario(){
 //abre la cámara para hacer foto o la voge de la galeria
 function hacerFoto(origen) {
     try {
+        alert('entro en hacerFoto?');
         if(origen=='CAMARA')
         {
             iniciaMapaAlta(false);
+            alert('salgo del mapa?');
             navigator.camera.getPicture(hacerfotoOK, hacerFotoERROR, { quality: 20, destinationType: Camera.destinationType.DATA_URL, sourceType: Camera.PictureSourceType.CAMERA, encodingType: Camera.EncodingType.JPEG, saveToPhotoAlbum: false });
         }
         else  // coger de GALERIA

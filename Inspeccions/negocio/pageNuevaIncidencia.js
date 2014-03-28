@@ -5,6 +5,7 @@ var sFoto = '';
 var sCoord_X = '';
 var sCoord_Y = '';
 var sComentario = '';
+var sRecorregut = '';
 
 // -------- INICIALIZAR PÁGINA -----------------------------------------------------------
 function inicioPaginaNuevaIncidencia(){
@@ -30,11 +31,6 @@ function inicioPaginaNuevaIncidencia(){
     //iniciar el plano
     iniciaMapaAlta(true);
     $.doTimeout(800, function() {
-//        preseleccionar la inicial, cargar CARRERS de esa inicial en el combo de iniciales y preseleccionar la calle
-//        var sC = cogerCalleNumDeDireccion(sDireccionAlta);
-//        nLetra = sC.substr(0,1).toUpperCase().charCodeAt(0);
-//        !!!!!!!!!!!!!! no consigo obtener el nombre de la calle desde google maps, ya que devuelve 'carrer de tal ... '
-
         var combo = $('#selectLletraIniCARRER');
         cargaLetrasAbcdario(combo, 'lletra inicial' , nLetra );
         cierraMapaAbreComentario();
@@ -94,11 +90,9 @@ function cierraMapaAbreComentario(){
 //abre la cámara para hacer foto o la voge de la galeria
 function hacerFoto(origen) {
     try {
-        alert('entro en hacerFoto?');
         if(origen=='CAMARA')
         {
             iniciaMapaAlta(false);
-            alert('salgo del mapa?');
             navigator.camera.getPicture(hacerfotoOK, hacerFotoERROR, { quality: 20, destinationType: Camera.destinationType.DATA_URL, sourceType: Camera.PictureSourceType.CAMERA, encodingType: Camera.EncodingType.JPEG, saveToPhotoAlbum: false });
         }
         else  // coger de GALERIA
@@ -173,19 +167,11 @@ function iniciaMapaAlta(bAbrir) {
         // Try HTML5 geolocation
         if (navigator.geolocation) {
             navigator.geolocation.getCurrentPosition(function (position) {
-                //Crear el evento click sobre el mapa
-                //si bActualizarControlesManualesCalleNum = true, se llama a autoRellenoCalleNum()
-                //crearMarcadorEventoClick(map,     bSoloUnMarcadorSobreMapa , labelMostrarDir, bActualizarControlesManualesCalleNum)
 
                 crearMarcadorEventoClick('ALTA', mapAlta, true,'labelDireccion', true);
 
                 posAlta = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
                 sDireccionAlta = cogerDireccion(posAlta, true);
-
-    /*            var sTxt = '<div><table><tr><td style="font-size:x-small; font-weight:bold;">comunicat en </td></tr><tr><td style="font-size:x-small; font-weight:normal;">' + sDireccionAlta + '</td></tr></table></div>';
-                nuevoMarcadorSobrePlanoClickInfoWindow('ALTA', mapAlta, posAlta,sTxt,null,300,true,true);
-                $('#labelDireccion').text(sDireccionAlta);
-                $('#divMapaAlta').gmap('refresh');*/
 
             }, function () {
                 $('#divMapaAlta').hide();
@@ -558,15 +544,6 @@ function guardaFotoEnLocal(nId,sFoto){
       guardaObjetoLocal('FOTO_' + nId.toString().trim() , sFoto);
 }
 
-// -------- NETEJAR CIUTADA -------------------------------------------------------------------
-function netejarDades(){
-    $('#inputNOM').val('');
-    $('#inputCOGNOM1').val('');
-    $('#inputCOGNOM2').val('');
-    $('#inputDNI').val('');
-    $('#inputEMAIL').val('');
-    $('#inputTELEFON').val('');
-}
 
 // --------- ATRIBUTOS ------------------------------------------------
 function cargaAtributos(sIdItem, lv){

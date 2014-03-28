@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<carrers>
+  <carrer>
+    <codi_carr>000102</codi_carr>
+    <nom_carrer>LLEBRENCS</nom_carrer>
+    <particulas>DELS</particulas>
+    <tip_vial>CARRER</tip_vial>
+    <tp_via_abr>C.</tp_via_abr>
+    <nomGoogle>CARRER  DELS LLEBRENCS</nomGoogle>
+  </carrer>
+
+</carrers>

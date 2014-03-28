@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<temes>
+  <tema>
+    <te_cod>8800</te_cod>
+    <te_des>Bosses</te_des>
+      <te_tit_inf>ACTA D'OBERTURA DE BOSSA D'ESCOMBRARIES</te_tit_inf>
+      <te_inf_1>Durant la inspecció realitzada es detecta una bossa tancada i sense manipular.</te_inf_1>
+      <te_inf_2>Es procedeix a etiquetar la bossa detectada per tal que els ServeisTècnics Municipals procedeixin a la seva retirada i efectuïn la recerca de les dades del presumpte infractor.</te_inf_2>
+      <te_inf_3>S'adreça el present informe a la Direcció de Serveis de Neteja i Gestió de Residus per fer constar l'incompliment detectat : [INF_TXT], Codi : [INF_COD], Article : [INF_ART], Ordenança : [INF_ORD]  i perquè es tramiti l'expedient sancionador, si s'escau.</te_inf_3>
+      <te_inf_4>Atès que en el moment d'obrir la bossa no es coneixia la identitat del presumpte infractor, aquest no ha presenciat l'obertura de la bossa, i en conseqüència no se li ha lliurat còpia de l'acta.</te_inf_4>
+      <te_inf_5>que s'adjunta, en el lloc i l'hora indicats va ser detectada una bossa d'escombraries.</te_inf_5>
+      <te_inf_6>Els Seveis Tècnics Municipals han procedit a la seva retirada i a obrir-la per tal de veure el seu contingut. Una vegada s'han obtingut proves pertanyents a:</te_inf_6>
+      <te_inf_7></te_inf_7>
+  </tema>
+  <tema>
+        <te_cod>8804</te_cod>
+        <te_des>Sacs de runa</te_des>
+        <te_tit_inf>INFORME D'INSPECCIÓ</te_tit_inf>
+        <te_inf_1>Durant la inspecció realitzada es detecta:</te_inf_1>
+        <te_inf_2>Es procedeix a marcar el sac i a fotografiar el lloc de detecció i el sac detectat.</te_inf_2>
+        <te_inf_3>S'adreça el present informe a la Direcció de Serveis de Neteja i Gestió de Residus per tal que comuniquin la retirada del sac de runa a l'empresa transportista, en compliment de  [INF_TXT], Codi : [INF_COD] , Article : [INF_ART], Ordenança : [INF_ORD]</te_inf_3>
+        <te_inf_4></te_inf_4>
+        <te_inf_5></te_inf_5>
+        <te_inf_6>S'ha identificat el presumpte infractor mitjançant l'aportació de proves fotogràfiques, que s'adjunten en els informes precedents. Les dades del presumpte infractor són:</te_inf_6>
+        <te_inf_7>D'acord amb l'informe d'inspecció [CODinforme] que s'adjunta, en el lloc data i hora indicats va ser detectat un sac de runa a la via pública.
+            Es va procedir a enviar un fax a l'empresa transportista sol·licitant la retirada del sac de runa (informe [CODinforme2]). En la data i hora indicada en aquest informe s'ha comprovat que no s'ha efectuat la retirada del sac de runa, incomplint [INF_TXT], Codi : [INF_COD] , Article: [INF_ART], Ordenança : [INF_ORD].</te_inf_7>
+  </tema>
+</temes>

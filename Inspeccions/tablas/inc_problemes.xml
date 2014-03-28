@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<problemes>
+  <problema>
+    <pr_cod>01110109</pr_cod>
+    <pr_des>PUDOR</pr_des>
+    <pr_dies>3</pr_dies>
+    <pr_tip>S</pr_tip>
+    <pr_id>1</pr_id>
+    <pr_art></pr_art>
+    <ga_cod_1></ga_cod_1>
+    <ga_cod_2></ga_cod_2>
+    <ga_cod_3></ga_cod_3>
+    <ga_cod_4></ga_cod_4>
+  </problema>
+</problemes>

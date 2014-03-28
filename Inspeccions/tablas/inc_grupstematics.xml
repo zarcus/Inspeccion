@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<grupstematics>
+  <gruptematic>
+    <gt_cod>Q01</gt_cod>
+    <gt_des>ESTAT CARRER/MANT. SENYALS</gt_des>
+  </gruptematic>
+    <gruptematic>
+        <gt_cod>Q02</gt_cod>
+        <gt_des>PARCS, JARDINS I PLATGES</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q03</gt_cod>
+        <gt_des>MOBILIARI URBÀ</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q04</gt_cod>
+        <gt_des>CIRCULACIÓ</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q07</gt_cod>
+        <gt_des>CAMPANYES MUNICIPALS</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q20</gt_cod>
+        <gt_des>MOBLES/TRASTOS VELLS</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q21</gt_cod>
+        <gt_des>NETEJA ESPAI PÚBLIC</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q22</gt_cod>
+        <gt_des>RECOLLIDA ESCOMBRARIES</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q23</gt_cod>
+        <gt_des>PUNTS RECOLLIDA SELECTIVA</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q24</gt_cod>
+        <gt_des>RECOLLIDA COMERCIAL</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q25</gt_cod>
+        <gt_des>PAPERERES</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q26</gt_cod>
+        <gt_des>PUNTS VERDS</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q27</gt_cod>
+        <gt_des>PUNTS VERDS MÒBILS</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q28</gt_cod>
+        <gt_des>MERCATS REC. ESCOMBRARIES</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q29</gt_cod>
+        <gt_des>PERSONAL I ALTRES NETEJA</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q30</gt_cod>
+        <gt_des>PINTADES I CARTELLS</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q40</gt_cod>
+        <gt_des>ENLLUMENAT, ESC. MEC. I TÚNE</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q48</gt_cod>
+        <gt_des>CAMPANYA CONTROL SOROLL</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q88</gt_cod>
+        <gt_des>AUTORITAT</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Q89</gt_cod>
+        <gt_des>RECOLLIDA RUNA</gt_des>
+    </gruptematic>
+    <gruptematic>
+        <gt_cod>Z00</gt_cod>
+        <gt_des>Tema</gt_des>
+    </gruptematic>
+</grupstematics>

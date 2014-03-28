@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gen_sql>
+  <sql>
+    <gen_sql_id>1</gen_sql_id>
+    <gen_sql_key>SEL_ValidaUsu</gen_sql_key>
+    <gen_sql_bd>*</gen_sql_bd>
+    <gen_sql_texto>SELECT IDINS, NOMINS,'' as PERFIL, '' as NOMPERFIL FROM  INSPECTORS WHERE NOMINS = @GEN_USU_Login AND PASINS = @GEN_USU_Password</gen_sql_texto>
+  </sql>
+
+</gen_sql>

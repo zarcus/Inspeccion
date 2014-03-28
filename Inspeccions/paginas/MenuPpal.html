@@ -47,6 +47,7 @@
                 </div>
             </div>
         </h3>
+
         <a href="#Home" data-icon="home" data-iconpos="notext" data-direction="reverse" data-theme="b"></a>
     </div>
     <div data-role="content">
@@ -54,35 +55,33 @@
         <table style="width:100%;">
             <tr>
                 <td colspan="2">
-                    <a href="" onclick="abrirPagina('pageNuevaIncidencia',true);" data-role="button" data-inline="false" data-theme="b">Nova Incidència</a>
+                    <a href="" onclick="abrirPagina('pageNuevaIncidencia',true);" data-role="button" data-inline="false" data-theme="b">Nova Incidència / Sanció</a>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <!-- rel="external" ??? -->
-                    <a href="" onclick="abrirPagina('pageConsultaIncidencias',true);" data-role="button" data-inline="false" data-theme="b">Mod.Incidències</a>
+                     <a href="" style="word-wrap: normal" onclick="abrirPagina('pageConsultaIncidencias',true);" data-role="button" data-inline="false" data-theme="b">Modificar Incidències</a>
                 </td>
                 <td>
-                    <!-- rel="external" ??? -->
-                    <a href="" onclick="abrirPagina('pageConsultaSanciones',true);" data-role="button" data-inline="false" data-theme="b">Mod.Sancions</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2">
-                    <a href="" onclick="abrirPagina('pageSelRecorregut',true);" data-role="button" data-inline="false" data-theme="b">Sel.Recorregut</a>
+                    <a href="" onclick="abrirPagina('pageConsultaSancions',true);" data-role="button" data-inline="false" data-theme="b">Modificar Sancions</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="2">
-                    <a href="" onclick="abrirPagina('pageConfig',true);" data-role="button" data-inline="false" data-theme="b">Configuració</a>
+                    <a href="" onclick="abrirPagina('pageSelRecorregut',true);" data-role="button" data-inline="false" data-theme="b">Seleccionar Recorregut</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <a href="#popupConfiguracio" data-rel="popup" data-position-to="window" data-role="button" data-inline="false" data-theme="b" data-transition="pop"><label>Configuració</label></a>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <a href="" onclick="abrirPagina('pageSincronizacion',true);" data-role="button" data-inline="false" data-theme="b" >Sincronització</a>
+                    <a href="#popupSincro" data-rel="popup" data-position-to="window" data-role="button" data-inline="false" data-theme="b" data-transition="pop"><label>Sincronització</label></a>
                 </td>
                 <td>
-                    <a href="" onclick="abrirPagina('pageSincronizacion',true);" data-role="button" data-inline="false" data-theme="b" >Act.Mestres</a>
+                    <a href="" onclick="abrirPagina('pageMestres',true);" data-role="button" data-inline="false" data-theme="b" >Actualitzar Mestres</a>
                 </td>
             </tr>
         </table>
@@ -94,15 +93,72 @@
         <table style="width:100%;"><tr><td style="background-color:LightGrey; width:100%;"><label   style="color:Gray; font-size:small; font-weight:normal; background-color:LightGrey;">&#169;2014 SETTING Consultoria en T.I., S.L.</label></td></tr></table>
     </div>
 
-    <div data-role="popup" id="popupRecorregut" data-theme="b" data-mini="false">
-        <div data-role="popup" id="popupSelRecorregut" data-theme="b" class="ui-corner-all">
-            <form  id="formSelRec" data-theme="b">
+    <div data-role="popup" id="popupMppal" data-theme="b" data-mini="false">
+        <div data-role="popup" id="popupSincro" data-theme="b" class="ui-corner-all">
+            <form  id="formSincro" data-theme="b">
                 <div style="padding:5px;text-align: center;" data-mini="false">
-                    <select name="selectRec" data-native-menu="true" id="selectRec" data-inline="true" data-mini="false" data-theme="c"></select>
+                    <table>
+                        <tr>
+                            <td colspan="2">
+                                <label>Segur que vol sincronitzar les dades??</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href='MenuPpal.html' rel="external" type="button" id="buttonTornar" data-inline="true" data-theme="b" data-mini="false" data-icon="arrow-l" data-position="center" >Tornar</a>
+                            </td>
+                            <td>
+                                <a href='' onclick="sincronizar();" rel="external" type="button" id="buttonAccedir" data-inline="true" data-theme="b" data-mini="false" data-icon="arrow-r" data-position="center" >Sincronitzar</a>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
             </form>
         </div>
     </div>
+
+    <div data-role="popup" id="popupMppal2" data-theme="b" data-mini="false">
+        <div data-role="popup" id="popupConfiguracio" data-theme="b" class="ui-corner-all">
+            <form  id="formConfiguracio" data-theme="b">
+                <div style="padding:5px;text-align: center;" data-mini="false">
+
+                            <table>
+                                <tr>
+                                    <td rowspan="2">
+                                        <img src="../images/candado70px.gif" width="90%"  alt="Logo">
+                                    </td>
+                                    <td>
+                                        <label style="color: darkred; font-style: bold">Àrea Restringida!</label>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td>
+                                        <label>Introdueixi la clau correcta per accedir-hi.</label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="txtPassword" data-mini="false">Clau accés:</label>
+                                    </td>
+                                    <td>
+                                        <input name="txtPassword" id="txtPassword" placeholder="Clau accés" value="Clau accés" type="password" required="required" data-inline="true" data-mini="false">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <a href='MenuPpal.html' rel="external" type="button" id="buttonTornar1" data-inline="true" data-theme="b" data-mini="false" data-icon="arrow-l" data-position="center" >Tornar</a>
+                                    </td>
+                                    <td style="text-align: right">
+                                        <a href='' onclick="entrarConfig();" rel="external" type="button" id="buttonAccedirConfig" data-inline="true" data-theme="b" data-mini="false" data-icon="arrow-r" data-position="center" >Accedir</a>
+                                    </td>
+                                </tr>
+                            </table>
+                </div>
+            </form>
+        </div>
+    </div>
+
 </div>
 
 <script type="text/javascript">
@@ -157,6 +213,13 @@
             cargaComboDesdeArray($('#selectITEM'), "seleccioni subtipus", cargaTablaEnArray("incNivel3", "item_" + $("#selectELEMENT").val()));
         });
 
+        cargaComboDesdeArray($('#selectRec'), "Recorreguts ", cargaTablaEnArray("recorreguts", "recorregut"));
+        $("#selectRec").bind( "change", function(event, ui) {
+            $('#labelRecorregut').text($('#selectRec option:selected').text());
+            $('#labelRecInformado').text($('#selectRec option:selected').text());
+        });
+
+
         //cargar los atributos según nivel 3 seleccionado
         $("#selectITEM").bind( "change", function(event, ui) {
             //cargar el listviewAtributs con los atributos de este item
@@ -201,6 +264,7 @@
         $('#divLocalizacion').bind('expand', function () {
             $('#divMensajeMapa').hide();  //de inicio que no ponga que no se ha podido cargar el mapa
         });
+
 //fin EVENTOS DE LA PAGINA NuevaIncidencia *************************************************************************************
 
 

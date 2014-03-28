@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<atributs>
+  <atribut>
+    <at_cod>0</at_cod>
+    <at_des>-</at_des>
+    <ga_cod>0</ga_cod>
+    <codimarcasac>0</codimarcasac>
+    <at_baja></at_baja>
+  </atribut>
+    <atribut>
+        <at_cod>16</at_cod>
+        <at_des>Sobre la calçada</at_des>
+        <ga_cod>3</ga_cod>
+        <codimarcasac>0</codimarcasac>
+        <at_baja></at_baja>
+    </atribut>
+    <atribut>
+        <at_cod>17</at_cod>
+        <at_des>Sobre la vorera</at_des>
+        <ga_cod>3</ga_cod>
+        <codimarcasac>0</codimarcasac>
+        <at_baja></at_baja>
+    </atribut>
+</atributs>

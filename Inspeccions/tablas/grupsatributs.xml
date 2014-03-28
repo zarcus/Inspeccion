@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<grupsatributs>
+  <grupatribut>
+    <ga_cod>0</ga_cod>
+    <ga_des>-</ga_des>
+    <ga_tip>T</ga_tip>
+    <ga_obl>S</ga_obl>
+    <ga_pre></ga_pre>
+    <ga_trasp_pda></ga_trasp_pda>
+  </grupatribut>
+    <grupatribut>
+        <ga_cod>1</ga_cod>
+        <ga_des>Empresa que recull</ga_des>
+        <ga_tip>C</ga_tip>
+        <ga_obl>S</ga_obl>
+        <ga_pre></ga_pre>
+        <ga_trasp_pda></ga_trasp_pda>
+    </grupatribut>
+</grupsatributs>

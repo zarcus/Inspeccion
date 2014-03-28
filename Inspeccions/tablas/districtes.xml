@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<districtes>
+  <districte>
+    <dis_cod>0</dis_cod>
+    <dis_des>-</dis_des>
+  </districte>
+    <districte>
+        <dis_cod>-1</dis_cod>
+        <dis_des>-</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>1</dis_cod>
+        <dis_des>Ciutat Vella</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>2</dis_cod>
+        <dis_des>Eixample</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>3</dis_cod>
+        <dis_des>Sants-Montjuic</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>4</dis_cod>
+        <dis_des>Les Corts</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>5</dis_cod>
+        <dis_des>Sarrià-Sant Gervasi</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>6</dis_cod>
+        <dis_des>Gràcia</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>7</dis_cod>
+        <dis_des>Horta-Guinardó</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>8</dis_cod>
+        <dis_des>Nou Barris</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>9</dis_cod>
+        <dis_des>Sant Andreu</dis_des>
+    </districte>
+    <districte>
+        <dis_cod>10</dis_cod>
+        <dis_des>Sant Martí</dis_des>
+    </districte>
+
+</districtes>

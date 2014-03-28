@@ -2,6 +2,7 @@ var pictureSource;
 var destinationType;
 var aGlobalCarrers = null;
 var aCarrers = null;
+var aRecorreguts = null;
 
 // -------- Al INICIAR -----------------------------------------------------------------------
 window.addEventListener('load', function () {
@@ -92,6 +93,7 @@ function limpiaVariables(sPag){
             posConsulta = '';
             mapConsulta = null;
             break;
+
 
     }
 }

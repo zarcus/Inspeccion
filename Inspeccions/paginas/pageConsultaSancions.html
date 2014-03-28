@@ -18,10 +18,10 @@
 </head>
 <body>
 <!--Pantalla de llista de comunicats a consultar  pageConsultaIncidencias-->
-<div data-role="page" id="pageConsultaIncidencias">
+<div data-role="page" id="pageConsultaSancions">
     <div data-role="header" data-theme="c">
         <a href="MenuPpal.html" data-icon="back" data-direction="reverse" data-iconpos="notext" data-theme="b"></a>
-        <h3>Consulta Incidències</h3>
+        <h3>Consulta Sancions</h3>
         <label id="labelMensajeCargandoConsulta" data-theme="d"
                style="font-size: small; font-weight: lighter; color: White"></label>
     </div>
@@ -39,7 +39,7 @@
                 <tr><td colspan="2" style="color: #d3d3d3; font-size: xx-small;"><label id="labelCOMUNICAT_COORDENADES"></label></td></tr>
             </table>-->
             <table>
-                <tr><td style="text-align:right; color:#970824; font-weight: bold; font-size: small">Incidència</td><td style="font-size: small"><label id="labelCOMUNICAT_ID"></label></td></tr>
+                <tr><td style="text-align:right; color:#970824; font-weight: bold; font-size: small">Sanció</td><td style="font-size: small"><label id="labelCOMUNICAT_ID"></label></td></tr>
                 <tr><td style="text-align:right; color:#970824; font-weight: bold; font-size: small">Carrer</td><td style="font-size: small"><label id="labelCOMUNICAT_CARRER"></label>,<label id="labelCOMUNICAT_NUM"></label></td></tr>
                 <tr><td style="text-align:right; color:#970824; font-weight: bold; font-size: small">Grup</td><td style="font-size: small"><label id="labelCOMUNICAT_GRUP"></label></td></tr>
                 <tr><td style="text-align:right; color:#970824; font-weight: bold; font-size: small">Tema</td><td style="font-size: small"><label id="labelCOMUNICAT_TEMA"></label></td></tr>
@@ -54,10 +54,10 @@
         <a href="#" id="buttonCerrarPanel" onclick="$('#panelDadesComunicat').panel('close')" data-mini="false" data-inline="false" data-role="button" data-theme="c" data-icon="arrow-l">tornar</a>
     </div>
     <div data-role="content" data-theme="a">
-        <div id="divListaIncidencias" style="margin-top:0; vertical-align:top;">
+        <div id="divListaSancions" style="margin-top:0; vertical-align:top;">
             <ul data-role="listview" data-divider-theme="a" data-inset="true">
                 <li data-role="list-divider" role="heading" id="liCabeceraComunicatsReportats">
-                    <table style="width: 100%;"><tr><td>Incidències</td><td style="text-align: right;"><a href="#" id="buttonMostrarEnPlano" onclick="estadoDelPlano()" data-mini="false" data-inline="true" data-role="button" data-theme="b" data-icon="grid">mostrar plànol</a></td></tr></table>
+                    <table style="width: 100%;"><tr><td>Sancions</td><td style="text-align: right;"><a href="#" id="buttonMostrarEnPlano" onclick="estadoDelPlano()" data-mini="false" data-inline="true" data-role="button" data-theme="b" data-icon="grid">mostrar plànol</a></td></tr></table>
                 </li>
                 <li data-theme="b">
                     <table style='height:10px; width:100%;'><tr>

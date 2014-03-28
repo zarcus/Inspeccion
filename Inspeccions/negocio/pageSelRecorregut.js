@@ -8,10 +8,10 @@ var sComentario = '';
 
 // -------- INICIALIZAR PÁGINA -----------------------------------------------------------
 function inicioPaginaSelRecorregut(){
-    //Cargar combo de NIVELES 1
+
     if($("#selectRec option").length < 1)
     {
-        cargaComboDesdeArray($('#selectRec'), "seleccioni recorregut", cargaTablaEnArray("recorreguts", "recorregut"));
+        cargaComboDesdeArray($('#selectRec'), "Recorreguts ", cargaTablaEnArray("recorreguts", "recorregut"));
     }
 
 }

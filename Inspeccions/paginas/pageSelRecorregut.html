@@ -33,36 +33,33 @@
 <div data-role="page" id="pageSelRecorregut">
 <div data-role="header" data-mini="false" data-theme="c" style="text-align: center;">
     <a href="MenuPpal.html" data-icon="back" data-direction="reverse" data-iconpos="notext" data-theme="b"></a>
-    <h3>Seleccionar Recorregut</h3>
+    <h3>
+        <table style="width:100%;">
+            <tr>
+                <td>Recorreguts</td>
+                <td style="text-align: right">
+                    <label id="labelRecorregut" style="font-size:x-small;"></label>
+                </td>
+            </tr>
+         </table>
+    </h3>
 </div>
-    <div data-role="content" data-mini="false" style="padding:2px 2px 2px 2px;">
-        <div data-theme="b" data-role="collapsible-set" style="background-color: Silver">
+
+    <div data-role="content" data-theme="c">
+        <div id="divListaIncidencias" style="margin-top:0; vertical-align:top;">
             <!--Recorreguts    -->
-            <div data-role="collapsible" data-mini="false" id="divRecorreguts"  data-collapsed="false">
+            <!--<div data-role="collapsible" data-mini="false" id="divRecorreguts"  data-collapsed="false">-->
                 <h3>
                     <table style="width:100%;">
                         <tr>
-                            <td>Recorreguts</td>
-                            <td style="text-align:right;">
-                                <label id="labelRecorregut" style="font-size:x-small;"></label>
-                            </td>
-                        </tr>
-                    </table>
-                </h3>
-                <div chacerfotolass="ui-bar-c ui-corner-all ui-shadow" style="padding:1em;">
-                    <table style="width: 100%;">
-                         <tr>
+                            <td>Seleccionar un recorregut: </td>
                             <td>
                                 <select name="selectRec" data-native-menu="true" id="selectRec" data-inline="true" data-mini="false" data-theme="c"></select>
                             </td>
                         </tr>
                     </table>
-                </div>
-            </div>
-
+                </h3>
         </div>
-
-
     </div>
 
     <!-- E N V I A R ------------------------------------------------------------------------------ -->
@@ -79,10 +76,9 @@
 <script type="text/javascript">
 
     $(document).bind('pageinit', function(event){
-        cargaComboDesdeArray($('#selectRec'), " ", cargaTablaEnArray("recorreguts", "recorregut"));
+        cargaComboDesdeArray($('#selectRec'), "Recorreguts ", cargaTablaEnArray("recorreguts", "recorregut"));
 
         $("#selectRec").bind( "change", function(event, ui) {
-            $('#labelRecInformado').text($('#selectRec option:selected').text());
             $('#labelRecorregut').text($('#selectRec option:selected').text());
         });
     });
